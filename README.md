@@ -148,13 +148,13 @@ and a player can only be in each section once.
 ### 1.5 DPS
 
 1.  <details>
-    <summary>18924 - NVS</summary>
+    <summary>25838 - NVS</summary>
 
     - Patch: 1.30.2
     - Version: 1.5.1
-    - [Replay](1.5/dps/18924-NVS-1.30.2-1.5.1.w3g?raw=true)
+    - [Replay](1.5/dps/25838-NVS-1.30.2-1.5.1.w3g?raw=true)
 
-    ![](1.5/dps/18924-NVS-1.30.2-1.5.1.jpg?raw=true)
+    ![](1.5/dps/25838-NVS-1.30.2-1.5.1.jpg?raw=true)
 
 2.  <details>
     <summary>18257 - Wolfilein</summary>
