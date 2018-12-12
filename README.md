@@ -151,7 +151,7 @@ and a player can only be in each section once.
     <summary>18924 - NVS</summary>
 
     - Patch: 1.30.2
-    - Version: 1.5.2
+    - Version: 1.5.1
     - [Replay](1.5/dps/18924-NVS-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/18924-NVS-1.30.2-1.5.1.jpg?raw=true)
