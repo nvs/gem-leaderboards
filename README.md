@@ -61,6 +61,15 @@ and a player can only be in each section once.
     </details>
 
 2.  <details>
+    <summary>38:18 - makaronilaama</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/time/38_18-makaronilaama-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/time/38_18-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
+
+3.  <details>
     <summary>38:48 - phyrme</summary>
 
     - Patch: 1.30.2
@@ -69,7 +78,7 @@ and a player can only be in each section once.
 
     ![](1.5/time/38_48-phyrme-1.30.2-1.5.1.jpg?raw=true)
 
-3.  <details>
+4.  <details>
     <summary>40:05 - Ltmeow</summary>
 
     - Patch: 1.30.2
@@ -77,16 +86,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/40_05-Ltmeow-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/40_05-Ltmeow-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>40:44 - makaronilaama</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/time/40_44-makaronilaama-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/time/40_44-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 5.  <details>
