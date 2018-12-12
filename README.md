@@ -43,9 +43,8 @@ and replays.  These are the best know times that have been verified.
 
 The current 1.5 leaderboards will close upon the release of 1.6.  The
 players with the top three times and DPS (aside from [NVS]) will be
-recognized (details pending).  Each section will show at most ten players
-(unless there are exceptions), and a player can only be in each section
-once.
+recognized (details pending).  Each section will show at most ten players,
+and a player can only be in each section once.
 
 [NVS]: https://github.com/nvs
 
