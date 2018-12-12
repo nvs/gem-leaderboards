@@ -221,7 +221,7 @@ and a player can only be in each section once.
     ![](1.5/dps/15579-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
 
 9.  <details>
-    <summary>15121 - Ludicrous *</summary>
+    <summary>15121 - Ludicrous</summary>
 
     - Patch: 1.30.2
     - Version: 1.5.1
@@ -240,12 +240,3 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/14525-MorweN-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/14525-MorweN-1.30.2-1.5.1.jpg?raw=true)
-
-11. <details>
-    <summary>14511 - kaidaeron</summary>
-
-    - Patch: 1.30.1
-    - Version: 1.5.1
-    - [Replay](1.5/dps/14511-kaidaeron-1.30.1-1.5.1.w3g?raw=true)
-
-    ![](1.5/dps/14511-kaidaeron-1.30.1-1.5.1.jpg?raw=true)
