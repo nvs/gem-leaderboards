@@ -68,6 +68,7 @@ and a player can only be in each section once.
     - [Replay](1.5/time/38_18-makaronilaama-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/38_18-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 3.  <details>
     <summary>38:48 - phyrme</summary>
@@ -116,6 +117,7 @@ and a player can only be in each section once.
     - [Replay](1.5/time/41_41-Sesamia-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/41_41-Sesamia-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 8.  <details>
     <summary>43:28 - knuts </summary>
@@ -125,6 +127,7 @@ and a player can only be in each section once.
     - [Replay](1.5/time/43_28-knuts-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/43_28-knuts-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 9.  <details>
     <summary>44:00 - rladbscjf</summary>
@@ -134,6 +137,7 @@ and a player can only be in each section once.
     - [Replay](1.5/time/44_00-rladbscjf-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/44_00-rladbscjf-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 10. <details>
     <summary>44:26 - thongus</summary>
@@ -143,6 +147,7 @@ and a player can only be in each section once.
     - [Replay](1.5/time/44_26-thongus-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/44_26-thongus-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 ### 1.5 DPS
 
@@ -154,6 +159,7 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/25838-NVS-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/25838-NVS-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 2.  <details>
     <summary>18257 - Wolfilein</summary>
@@ -163,6 +169,7 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/18257-Wolfilein-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/18257-Wolfilein-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 3.  <details>
     <summary>18147 - xiVoiDz</summary>
@@ -172,6 +179,7 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/18147-xiVoiDz-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/18147-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 4.  <details>
     <summary>17894 - phyrme</summary>
@@ -181,6 +189,7 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/17894-phyrme-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/17894-phyrme-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 5.  <details>
     <summary>16998 - bunnyjean</summary>
@@ -190,6 +199,7 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/16998-bunnyjean-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/16998-bunnyjean-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 6.  <details>
     <summary>16412 - Sesamia</summary>
@@ -199,6 +209,7 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/16412-Sesamia-1.30.1-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/16412-Sesamia-1.30.1-1.5.1.jpg?raw=true)
+    </details>
 
 7.  <details>
     <summary>16289 - albertusmaximus</summary>
@@ -208,6 +219,7 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/16289-albertusmaximus-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/16289-albertusmaximus-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 8.  <details>
     <summary>15579 - makaronilaama</summary>
@@ -217,6 +229,7 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/15579-makaronilaama-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/15579-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 9.  <details>
     <summary>15121 - Ludicrous</summary>
@@ -229,6 +242,7 @@ and a player can only be in each section once.
       verified.
 
     ![](1.5/dps/15121-Ludicrous-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 10. <details>
     <summary>14525 - MorweN</summary>
@@ -238,3 +252,4 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/14525-MorweN-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/14525-MorweN-1.30.2-1.5.1.jpg?raw=true)
+    </details>
