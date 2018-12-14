@@ -182,6 +182,16 @@ and a player can only be in each section once.
     </details>
 
 4.  <details>
+    <summary>18012 - V:RGO</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/dps/18012-V:RGO-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/dps/18012-V:RGO-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+5.  <details>
     <summary>17894 - phyrme</summary>
 
     - Patch: 1.30.2
@@ -191,7 +201,7 @@ and a player can only be in each section once.
     ![](1.5/dps/17894-phyrme-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>16998 - bunnyjean</summary>
 
     - Patch: 1.30.2
@@ -201,7 +211,7 @@ and a player can only be in each section once.
     ![](1.5/dps/16998-bunnyjean-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>16412 - Sesamia</summary>
 
     - Patch: 1.30.1
@@ -211,7 +221,7 @@ and a player can only be in each section once.
     ![](1.5/dps/16412-Sesamia-1.30.1-1.5.1.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>16289 - albertusmaximus</summary>
 
     - Patch: 1.30.2
@@ -221,7 +231,7 @@ and a player can only be in each section once.
     ![](1.5/dps/16289-albertusmaximus-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>15579 - makaronilaama</summary>
 
     - Patch: 1.30.2
@@ -231,7 +241,7 @@ and a player can only be in each section once.
     ![](1.5/dps/15579-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>15121 - Ludicrous</summary>
 
     - Patch: 1.30.2
@@ -242,14 +252,4 @@ and a player can only be in each section once.
       verified.
 
     ![](1.5/dps/15121-Ludicrous-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>14525 - MorweN</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/dps/14525-MorweN-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/dps/14525-MorweN-1.30.2-1.5.1.jpg?raw=true)
     </details>
