@@ -36,8 +36,28 @@ The leaderboard system, as well as DPS tracking, did not begin until the
 relase of Gem TD+ 1.5.  As such, there are many games without screenshots
 and replays.  These are the best know times that have been verified.
 
-- **Pre 1.4.0**: 39:52 - herr_beppo
-- **1.4.0-1.4.3**: 37:01 - wooey
+<details>
+<summary><strong>Pre 1.4.0</strong>: 39:51 - herr_beppo</summary>
+
+- Patch: ?
+- Version: Bryvx's Gem TD v3.1
+- Notes: The video says Gem TD v4.0.  However, there is no actual gameplay
+  difference between that unofficial version and the last official version
+  by Bryvx.
+- [Video](https://www.youtube.com/watch?v=Mydun82zEX8)
+
+![](other/39_51-herr_beppo.jpg?raw=true)
+</details>
+
+<details>
+<summary><strong>1.4.0-1.4.3</strong>: 36:52 - thongus</summary>
+
+- Patch: 1.28.5
+- Version: 1.4.0
+- [Replay](1.4/36_52-thongus-1.28.5-1.4.0.w3g?raw=true)
+
+![](1.4/36_52-thongus-1.28.5-1.4.0.jpg?raw=true)
+</details>
 
 ## 1.5 Leaderboards
 
