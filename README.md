@@ -140,7 +140,7 @@ and a player can only be in each section once.
     </details>
 
 8.  <details>
-    <summary>43:28 - knuts </summary>
+    <summary>43:28 - knuts</summary>
 
     - Patch: 1.30.2
     - Version: 1.5.1
