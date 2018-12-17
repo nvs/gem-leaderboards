@@ -150,6 +150,16 @@ and a player can only be in each section once.
     </details>
 
 9.  <details>
+    <summary>43:35 - sac42c</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/time/43_35-sac42c-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/time/43_35-sac42c-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>44:00 - rladbscjf</summary>
 
     - Patch: 1.30.2
@@ -157,16 +167,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/44_00-rladbscjf-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/44_00-rladbscjf-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>44:26 - thongus</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/time/44_26-thongus-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/time/44_26-thongus-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
