@@ -37,7 +37,7 @@ relase of Gem TD+ 1.5.  As such, there are many games without screenshots
 and replays.  These are the best know times that have been verified.
 
 <details>
-<summary><strong>Pre 1.4.0</strong>: 39:51 - herr_beppo</summary>
+<summary><strong>Pre 1.4.0</strong>: 39:52 - herr_beppo</summary>
 
 - Patch: ?
 - Version: Bryvx's Gem TD v3.1
@@ -46,7 +46,7 @@ and replays.  These are the best know times that have been verified.
   by Bryvx.
 - [Video](https://www.youtube.com/watch?v=Mydun82zEX8)
 
-![](other/39_51-herr_beppo.jpg?raw=true)
+![](other/39_52-herr_beppo.jpg?raw=true)
 </details>
 
 <details>
