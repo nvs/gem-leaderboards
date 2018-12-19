@@ -81,6 +81,16 @@ and a player can only be in each section once.
     </details>
 
 2.  <details>
+    <summary>38:08 - xiVoiDz</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/time/38_08-xiVoiDz-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/time/38_08-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>38:18 - makaronilaama</summary>
 
     - Patch: 1.30.2
@@ -90,7 +100,7 @@ and a player can only be in each section once.
     ![](1.5/time/38_18-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>38:48 - phyrme</summary>
 
     - Patch: 1.30.2
@@ -99,7 +109,7 @@ and a player can only be in each section once.
 
     ![](1.5/time/38_48-phyrme-1.30.2-1.5.1.jpg?raw=true)
 
-4.  <details>
+5.  <details>
     <summary>40:05 - Ltmeow</summary>
 
     - Patch: 1.30.2
@@ -109,7 +119,7 @@ and a player can only be in each section once.
     ![](1.5/time/40_05-Ltmeow-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>40:48 - FryDays</summary>
 
     - Patch: 1.30.2
@@ -119,7 +129,7 @@ and a player can only be in each section once.
     ![](1.5/time/40_48-FryDays-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>41:12 - Komott</summary>
 
     - Patch: 1.30.2
@@ -129,7 +139,7 @@ and a player can only be in each section once.
     ![](1.5/time/41_12-Komott-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>41:41 - Sesamia</summary>
 
     - Patch: 1.30.2
@@ -139,7 +149,7 @@ and a player can only be in each section once.
     ![](1.5/time/41_41-Sesamia-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>43:28 - knuts</summary>
 
     - Patch: 1.30.2
@@ -149,7 +159,7 @@ and a player can only be in each section once.
     ![](1.5/time/43_28-knuts-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>43:35 - sac42c</summary>
 
     - Patch: 1.30.2
@@ -157,16 +167,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/43_35-sac42c-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/43_35-sac42c-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>44:00 - rladbscjf</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/time/44_00-rladbscjf-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/time/44_00-rladbscjf-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
