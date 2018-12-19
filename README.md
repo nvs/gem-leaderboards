@@ -192,6 +192,16 @@ and a player can only be in each section once.
     </details>
 
 3.  <details>
+    <summary>19317 - xiVoiDz</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>18257 - Wolfilein</summary>
 
     - Patch: 1.30.2
@@ -199,16 +209,6 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/18257-Wolfilein-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/18257-Wolfilein-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>18147 - xiVoiDz</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/dps/18147-xiVoiDz-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/dps/18147-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 5.  <details>
