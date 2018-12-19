@@ -182,6 +182,16 @@ and a player can only be in each section once.
     </details>
 
 2.  <details>
+    <summary>21571 - Ludicrous</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/dps/21571-Ludicrous-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/dps/21571-Ludicrous-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>18257 - Wolfilein</summary>
 
     - Patch: 1.30.2
@@ -191,7 +201,7 @@ and a player can only be in each section once.
     ![](1.5/dps/18257-Wolfilein-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>18147 - xiVoiDz</summary>
 
     - Patch: 1.30.2
@@ -201,7 +211,7 @@ and a player can only be in each section once.
     ![](1.5/dps/18147-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>18012 - V:RGO</summary>
 
     - Patch: 1.30.2
@@ -211,7 +221,7 @@ and a player can only be in each section once.
     ![](1.5/dps/18012-V:RGO-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>17894 - phyrme</summary>
 
     - Patch: 1.30.2
@@ -221,7 +231,7 @@ and a player can only be in each section once.
     ![](1.5/dps/17894-phyrme-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>17579 - kaidaeron</summary>
 
     - Patch: 1.30.2
@@ -231,7 +241,7 @@ and a player can only be in each section once.
     ![](1.5/dps/17579-kaidaeron-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>16998 - bunnyjean</summary>
 
     - Patch: 1.30.2
@@ -241,7 +251,7 @@ and a player can only be in each section once.
     ![](1.5/dps/16998-bunnyjean-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>16453 - saerommi</summary>
 
     - Patch: 1.30.2
@@ -252,7 +262,7 @@ and a player can only be in each section once.
     ![](1.5/dps/16453-saerommi-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>16417 - makaronilaama</summary>
 
     - Patch: 1.30.2
@@ -260,14 +270,4 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/16417-makaronilaama-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/16417-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>16412 - Sesamia</summary>
-
-    - Patch: 1.30.1
-    - Version: 1.5.1
-    - [Replay](1.5/dps/16412-Sesamia-1.30.1-1.5.1.w3g?raw=true)
-
-    ![](1.5/dps/16412-Sesamia-1.30.1-1.5.1.jpg?raw=true)
     </details>
