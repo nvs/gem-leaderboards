@@ -81,13 +81,13 @@ and a player can only be in each section once.
     </details>
 
 2.  <details>
-    <summary>38:08 - xiVoiDz</summary>
+    <summary>38:06 - xiVoiDz</summary>
 
     - Patch: 1.30.2
     - Version: 1.5.1
-    - [Replay](1.5/time/38_08-xiVoiDz-1.30.2-1.5.1.w3g?raw=true)
+    - [Replay](1.5/time/38_06-xiVoiDz-1.30.2-1.5.1.w3g?raw=true)
 
-    ![](1.5/time/38_08-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
+    ![](1.5/time/38_06-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 3.  <details>
