@@ -160,13 +160,13 @@ and a player can only be in each section once.
     </details>
 
 10. <details>
-    <summary>43:28 - knuts</summary>
+    <summary>42:26 - MorweN</summary>
 
     - Patch: 1.30.2
     - Version: 1.5.1
-    - [Replay](1.5/time/43_28-knuts-1.30.2-1.5.1.w3g?raw=true)
+    - [Replay](1.5/time/42_26-MorweN-1.30.2-1.5.1.w3g?raw=true)
 
-    ![](1.5/time/43_28-knuts-1.30.2-1.5.1.jpg?raw=true)
+    ![](1.5/time/42_26-MorweN-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
