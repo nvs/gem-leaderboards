@@ -246,9 +246,9 @@ and a player can only be in each section once.
 
     - Patch: 1.30.2
     - Version: 1.5.1
-    - [Replay](1.5/dps/17362-albertusmaximums-1.30.2-1.5.1.w3g?raw=true)
+    - [Replay](1.5/dps/17362-albertusmaximus-1.30.2-1.5.1.w3g?raw=true)
 
-    ![](1.5/dps/17362-albertusmaximums-1.30.2-1.5.1.jpg?raw=true)
+    ![](1.5/dps/17362-albertusmaximus-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 9.  <details>
