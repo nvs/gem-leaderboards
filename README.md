@@ -246,7 +246,9 @@ and a player can only be in each section once.
 
     - Patch: 1.30.2
     - Version: 1.5.1
-    - [Replay](1.5/dps/17362-albertusmaximus-1.30.2-1.5.1.w3g?raw=true)
+    - [Replay](1.5/dps/19773-Wolfilein-1.30.2-1.5.1.w3g?raw=true)
+    - Notes: The replay is the same as `19773 - Wolfilein` game as both
+      players were present.
 
     ![](1.5/dps/17362-albertusmaximus-1.30.2-1.5.1.jpg?raw=true)
     </details>
