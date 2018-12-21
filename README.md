@@ -242,6 +242,16 @@ and a player can only be in each section once.
     </details>
 
 8.  <details>
+    <summary>17362 - albertusmaximus</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/dps/17362-albertusmaximums-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/dps/17362-albertusmaximums-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>16998 - bunnyjean</summary>
 
     - Patch: 1.30.2
@@ -251,7 +261,7 @@ and a player can only be in each section once.
     ![](1.5/dps/16998-bunnyjean-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>16453 - saerommi</summary>
 
     - Patch: 1.30.2
@@ -260,14 +270,4 @@ and a player can only be in each section once.
     - Notes: Exception made due to replay requirement being fairly new.
 
     ![](1.5/dps/16453-saerommi-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>16417 - makaronilaama</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/dps/16417-makaronilaama-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/dps/16417-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
     </details>
