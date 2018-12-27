@@ -91,6 +91,16 @@ and a player can only be in each section once.
     </details>
 
 3.  <details>
+    <summary>38:04 - thongus</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/time/38_04-thongus-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/time/38_04-thongus-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>38:06 - xiVoiDz</summary>
 
     - Patch: 1.30.2
@@ -100,7 +110,7 @@ and a player can only be in each section once.
     ![](1.5/time/38_06-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>38:18 - makaronilaama</summary>
 
     - Patch: 1.30.2
@@ -110,7 +120,7 @@ and a player can only be in each section once.
     ![](1.5/time/38_18-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>38:48 - phyrme</summary>
 
     - Patch: 1.30.2
@@ -119,7 +129,7 @@ and a player can only be in each section once.
 
     ![](1.5/time/38_48-phyrme-1.30.2-1.5.1.jpg?raw=true)
 
-6.  <details>
+7.  <details>
     <summary>39:08 - Arsenic</summary>
 
     - Patch: 1.30.2
@@ -129,7 +139,7 @@ and a player can only be in each section once.
     ![](1.5/time/39_08-Arsenic-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>40:05 - Ltmeow</summary>
 
     - Patch: 1.30.2
@@ -139,7 +149,7 @@ and a player can only be in each section once.
     ![](1.5/time/40_05-Ltmeow-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>40:35 - sac42c</summary>
 
     - Patch: 1.30.2
@@ -149,7 +159,7 @@ and a player can only be in each section once.
     ![](1.5/time/40_35-sac42c-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>40:48 - FryDays</summary>
 
     - Patch: 1.30.2
@@ -157,16 +167,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/40_48-FryDays-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/40_48-FryDays-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>41:12 - Komott</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/time/41_12-Komott-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/time/41_12-Komott-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
@@ -202,6 +202,17 @@ and a player can only be in each section once.
     </details>
 
 4.  <details>
+    <summary>19562 - thongus</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/time/38_04-thongus-1.30.2-1.5.1.w3g?raw=true)
+    - Notes: This is the same game as `38:04 - thongus`.
+
+    ![](1.5/time/38_04-thongus-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+5.  <details>
     <summary>19317 - xiVoiDz</summary>
 
     - Patch: 1.30.2
@@ -211,7 +222,7 @@ and a player can only be in each section once.
     ![](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>18012 - V:RGO</summary>
 
     - Patch: 1.30.2
@@ -221,7 +232,7 @@ and a player can only be in each section once.
     ![](1.5/dps/18012-V:RGO-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>17894 - phyrme</summary>
 
     - Patch: 1.30.2
@@ -231,7 +242,7 @@ and a player can only be in each section once.
     ![](1.5/dps/17894-phyrme-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>17579 - kaidaeron</summary>
 
     - Patch: 1.30.2
@@ -241,7 +252,7 @@ and a player can only be in each section once.
     ![](1.5/dps/17579-kaidaeron-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>17362 - albertusmaximus</summary>
 
     - Patch: 1.30.2
@@ -253,7 +264,7 @@ and a player can only be in each section once.
     ![](1.5/dps/17362-albertusmaximus-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>16998 - bunnyjean</summary>
 
     - Patch: 1.30.2
@@ -261,15 +272,4 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/16998-bunnyjean-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/16998-bunnyjean-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>16453 - saerommi</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - Replay: N/A
-    - Notes: Exception made due to replay requirement being fairly new.
-
-    ![](1.5/dps/16453-saerommi-1.30.2-1.5.1.jpg?raw=true)
     </details>
