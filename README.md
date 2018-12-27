@@ -71,6 +71,16 @@ and a player can only be in each section once.
 ### 1.5 Times
 
 1.  <details>
+    <summary>35:07 - NVS</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/time/35_07-NVS-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/time/35_07-NVS-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>37:16 - knuts</summary>
 
     - Patch: 1.30.2
@@ -78,16 +88,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/37_16-knuts-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/37_16-knuts-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>37:38 - NVS</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/time/37_38-NVS-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/time/37_38-NVS-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 3.  <details>
