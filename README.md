@@ -30,6 +30,13 @@ if they beat the best known time or DPS.
 
 [Discord]: https://discord.gg/PxNNp77
 
+### Replays
+
+Upon leaving a game the option to save a replay should be available.  If it
+is not, or you forget, check for `LastReplay.w3g`.  Do note that this will
+be overwritten upon starting your next game.  Also consider the game option
+to automatically save replays for every game you play.
+
 ## Pre 1.5
 
 The leaderboard system, as well as DPS tracking, did not begin until the
