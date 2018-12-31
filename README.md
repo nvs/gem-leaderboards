@@ -157,6 +157,16 @@ and a player can only be in each section once.
     </details>
 
 9.  <details>
+    <summary>40:17 - Gemking</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/time/40_17-Gemking-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/time/40_17-Gemking-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>40:35 - sac42c</summary>
 
     - Patch: 1.30.2
@@ -164,16 +174,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/40_35-sac42c-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/40_35-sac42c-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>40:48 - FryDays</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/time/40_48-FryDays-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/time/40_48-FryDays-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
