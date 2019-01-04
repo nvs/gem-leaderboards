@@ -128,6 +128,16 @@ and a player can only be in each section once.
     </details>
 
 6.  <details>
+    <summary>38:02 - Gemking</summary>
+
+    - Patch: 1.30.2
+    - Version: 1.5.1
+    - [Replay](1.5/time/38_02-Gemking-1.30.2-1.5.1.w3g?raw=true)
+
+    ![](1.5/time/38_02-Gemking-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>38:04 - thongus</summary>
 
     - Patch: 1.30.2
@@ -137,7 +147,7 @@ and a player can only be in each section once.
     ![](1.5/time/38_04-thongus-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>38:06 - xiVoiDz</summary>
 
     - Patch: 1.30.2
@@ -147,7 +157,7 @@ and a player can only be in each section once.
     ![](1.5/time/38_06-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>38:48 - phyrme</summary>
 
     - Patch: 1.30.2
@@ -156,7 +166,7 @@ and a player can only be in each section once.
 
     ![](1.5/time/38_48-phyrme-1.30.2-1.5.1.jpg?raw=true)
 
-9.  <details>
+10. <details>
     <summary>39:08 - Arsenic</summary>
 
     - Patch: 1.30.2
@@ -164,16 +174,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/39_08-Arsenic-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/39_08-Arsenic-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>40:05 - Ltmeow</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/time/40_05-Ltmeow-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/time/40_05-Ltmeow-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
