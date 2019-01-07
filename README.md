@@ -240,13 +240,13 @@ and a player can only be in each section once.
     </details>
 
 7.  <details>
-    <summary>18459 - V:RGO</summary>
+    <summary>18784 - V:RGO</summary>
 
     - Patch: 1.30.3
     - Version: 1.5.1
-    - [Replay](1.5/dps/18459-V:RGO-1.30.3-1.5.1.w3g?raw=true)
+    - [Replay](1.5/dps/18784-V:RGO-1.30.3-1.5.1.w3g?raw=true)
 
-    ![](1.5/dps/18459-V:RGO-1.30.3-1.5.1.jpg?raw=true)
+    ![](1.5/dps/18784-V:RGO-1.30.3-1.5.1.jpg?raw=true)
     </details>
 
 8.  <details>
