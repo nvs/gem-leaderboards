@@ -4,6 +4,7 @@
 
 - [Overview](#overview)
 - [How to Submit](#how-to-submit)
+- [How to View](#how-to-view)
 - [Pre 1.5](#pre-15)
 - [1.5 Leaderboards](#15-leaderboards)
 
@@ -36,6 +37,21 @@ Upon leaving a game the option to save a replay should be available.  If it
 is not, or you forget, check for `LastReplay.w3g`.  Do note that this will
 be overwritten upon starting your next game.  Also consider the game option
 to automatically save replays for every game you play.
+
+## How to View
+
+A replay is tied to a specific Warcraft III patch.  In order to view that
+replay one must have access to an installation of Warcraft III patched to
+that same version.  Once that is accomplished, it is as simple as selecting
+the replay and viewing it.
+
+### Zoom
+
+If viewing a replay and the zoom seems to be stuck at a value that is either
+too close or too far, you can press `Insert` or `Delete` briefly to force
+the zoom to return to the Warcraft III default of `1650`.  Some players
+utilize this behavior and do not explicitly `-zoom` back out.  In order to
+watch their replays you need to do the same.
 
 ## Pre 1.5
 
