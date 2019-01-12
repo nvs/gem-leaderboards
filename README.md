@@ -288,11 +288,11 @@ and a player can only be in each section once.
     </details>
 
 10. <details>
-    <summary>17743 - MorweN</summary>
+    <summary>17764 - MorweN</summary>
 
     - Patch: 1.30.2
     - Version: 1.5.1
-    - [Replay](1.5/dps/17743-MorweN-1.30.3-1.5.1.w3g?raw=true)
+    - [Replay](1.5/dps/17764-MorweN-1.30.3-1.5.1.w3g?raw=true)
 
-    ![](1.5/dps/17743-MorweN-1.30.3-1.5.1.jpg?raw=true)
+    ![](1.5/dps/17764-MorweN-1.30.3-1.5.1.jpg?raw=true)
     </details>
