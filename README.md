@@ -191,6 +191,7 @@ and a player can only be in each section once.
     - [Replay](1.5/time/38_48-phyrme-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/38_48-phyrme-1.30.2-1.5.1.jpg?raw=true)
+    </details>
 
 ### 1.5 DPS
 
