@@ -134,13 +134,13 @@ and a player can only be in each section once.
     </details>
 
 5.  <details>
-    <summary>37:17 - sac42c</summary>
+    <summary>37:16 - sac42c</summary>
 
-    - Patch: 1.30.2
+    - Patch: 1.30.3
     - Version: 1.5.1
-    - [Replay](1.5/time/37_17-sac42c-1.30.2-1.5.1.w3g?raw=true)
+    - [Replay](1.5/time/37_16-sac42c-1.30.3-1.5.1.w3g?raw=true)
 
-    ![](1.5/time/37_17-sac42c-1.30.2-1.5.1.jpg?raw=true)
+    ![](1.5/time/37_16-sac42c-1.30.3-1.5.1.jpg?raw=true)
     </details>
 
 6.  <details>
