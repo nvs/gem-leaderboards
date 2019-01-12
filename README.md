@@ -164,6 +164,16 @@ and a player can only be in each section once.
     </details>
 
 8.  <details>
+    <summary>38:05 - MorweN</summary>
+
+    - Patch: 1.30.3
+    - Version: 1.5.1
+    - [Replay](1.5/time/38_05-MorweN-1.30.3-1.5.1.w3g?raw=true)
+
+    ![](1.5/time/38_05-MorweN-1.30.3-1.5.1.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>38:06 - xiVoiDz</summary>
 
     - Patch: 1.30.2
@@ -173,7 +183,7 @@ and a player can only be in each section once.
     ![](1.5/time/38_06-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>38:48 - phyrme</summary>
 
     - Patch: 1.30.2
@@ -181,16 +191,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/38_48-phyrme-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/38_48-phyrme-1.30.2-1.5.1.jpg?raw=true)
-
-10. <details>
-    <summary>39:08 - Arsenic</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/time/39_08-Arsenic-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/time/39_08-Arsenic-1.30.2-1.5.1.jpg?raw=true)
-    </details>
 
 ### 1.5 DPS
 
