@@ -94,13 +94,13 @@ and a player can only be in each section once.
 ### 1.5 Times
 
 1.  <details>
-    <summary>35:07 - NVS</summary>
+    <summary>34:15 - NVS</summary>
 
-    - Patch: 1.30.2
+    - Patch: 1.30.3
     - Version: 1.5.1
-    - [Replay](1.5/time/35_07-NVS-1.30.2-1.5.1.w3g?raw=true)
+    - [Replay](1.5/time/34_15-NVS-1.30.3-1.5.1.w3g?raw=true)
 
-    ![](1.5/time/35_07-NVS-1.30.2-1.5.1.jpg?raw=true)
+    ![](1.5/time/34_15-NVS-1.30.3-1.5.1.jpg?raw=true)
     </details>
 
 2.  <details>
