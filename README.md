@@ -89,6 +89,9 @@ players with the top three times and DPS (aside from [NVS]) will be
 recognized (details pending).  Each section will show at most ten players,
 and a player can only be in each section once.
 
+**Note: As of 2019-01-12, only Gem TD+ 1.5.2 or higher is eligible for the
+1.5 Leaderboards.**
+
 [NVS]: https://github.com/nvs
 
 ### 1.5 Times
