@@ -15,6 +15,11 @@ Damage Test kills.  If you have a great game, make sure to share it with
 others!  Encourage players you encounter to do the same.  And, yes, you can
 play offline; just provide the needed information.
 
+Do realize that this is not an exhaustive list of all the best games.  Only
+those reported can be included, and as the competition grows steeper many do
+not make the cut.  However, this repository does accurately reflect the
+state of the leaderboards at a given moment in time.
+
 [Gem TD+]: https://github.com/nvs/gem
 
 ## How to Submit
