@@ -285,6 +285,16 @@ and a player can only be in each section once.
     </details>
 
 9.  <details>
+    <summary>17951 - albertusmaximus</summary>
+
+    - Patch: 1.30.4
+    - Version: 1.5.2
+    - [Replay](1.5/dps/17951-albertusmaximus-1.30.4-1.5.2.w3g?raw=true)
+
+    ![](1.5/dps/17951-albertusmaximus-1.30.4-1.5.2.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>17894 - phyrme</summary>
 
     - Patch: 1.30.2
@@ -292,15 +302,4 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/17894-phyrme-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/17894-phyrme-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>17789 - sac42c</summary>
-
-    - Patch: 1.30.3
-    - Version: 1.5.1
-    - [Replay](1.5/time/37_16-sac42c-1.30.3-1.5.1.w3g?raw=true)
-    - Notes: This is the same game as `37:16 - sac42c`.
-
-    ![](1.5/time/37_16-sac42c-1.30.3-1.5.1.jpg?raw=true)
     </details>
