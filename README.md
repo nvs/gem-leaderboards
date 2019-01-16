@@ -112,6 +112,16 @@ and a player can only be in each section once.
     </details>
 
 2.  <details>
+    <summary>35:52 - xiVoiDz</summary>
+
+    - Patch: 1.30.4
+    - Version: 1.5.2
+    - [Replay](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.w3g?raw=true)
+
+    ![](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>36:04 - Ltmeow</summary>
 
     - Patch: 1.30.4
@@ -121,7 +131,7 @@ and a player can only be in each section once.
     ![](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>36:09 - makaronilaama</summary>
 
     - Patch: 1.30.2
@@ -129,16 +139,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/36_09-makaronilaama-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/36_09-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>36:47 - xiVoiDz</summary>
-
-    - Patch: 1.30.3
-    - Version: 1.5.2
-    - [Replay](1.5/time/36_47-xiVoiDz-1.30.3-1.5.2.w3g?raw=true)
-
-    ![](1.5/time/36_47-xiVoiDz-1.30.3-1.5.2.jpg?raw=true)
     </details>
 
 5.  <details>
