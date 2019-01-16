@@ -143,16 +143,6 @@ and a player can only be in each section once.
     </details>
 
 5.  <details>
-    <summary>36:09 - makaronilaama</summary>
-
-    - Patch: 1.30.2
-    - Version: 1.5.1
-    - [Replay](1.5/time/36_09-makaronilaama-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/time/36_09-makaronilaama-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-6.  <details>
     <summary>36:19 - Gemking</summary>
 
     - Patch: 1.30.4
@@ -162,7 +152,7 @@ and a player can only be in each section once.
     ![](1.5/time/36_19-Gemking-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
-7.  <details>
+6.  <details>
     <summary>36:53 - V:RGO</summary>
 
     - Patch: 1.30.2
@@ -172,7 +162,7 @@ and a player can only be in each section once.
     ![](1.5/time/36_53-V:RGO-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-8.  <details>
+7.  <details>
     <summary>37:16 - knuts</summary>
 
     - Patch: 1.30.2
@@ -182,7 +172,7 @@ and a player can only be in each section once.
     ![](1.5/time/37_16-knuts-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+8.  <details>
     <summary>37:16 - sac42c</summary>
 
     - Patch: 1.30.3
@@ -192,7 +182,7 @@ and a player can only be in each section once.
     ![](1.5/time/37_16-sac42c-1.30.3-1.5.1.jpg?raw=true)
     </details>
 
-10. <details>
+9.  <details>
     <summary>38:04 - thongus</summary>
 
     - Patch: 1.30.2
@@ -200,6 +190,16 @@ and a player can only be in each section once.
     - [Replay](1.5/time/38_04-thongus-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/38_04-thongus-1.30.2-1.5.1.jpg?raw=true)
+    </details>
+
+10. <details>
+    <summary>38:05 - MorweN</summary>
+
+    - Patch: 1.30.3
+    - Version: 1.5.1
+    - [Replay](1.5/time/38_05-MorweN-1.30.3-1.5.1.w3g?raw=true)
+
+    ![](1.5/time/38_05-MorweN-1.30.3-1.5.1.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
