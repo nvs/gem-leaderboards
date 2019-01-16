@@ -100,7 +100,7 @@ and a player can only be in each section once.
 
 [NVS]: https://github.com/nvs
 
-### 1.5 Times
+### 1.5 Time
 
 1.  <details>
     <summary>34:15 - NVS</summary>
