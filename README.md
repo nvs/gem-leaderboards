@@ -32,7 +32,8 @@ state of the leaderboards at a given moment in time.
 4. Join the leaderboards, then try to make sure your name stays there!
 
 Results for older Gem TD+ versions are accepted and encouraged, but **only**
-if they beat the best known time or DPS.
+if they beat the best known time or DPS.  Also, testing version are
+**never** eligible for the leaderboards.
 
 [Discord]: https://discord.gg/PxNNp77
 
