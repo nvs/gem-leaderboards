@@ -10,10 +10,9 @@
 
 ## Overview
 
-These are the leaderboards for [Gem TD+].  Included here are the best known
-Damage Test kills.  If you have a great game, make sure to share it with
-others!  Encourage players you encounter to do the same.  And, yes, you can
-play offline; just provide the needed information.
+These are the leaderboards for [Gem TD+].  If you have a great game, make
+sure to share it with others!  Encourage players you encounter to do the
+same.  And, yes, you can play offline; just provide the needed information.
 
 Do realize that this is not an exhaustive list of all the best games.  Only
 those reported can be included, and as the competition grows steeper many do
@@ -25,61 +24,83 @@ state of the leaderboards at a given moment in time.
 ## How to Submit
 
 1. Join the offical Gem TD+ [Discord].
-2. Provide a screenshot **and** replay in the `#submitted-games` channel.  A
-   game will not be verified without a replay. *Tip: Just drag them into the
-   channel!*
-3. See if further information is needed for verification.
-4. Join the leaderboards, then try to make sure your name stays there!
+2. Ensure you are playing on an eligible version of the map.  Check the
+   leaderboard in question for details of which version you should be
+   playing.  Typically, this will be the latest release.
+3. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
+   `#submitted-games` channel.  A game will not be verified without a
+   replay. *Tip: Just drag them into the channel!*
+4. See if further information is needed for verification.
+5. Join the leaderboards, then try to make sure your name stays there!
 
-Results for older Gem TD+ versions are accepted and encouraged, but **only**
-if they beat the best known time or DPS.  Also, testing versions are
-**never** eligible for the leaderboards.
+*Note: Testing versions are **never** eligible for the leaderboards.*
 
 [Discord]: https://discord.gg/PxNNp77
 
-### Replays
+### Screenshot
+
+Before leaving the game take a screenshot.  If you forget, you can take one
+from within the replay.  You can use whatever method you prefer, but using
+the `Print Screen` key to have Warcraft III create the screenshot is the
+most common.
+
+Bue sure that both your maze and the open board are in your screenshot.
+Your player name, the time of finish, and the game identifier must be
+visible.  The identifier is used to make sure a screenshot pairs with a
+replay.
+
+### Replay
 
 Upon leaving a game the option to save a replay should be available.  If it
 is not, or you forget, check for `LastReplay.w3g`.  Do note that this will
-be overwritten upon starting your next game.  Also consider the game option
+be overwritten upon playing your next game.  Also consider the game option
 to automatically save replays for every game you play.
 
 ## How to View
 
-A replay is tied to a specific Warcraft III patch.  In order to view that
-replay one must have access to an installation of Warcraft III patched to
-that same version.  Once that is accomplished, it is as simple as selecting
-the replay and viewing it.
+A replay is tied to a specific version or versions of Warcraft III.  This
+can either be a single patch or a range of patches.  In order to view that
+replay, one must have access to an installation of Warcraft III that is
+patched accordingly.
 
 ### Zoom
 
-If viewing a replay and the zoom seems to be stuck at a value that is either
-too close or too far, you can press `Insert` or `Delete` briefly to force
-the zoom to return to the Warcraft III default of `1650`.  Some players
-utilize this behavior and do not explicitly `-zoom` back out.  In order to
-watch their replays you need to do the same.
+Starting in Gem TD+ 1.5.3, the camera zoom used when viewing a replay
+defaults to `2500`.  In older versions this was not the case, and the camera
+would change due to the use of the `-zoom` command.  If the camera in one of
+these older versions seems to be stuck, or you would prefer to return the
+camera to the default Warcraft III zoom of `1650`, press `Insert` or
+`Delete` briefly.
+
+### Map Location
+
+The location of the map used when playing the game is recorded into the
+replay.  For most players, this will a file be the following folder:
+`Maps/Downloads`.  However, it could differ.  In such situations it may be
+necessary to place a copy of the map into another location to view a replay.
 
 ## Pre 1.5
 
 The leaderboard system, as well as DPS tracking, did not begin until the
-relase of Gem TD+ 1.5.  As such, there are many games without screenshots
+release of Gem TD+ 1.5.  As such, there are many games without screenshots
 and replays.  These are the best know times that have been verified.
 
 <details>
-<summary><strong>Pre 1.4.0</strong>: 39:52 - herr_beppo</summary>
+<summary><strong>Pre 1.4</strong>: 39:52 - herr_beppo</summary>
 
-- Patch: ?
-- Version: Bryvx's Gem TD v3.1
-- Notes: The video says Gem TD v4.0.  However, there is no actual gameplay
+- Patch: Unknown.  Most likely 1.26.
+- Version: Bryvx's Gem TD 3.1
+- Notes: The video says Gem TD 4.0.  However, there is no actual gameplay
   difference between that unofficial version and the last official version
-  by Bryvx.
+  by Bryvx.  Until Gem TD+ 1.4.0, the gameplay and balance between the
+  original Gem TD and that of Gem TD Plus was essentially the same.
 - [Video](https://www.youtube.com/watch?v=Mydun82zEX8)
 
 ![](other/39_52-herr_beppo.jpg?raw=true)
 </details>
 
 <details>
-<summary><strong>1.4.0-1.4.3</strong>: 36:52 - thongus</summary>
+<summary><strong>1.4</strong>: 36:52 - thongus</summary>
 
 - Patch: 1.28.5
 - Version: 1.4.0
@@ -95,7 +116,7 @@ players with the top three times and DPS (aside from [NVS]) will be
 recognized (details pending).  Each section will show at most ten players,
 and a player can only be in each section once.
 
-**Note: As of 2019-01-12, only Gem TD+ 1.5.2 or higher is eligible for the
+**Note: As of 2019-01-20, only Gem TD+ 1.5.3 or higher is eligible for the
 1.5 Leaderboards.**
 
 [NVS]: https://github.com/nvs
