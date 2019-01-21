@@ -159,6 +159,7 @@ and a player can only be in each section once.
     - Patch: 1.30.4
     - Version: 1.5.2
     - [Replay](1.5/time/35_58-sac42c-1.30.4-1.5.2.w3g?raw=true)
+    - Notes: Map is located at `Maps/FrozenThrone/Community`.
 
     ![](1.5/time/35_58-sac42c-1.30.4-1.5.2.jpg?raw=true)
     </details>
