@@ -83,7 +83,8 @@ necessary to place a copy of the map into another location to view a replay.
 
 The leaderboard system, as well as DPS tracking, did not begin until the
 release of Gem TD+ 1.5.  As such, there are many games without screenshots
-and replays.  These are the best know times that have been verified.
+and replays.  These are the best known **Damage Test** kills that have been
+verified.
 
 <details>
 <summary><strong>Pre 1.4</strong>: 39:52 - herr_beppo</summary>
@@ -112,7 +113,7 @@ and replays.  These are the best know times that have been verified.
 ## 1.5 Leaderboards
 
 The current 1.5 leaderboards will close upon the release of 1.6.  The
-players with the top three times and DPS (aside from [NVS]) will be
+players with the top three **Damage Test** kills (aside from [NVS]) will be
 recognized (details pending).  Each section will show at most ten players,
 and a player can only be in each section once.
 
