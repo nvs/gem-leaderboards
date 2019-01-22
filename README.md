@@ -24,18 +24,17 @@ state of the leaderboards at a given moment in time.
 ## How to Submit
 
 1. Join the offical Gem TD+ [Discord].
-2. Ensure you are playing on an eligible version of the map.  Check the
-   leaderboard in question for details of which version you should be
-   playing.  Typically, this will be the latest release.
+2. Ensure you are playing the [latest version] of the map.  Games played on
+   older versions are not accepted.  *Note: Testing versions are **never**
+   eligible for the leaderboards.*
 3. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
    `#submitted-games` channel.  A game will not be verified without a
    replay. *Tip: Just drag them into the channel!*
 4. See if further information is needed for verification.
 5. Join the leaderboards, then try to make sure your name stays there!
 
-*Note: Testing versions are **never** eligible for the leaderboards.*
-
 [Discord]: https://discord.gg/PxNNp77
+[latest version]: https://github.com/nvs/gem/releases/latest
 
 ### Screenshot
 
@@ -115,9 +114,6 @@ The current 1.5 leaderboards will close upon the release of 1.6.  The
 players with the top three **Damage Test** kills (aside from [NVS]) will be
 recognized (details pending).  Each section will show at most ten players,
 and a player can only be in each section once.
-
-**Note: As of 2019-01-20, only Gem TD+ 1.5.3 or higher is eligible for the
-1.5 Leaderboards.**
 
 [NVS]: https://github.com/nvs
 
