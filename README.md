@@ -81,10 +81,9 @@ necessary to place a copy of the map into another location to view a replay.
 
 ## Pre 1.5
 
-The leaderboard system, as well as DPS tracking, did not begin until the
-release of Gem TD+ 1.5.  As such, there are many games without screenshots
-and replays.  These are the best known **Damage Test** kills that have been
-verified.
+The leaderboard system did not begin until the release of Gem TD+ 1.5.  As
+such, there are many games without screenshots and replays.  These are the
+best known **Damage Test** kills that have been verified.
 
 <details>
 <summary><strong>Pre 1.4</strong>: 39:52 - herr_beppo</summary>
