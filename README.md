@@ -308,6 +308,16 @@ and a player can only be in each section once.
     </details>
 
 9.  <details>
+    <summary>18391 - albertusmaximus</summary>
+
+    - Patch: 1.30.4
+    - Version: 1.5.3
+    - [Replay](1.5/dps/18391-albertusmaximus-1.30.4-1.5.3.w3g?raw=true)
+
+    ![](1.5/dps/18391-albertusmaximus-1.30.4-1.5.3.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>18359 - Sesamia</summary>
 
     - Patch: 1.30.4
@@ -315,14 +325,4 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/18359-Sesamia-1.30.4-1.5.2.w3g?raw=true)
 
     ![](1.5/dps/18359-Sesamia-1.30.4-1.5.2.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>17951 - albertusmaximus</summary>
-
-    - Patch: 1.30.4
-    - Version: 1.5.2
-    - [Replay](1.5/dps/17951-albertusmaximus-1.30.4-1.5.2.w3g?raw=true)
-
-    ![](1.5/dps/17951-albertusmaximus-1.30.4-1.5.2.jpg?raw=true)
     </details>
