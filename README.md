@@ -223,6 +223,16 @@ and a player can only be in each section once.
 ### 1.5 DPS
 
 1.  <details>
+    <summary>25855 - Wolfilein</summary>
+
+    - Patch: 1.30.4
+    - Version: 1.5.3
+    - [Replay](1.5/dps/25855-Wolfilein-1.30.4-1.5.3.w3g?raw=true)
+
+    ![](1.5/dps/25855-Wolfilein-1.30.4-1.5.3.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>25838 - NVS</summary>
 
     - Patch: 1.30.2
@@ -230,16 +240,6 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/25838-NVS-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/25838-NVS-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>23577 - Wolfilein</summary>
-
-    - Patch: 1.30.3
-    - Version: 1.5.1
-    - [Replay](1.5/dps/23577-Wolfilein-1.30.3-1.5.1.w3g?raw=true)
-
-    ![](1.5/dps/23577-Wolfilein-1.30.3-1.5.1.jpg?raw=true)
     </details>
 
 3.  <details>
