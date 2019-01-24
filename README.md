@@ -24,7 +24,8 @@ state of the leaderboards at a given moment in time.
 ## How to Submit
 
 1. Join the official [Gem TD+ Discord].  Your Discord account is used to
-   identify your submitted games.
+   identify your submitted games.  Games cannot be submitted on someone
+   else's behalf.
 2. Ensure you are playing the [latest version] of the map.  Games played on
    older versions are not accepted.  *Note: Testing versions are **never**
    eligible for the leaderboards.*
