@@ -23,8 +23,8 @@ state of the leaderboards at a given moment in time.
 
 ## How to Submit
 
-1. Join the offical [Gem TD+ Discord].  Note that your submitted game will
-   be associated with your Discord account.
+1. Join the official [Gem TD+ Discord].  Your Discord account is used to
+   identify your submitted games.
 2. Ensure you are playing the [latest version] of the map.  Games played on
    older versions are not accepted.  *Note: Testing versions are **never**
    eligible for the leaderboards.*
@@ -46,14 +46,13 @@ most common.
 
 Bue sure that both your maze and the open board are in your screenshot.
 Your player name, the time of finish, and the game identifier must be
-visible.  The identifier is used to make sure a screenshot pairs with a
-replay.
+visible.  The identifier is used to pair a screenshot pair with a replay.
 
 ### Replay
 
 Upon leaving a game the option to save a replay should be available.  If it
 is not, or you forget, check for `LastReplay.w3g`.  Do note that this will
-be overwritten upon playing your next game.  Also consider the game option
+be overwritten upon playing your next game.  Also, consider the game option
 to automatically save replays for every game you play.
 
 ## How to View
@@ -66,17 +65,17 @@ patched accordingly.
 ### Zoom
 
 Starting in Gem TD+ 1.5.3, the camera zoom used when viewing a replay
-defaults to `2500`.  In older versions this was not the case, and the camera
-would change due to the use of the `-zoom` command.  If the camera in one of
-these older versions seems to be stuck, or you would prefer to return the
-camera to the default Warcraft III zoom of `1650`, press `Insert` or
+defaults to `2500`.  In older versions, this was not the case, and the
+camera would change due to the use of the `-zoom` command.  If the camera in
+one of these older versions seems to be stuck, or you would prefer to return
+the camera to the default Warcraft III zoom of `1650`, press `Insert` or
 `Delete` briefly.
 
 ### Map Location
 
 The location of the map used when playing the game is recorded into the
 replay.  For most players, this will a file be the following folder:
-`Maps/Download`.  However, it could differ.  In such situations it may be
+`Maps/Download`.  However, it could differ.  In such situationsm, it may be
 necessary to place a copy of the map into another location to view a replay.
 
 ## Pre 1.5
@@ -93,7 +92,7 @@ best known **Damage Test** kills that have been verified.
 - Notes: The video says Gem TD 4.0.  However, there is no actual gameplay
   difference between that unofficial version and the last official version
   by Bryvx.  Until Gem TD+ 1.4.0, the gameplay and balance between the
-  original Gem TD and that of Gem TD Plus was essentially the same.
+  original Gem TD and that of Gem TD Plus were essentially the same.
 - [Video](https://www.youtube.com/watch?v=Mydun82zEX8)
 
 ![](other/39_52-herr_beppo.jpg?raw=true)
