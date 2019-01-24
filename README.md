@@ -249,13 +249,15 @@ and a player can only be in each section once.
     </details>
 
 10. <details>
-    <summary>38:04 - thongus</summary>
+    <summary>38:04 -
+        <a href="https://discordapp.com/users/299914362695450624">
+            thongus
+        </a>
+    </summary>
 
     - Patch: 1.30.2
     - Version: 1.5.1
     - [Replay](1.5/time/38_04-thongus-1.30.2-1.5.1.w3g?raw=true)
-    - Notes:
-        1. This user's Discord information is not available.
 
     ![](1.5/time/38_04-thongus-1.30.2-1.5.1.jpg?raw=true)
     </details>
@@ -319,14 +321,17 @@ and a player can only be in each section once.
     </details>
 
 5.  <details>
-    <summary>19562 - thongus</summary>
+    <summary>38:04 -
+        <a href="https://discordapp.com/users/299914362695450624">
+            thongus
+        </a>
+    </summary>
 
     - Patch: 1.30.2
     - Version: 1.5.1
     - [Replay](1.5/time/38_04-thongus-1.30.2-1.5.1.w3g?raw=true)
     - Notes:
         1. This is the same game as `38:04 - thongus`.
-        2. This user's Discord information is not available.
 
     ![](1.5/time/38_04-thongus-1.30.2-1.5.1.jpg?raw=true)
     </details>
