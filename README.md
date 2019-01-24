@@ -75,7 +75,7 @@ the camera to the default Warcraft III zoom of `1650`, press `Insert` or
 ### Map Location
 
 The location of the map used when playing the game is recorded into the
-replay.  For most players, this will a file be the following folder:
+replay.  For most players, this will be a file in the following folder:
 `Maps/Download`.  However, it could differ.  In such situationsm, it may be
 necessary to place a copy of the map into another location to view a replay.
 
