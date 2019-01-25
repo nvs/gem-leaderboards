@@ -321,7 +321,7 @@ and a player can only be in each section once.
     </details>
 
 5.  <details>
-    <summary>38:04 -
+    <summary>19562 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
         </a>
