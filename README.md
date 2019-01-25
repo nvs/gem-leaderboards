@@ -321,6 +321,20 @@ and a player can only be in each section once.
     </details>
 
 5.  <details>
+    <summary>19611 -
+        <a href="https://discordapp.com/users/242718937551339520">
+            Porposmonon
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: 1.5.3
+    - [Replay](1.5/dps/19611-Porposmonon-1.30.4-1.5.3.w3g?raw=true)
+
+    ![](1.5/dps/19611-Porposmonon-1.30.4-1.5.3.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>19562 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
@@ -334,20 +348,6 @@ and a player can only be in each section once.
         1. This is the same game as `38:04 - thongus`.
 
     ![](1.5/time/38_04-thongus-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-6.  <details>
-    <summary>19526 -
-        <a href="https://discordapp.com/users/242718937551339520">
-            Porposmonon
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: 1.5.3
-    - [Replay](1.5/dps/19526-Porposmonon-1.30.4-1.5.3.w3g?raw=true)
-
-    ![](1.5/dps/19526-Porposmonon-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
 7.  <details>
