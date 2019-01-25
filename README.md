@@ -343,11 +343,9 @@ and a player can only be in each section once.
 
     - Patch: 1.30.2
     - Version: 1.5.1
-    - [Replay](1.5/time/38_04-thongus-1.30.2-1.5.1.w3g?raw=true)
-    - Notes:
-        1. This is the same game as `38:04 - thongus`.
+    - [Replay](1.5/dps/19562-thongus-1.30.2-1.5.1.w3g?raw=true)
 
-    ![](1.5/time/38_04-thongus-1.30.2-1.5.1.jpg?raw=true)
+    ![](1.5/dps/19562-thongus-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 7.  <details>
