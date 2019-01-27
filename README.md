@@ -100,7 +100,11 @@ best known **Damage Test** kills that have been verified.
 </details>
 
 <details>
-<summary><strong>1.4</strong>: 36:52 - thongus</summary>
+<summary><strong>1.4</strong>: 36:52 -
+    <a href="https://discordapp.com/users/299914362695450624">
+        thongus
+    </a>
+</summary>
 
 - Patch: 1.28.5
 - Version: 1.4.0
