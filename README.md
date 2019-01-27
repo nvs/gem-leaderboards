@@ -211,17 +211,17 @@ and a player can only be in each section once.
     </details>
 
 7.  <details>
-    <summary>36:19 -
+    <summary>36:14 -
         <a href="https://discordapp.com/users/242683507095109634">
             Gemking
         </a>
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.2
-    - [Replay](1.5/time/36_19-Gemking-1.30.4-1.5.2.w3g?raw=true)
+    - Version: 1.5.3
+    - [Replay](1.5/time/36_14-Gemking-1.30.4-1.5.3.w3g?raw=true)
 
-    ![](1.5/time/36_19-Gemking-1.30.4-1.5.2.jpg?raw=true)
+    ![](1.5/time/36_14-Gemking-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
 8.  <details>
