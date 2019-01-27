@@ -153,6 +153,20 @@ and a player can only be in each section once.
     </details>
 
 3.  <details>
+    <summary>35:25 -
+        <a href="https://discordapp.com/users/242683507095109634">
+            Gemking
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: 1.5.3
+    - [Replay](1.5/time/35_25-Gemking-1.30.4-1.5.3.w3g?raw=true)
+
+    ![](1.5/time/35_25-Gemking-1.30.4-1.5.3.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>35:45 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
@@ -166,7 +180,7 @@ and a player can only be in each section once.
     ![](1.5/time/35_45-thongus-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>35:52 -
         <a href="https://discordapp.com/users/517156281925107723">
             xiVoiDz
@@ -180,7 +194,7 @@ and a player can only be in each section once.
     ![](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>35:58 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -196,7 +210,7 @@ and a player can only be in each section once.
     ![](1.5/time/35_58-sac42c-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>36:04 -
         <a href="https://discordapp.com/users/124327547038203904">
             Ltmeow
@@ -208,20 +222,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.w3g?raw=true)
 
     ![](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.jpg?raw=true)
-    </details>
-
-7.  <details>
-    <summary>36:14 -
-        <a href="https://discordapp.com/users/242683507095109634">
-            Gemking
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: 1.5.3
-    - [Replay](1.5/time/36_14-Gemking-1.30.4-1.5.3.w3g?raw=true)
-
-    ![](1.5/time/36_14-Gemking-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
 8.  <details>
