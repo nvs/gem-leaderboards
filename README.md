@@ -137,7 +137,8 @@ and a player can only be in each section once.
     - [Replay](1.5/time/33_15-Arsenic-1.30.4-1.5.3.1.w3g?raw=true)
     - Notes: This game was actually played on 1.5.3.  However, due to a bug
       in that version of the map, the replay needed to be edited to allow
-      viewing it on a working version.  Here is the [bugged
+      viewing it on a working version.  Gem TD+ 1.5.3.1 was specially
+      created for this prupose.  Here is the [bugged
       replay](1.5/time/33_15-Arsenic-1.30.4-1.5.3.w3g?raw=true) for anyone
       interested.
 
