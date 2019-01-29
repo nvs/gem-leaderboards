@@ -331,6 +331,20 @@ and a player can only be in each section once.
     </details>
 
 5.  <details>
+    <summary>21443 -
+        <a href="https://discordapp.com/users/234445811813974017">
+            V:RGO
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.3]
+    - [Replay](1.5/dps/21443-V:RGO-1.30.4-1.5.3.w3g?raw=true)
+
+    ![](1.5/dps/21443-V:RGO-1.30.4-1.5.3.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>19901 -
         <a href="https://discordapp.com/users/242718937551339520">
             Porposmonon
@@ -344,7 +358,7 @@ and a player can only be in each section once.
     ![](1.5/dps/19901-Porposmonon-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>19562 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
@@ -358,7 +372,7 @@ and a player can only be in each section once.
     ![](1.5/dps/19562-thongus-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>19317 -
         <a href="https://discordapp.com/users/517156281925107723">
             xiVoiDz
@@ -370,20 +384,6 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-8.  <details>
-    <summary>19038 -
-        <a href="https://discordapp.com/users/234445811813974017">
-            V:RGO
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: [1.5.2]
-    - [Replay](1.5/dps/19038-V:RGO-1.30.4-1.5.2.w3g?raw=true)
-
-    ![](1.5/dps/19038-V:RGO-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
 9.  <details>
