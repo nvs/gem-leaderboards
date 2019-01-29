@@ -107,7 +107,7 @@ best known **Damage Test** kills that have been verified.
 </summary>
 
 - Patch: 1.28.5
-- Version: 1.4.0
+- Version: [1.4.0]
 - [Replay](1.4/36_52-thongus-1.28.5-1.4.0.w3g?raw=true)
 
 ![](1.4/36_52-thongus-1.28.5-1.4.0.jpg?raw=true)
@@ -122,6 +122,7 @@ and a player can only be in each section once.
 
 [NVS]: https://github.com/nvs
 
+
 ### 1.5 Time
 
 1.  <details>
@@ -132,7 +133,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.2
+    - Version: [1.5.2]
     - [Replay](1.5/time/34_10-makaronilaama-1.30.4-1.5.2.w3g?raw=true)
 
     ![](1.5/time/34_10-makaronilaama-1.30.4-1.5.2.jpg?raw=true)
@@ -146,7 +147,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.3
-    - Version: 1.5.1
+    - Version: [1.5.1]
     - [Replay](1.5/time/34_15-NVS-1.30.3-1.5.1.w3g?raw=true)
 
     ![](1.5/time/34_15-NVS-1.30.3-1.5.1.jpg?raw=true)
@@ -160,7 +161,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.3
+    - Version: [1.5.3]
     - [Replay](1.5/time/35_25-Gemking-1.30.4-1.5.3.w3g?raw=true)
 
     ![](1.5/time/35_25-Gemking-1.30.4-1.5.3.jpg?raw=true)
@@ -174,7 +175,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.3
+    - Version: [1.5.3]
     - [Replay](1.5/time/35_45-thongus-1.30.4-1.5.3.w3g?raw=true)
 
     ![](1.5/time/35_45-thongus-1.30.4-1.5.3.jpg?raw=true)
@@ -188,7 +189,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.2
+    - Version: [1.5.2]
     - [Replay](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.w3g?raw=true)
 
     ![](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.jpg?raw=true)
@@ -202,7 +203,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.2
+    - Version: [1.5.2]
     - [Replay](1.5/time/35_58-sac42c-1.30.4-1.5.2.w3g?raw=true)
     - Notes:
         1. Map is located at `Maps/FrozenThrone/Community`.
@@ -218,7 +219,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.2
+    - Version: [1.5.2]
     - [Replay](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.w3g?raw=true)
 
     ![](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.jpg?raw=true)
@@ -232,7 +233,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.2
-    - Version: 1.5.1
+    - Version: [1.5.1]
     - [Replay](1.5/time/36_53-V:RGO-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/36_53-V:RGO-1.30.2-1.5.1.jpg?raw=true)
@@ -246,7 +247,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.2
+    - Version: [1.5.2]
     - [Replay](1.5/time/37_12-MorweN-1.30.4-1.5.2.w3g?raw=true)
 
     ![](1.5/time/37_12-MorweN-1.30.4-1.5.2.jpg?raw=true)
@@ -260,7 +261,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.2
-    - Version: 1.5.1
+    - Version: [1.5.1]
     - [Replay](1.5/time/37_16-knuts-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/37_16-knuts-1.30.2-1.5.1.jpg?raw=true)
@@ -276,7 +277,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.3
+    - Version: [1.5.3]
     - [Replay](1.5/dps/25855-Wolfilein-1.30.4-1.5.3.w3g?raw=true)
 
     ![](1.5/dps/25855-Wolfilein-1.30.4-1.5.3.jpg?raw=true)
@@ -290,7 +291,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.2
-    - Version: 1.5.1
+    - Version: [1.5.1]
     - [Replay](1.5/dps/25838-NVS-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/25838-NVS-1.30.2-1.5.1.jpg?raw=true)
@@ -304,7 +305,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.3
-    - Version: 1.5.1
+    - Version: [1.5.1]
     - [Replay](1.5/dps/22959-makaronilaama-1.30.3-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/22959-makaronilaama-1.30.3-1.5.1.jpg?raw=true)
@@ -318,7 +319,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.2
-    - Version: 1.5.1
+    - Version: [1.5.1]
     - [Replay](1.5/dps/21571-Ludicrous-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/21571-Ludicrous-1.30.2-1.5.1.jpg?raw=true)
@@ -332,7 +333,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.3
+    - Version: [1.5.3]
     - [Replay](1.5/dps/19901-Porposmonon-1.30.4-1.5.3.w3g?raw=true)
 
     ![](1.5/dps/19901-Porposmonon-1.30.4-1.5.3.jpg?raw=true)
@@ -346,7 +347,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.2
-    - Version: 1.5.1
+    - Version: [1.5.1]
     - [Replay](1.5/dps/19562-thongus-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/19562-thongus-1.30.2-1.5.1.jpg?raw=true)
@@ -360,7 +361,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.2
-    - Version: 1.5.1
+    - Version: [1.5.1]
     - [Replay](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
@@ -374,7 +375,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.2
+    - Version: [1.5.2]
     - [Replay](1.5/dps/19038-V:RGO-1.30.4-1.5.2.w3g?raw=true)
 
     ![](1.5/dps/19038-V:RGO-1.30.4-1.5.2.jpg?raw=true)
@@ -388,7 +389,7 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.1
+    - Version: [1.5.1]
     - [Replay](1.5/dps/18809-Tualkaer51-1.30.4-1.5.1.jpg?raw=true)
 
     ![](1.5/dps/18809-Tualkaer51-1.30.4-1.5.1.jpg?raw=true)
@@ -402,8 +403,13 @@ and a player can only be in each section once.
     </summary>
 
     - Patch: 1.30.4
-    - Version: 1.5.3
+    - Version: [1.5.3]
     - [Replay](1.5/dps/18391-albertusmaximus-1.30.4-1.5.3.w3g?raw=true)
 
     ![](1.5/dps/18391-albertusmaximus-1.30.4-1.5.3.jpg?raw=true)
     </details>
+
+[1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
+[1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
+[1.5.2]: https://github.com/nvs/gem/releases/tag/v1.5.2
+[1.5.3]: https://github.com/nvs/gem/releases/tag/v1.5.3
