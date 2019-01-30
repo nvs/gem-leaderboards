@@ -174,17 +174,17 @@ and a player can only be in each section once.
     </details>
 
 4.  <details>
-    <summary>35:25 -
+    <summary>34:39 -
         <a href="https://discordapp.com/users/242683507095109634">
             Gemking
         </a>
     </summary>
 
     - Patch: 1.30.4
-    - Version: [1.5.3]
-    - [Replay](1.5/time/35_25-Gemking-1.30.4-1.5.3.w3g?raw=true)
+    - Version: [1.5.4]
+    - [Replay](1.5/time/34_39-Gemking-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/time/35_25-Gemking-1.30.4-1.5.3.jpg?raw=true)
+    ![](1.5/time/34_39-Gemking-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
 5.  <details>
@@ -420,3 +420,4 @@ and a player can only be in each section once.
 [1.5.2]: https://github.com/nvs/gem/releases/tag/v1.5.2
 [1.5.3]: https://github.com/nvs/gem/releases/tag/v1.5.3
 [1.5.3.1]: https://github.com/nvs/gem/releases/tag/v1.5.3.1
+[1.5.4]: https://github.com/nvs/gem/releases/tag/v1.5.4
