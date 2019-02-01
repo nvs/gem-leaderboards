@@ -346,6 +346,20 @@ and a player can only be in each section once.
     </details>
 
 6.  <details>
+    <summary>20606 -
+        <a href="https://discordapp.com/users/215359996144123914">
+            albertusmaximus
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/dps/20606-albertusmaximus-1.30.4-1.5.4.w3g?raw=true)
+
+    ![](1.5/dps/20606-albertusmaximus-1.30.4-1.5.4.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>19901 -
         <a href="https://discordapp.com/users/242718937551339520">
             Porposmonon
@@ -359,7 +373,7 @@ and a player can only be in each section once.
     ![](1.5/dps/19901-Porposmonon-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>19562 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
@@ -373,7 +387,7 @@ and a player can only be in each section once.
     ![](1.5/dps/19562-thongus-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>19317 -
         <a href="https://discordapp.com/users/517156281925107723">
             xiVoiDz
@@ -387,7 +401,7 @@ and a player can only be in each section once.
     ![](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>18809 -
         <a href="https://discordapp.com/users/364117972119191554">
             Tualkaer51
@@ -401,19 +415,6 @@ and a player can only be in each section once.
     ![](1.5/dps/18809-Tualkaer51-1.30.4-1.5.1.jpg?raw=true)
     </details>
 
-10. <details>
-    <summary>18391 -
-        <a href="https://discordapp.com/users/215359996144123914">
-            albertusmaximus
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: [1.5.3]
-    - [Replay](1.5/dps/18391-albertusmaximus-1.30.4-1.5.3.w3g?raw=true)
-
-    ![](1.5/dps/18391-albertusmaximus-1.30.4-1.5.3.jpg?raw=true)
-    </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
