@@ -126,6 +126,20 @@ and a player can only be in each section once.
 ### 1.5 Time
 
 1.  <details>
+    <summary>32:59 -
+        <a href="https://discordapp.com/users/242683507095109634">
+            Gemking
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/time/32_59-Gemking-1.30.4-1.5.4.w3g?raw=true)
+
+    ![](1.5/time/32_59-Gemking-1.30.4-1.5.4.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>33:15 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -145,7 +159,7 @@ and a player can only be in each section once.
     ![](1.5/time/33_15-Arsenic-1.30.4-1.5.3.1.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>34:10 -
         <a href="https://discordapp.com/users/235474089815310341">
             makaronilaama
@@ -159,7 +173,7 @@ and a player can only be in each section once.
     ![](1.5/time/34_10-makaronilaama-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>34:15 -
         <a href="https://discordapp.com/users/136301709113688064">
             NVS
@@ -171,20 +185,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/34_15-NVS-1.30.3-1.5.1.w3g?raw=true)
 
     ![](1.5/time/34_15-NVS-1.30.3-1.5.1.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>34:39 -
-        <a href="https://discordapp.com/users/242683507095109634">
-            Gemking
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: [1.5.4]
-    - [Replay](1.5/time/34_39-Gemking-1.30.4-1.5.4.w3g?raw=true)
-
-    ![](1.5/time/34_39-Gemking-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
 5.  <details>
