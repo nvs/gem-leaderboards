@@ -306,6 +306,20 @@ and a player can only be in each section once.
     </details>
 
 3.  <details>
+    <summary>24829 -
+        <a href="https://discordapp.com/users/242718937551339520">
+            Porposmonon
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/dps/24829-Porposmonon-1.30.4-1.5.4.w3g?raw=true)
+
+    ![](1.5/dps/24829-Porposmonon-1.30.4-1.5.4.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>23190 -
         <a href="https://discordapp.com/users/242683507095109634">
             Gemking
@@ -319,7 +333,7 @@ and a player can only be in each section once.
     ![](1.5/dps/23190-Gemking-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>22959 -
         <a href="https://discordapp.com/users/235474089815310341">
             makaronilaama
@@ -331,20 +345,6 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/22959-makaronilaama-1.30.3-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/22959-makaronilaama-1.30.3-1.5.1.jpg?raw=true)
-    </details>
-
-5.  <details>
-    <summary>22542 -
-        <a href="https://discordapp.com/users/242718937551339520">
-            Porposmonon
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: [1.5.4]
-    - [Replay](1.5/dps/22542-Porposmonon-1.30.4-1.5.4.w3g?raw=true)
-
-    ![](1.5/dps/22542-Porposmonon-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
 6.  <details>
