@@ -390,6 +390,20 @@ and a player can only be in each section once.
     </details>
 
 9.  <details>
+    <summary>20148 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/dps/20148-Sesamia-1.30.4-1.5.4.w3g?raw=true)
+
+    ![](1.5/dps/20148-Sesamia-1.30.4-1.5.4.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>19562 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
@@ -401,20 +415,6 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/19562-thongus-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/dps/19562-thongus-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>19317 -
-        <a href="https://discordapp.com/users/517156281925107723">
-            xiVoiDz
-        </a>
-    </summary>
-
-    - Patch: 1.30.2
-    - Version: [1.5.1]
-    - [Replay](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.w3g?raw=true)
-
-    ![](1.5/dps/19317-xiVoiDz-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
