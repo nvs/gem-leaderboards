@@ -122,7 +122,6 @@ and a player can only be in each section once.
 
 [NVS]: https://github.com/nvs
 
-
 ### 1.5 Time
 
 1.  <details>
@@ -174,20 +173,18 @@ and a player can only be in each section once.
     </details>
 
 4.  <details>
-    <summary>34:10 -
+    <summary>33:37
         <a href="https://discordapp.com/users/235474089815310341">
             makaronilaama
         </a>
     </summary>
 
     - Patch: 1.30.4
-    - Version: [1.5.2]
-    - [Replay](1.5/time/34_10-makaronilaama-1.30.4-1.5.2.w3g?raw=true)
+    - Version: [1.5.4]
+    - [Replay](1.5/time/33_37-makaronilaama-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/time/34_10-makaronilaama-1.30.4-1.5.2.jpg?raw=true)
+    ![](1.5/time/33_37-makaronilaama-1.30.4-1.5.4.jpg?raw=true)
     </details>
-
-
 
 5.  <details>
     <summary>35:45 -
