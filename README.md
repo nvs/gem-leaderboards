@@ -173,7 +173,7 @@ and a player can only be in each section once.
     </details>
 
 4.  <details>
-    <summary>33:37
+    <summary>33:37 -
         <a href="https://discordapp.com/users/235474089815310341">
             makaronilaama
         </a>
