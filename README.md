@@ -125,6 +125,20 @@ and a player can only be in each section once.
 ### 1.5 Time
 
 1.  <details>
+    <summary>32:18 -
+        <a href="https://discordapp.com/users/160915097206784009">
+            Arsenic
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/time/32_18-Arsenic-1.30.4-1.5.4.w3g?raw=true)
+
+    ![](1.5/time/32_18-Arsenic-1.30.4-1.5.4.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>32:27 -
         <a href="https://discordapp.com/users/136301709113688064">
             NVS
@@ -138,7 +152,7 @@ and a player can only be in each section once.
     ![](1.5/time/32_37-NVS-1.30.4-1.5.4.jpg?raw+true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>32:59 -
         <a href="https://discordapp.com/users/242683507095109634">
             Gemking
@@ -150,26 +164,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/32_59-Gemking-1.30.4-1.5.4.w3g?raw=true)
 
     ![](1.5/time/32_59-Gemking-1.30.4-1.5.4.jpg?raw=true)
-    </details>
-
-3.  <details>
-    <summary>33:15 -
-        <a href="https://discordapp.com/users/160915097206784009">
-            Arsenic
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: [1.5.3.1]
-    - [Replay](1.5/time/33_15-Arsenic-1.30.4-1.5.3.1.w3g?raw=true)
-    - Notes: This game was actually played on 1.5.3.  However, due to a bug
-      in that version of the map, the replay needed to be edited to allow
-      viewing it on a working version.  Gem TD+ 1.5.3.1 was specially
-      created for this prupose.  Here is the [bugged
-      replay](1.5/time/33_15-Arsenic-1.30.4-1.5.3.w3g?raw=true) for anyone
-      interested.
-
-    ![](1.5/time/33_15-Arsenic-1.30.4-1.5.3.1.jpg?raw=true)
     </details>
 
 4.  <details>
