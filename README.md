@@ -181,6 +181,20 @@ and a player can only be in each section once.
     </details>
 
 5.  <details>
+    <summary>35:37 -
+        <a href="https://discordapp.com/users/242041566275960832">
+            sac42c
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/time/35_37-sac42c-1.30.4-1.5.4.w3g?raw=true)
+
+    ![](1.5/time/35_37-sac42c-1.30.4-1.5.4.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>35:45 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
@@ -194,7 +208,7 @@ and a player can only be in each section once.
     ![](1.5/time/35_45-thongus-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>35:52 -
         <a href="https://discordapp.com/users/517156281925107723">
             xiVoiDz
@@ -206,22 +220,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.w3g?raw=true)
 
     ![](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.jpg?raw=true)
-    </details>
-
-7.  <details>
-    <summary>35:58 -
-        <a href="https://discordapp.com/users/242041566275960832">
-            sac42c
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: [1.5.2]
-    - [Replay](1.5/time/35_58-sac42c-1.30.4-1.5.2.w3g?raw=true)
-    - Notes:
-        1. Map is located at `Maps/FrozenThrone/Community`.
-
-    ![](1.5/time/35_58-sac42c-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
 8.  <details>
