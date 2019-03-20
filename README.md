@@ -125,6 +125,20 @@ and a player can only be in each section once.
 ### 1.5 Time
 
 1.  <details>
+    <summary>29:46 -
+        <a href="https://discordapp.com/users/171314221232029696">
+            Monkeynews
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/time/29_46-Monkeynews-1.30.4-1.5.4.w3g?raw=true)
+
+    ![](1.5/time/29_46-Monkeynews-1.30.4-1.5.4.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>32:18 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -138,7 +152,7 @@ and a player can only be in each section once.
     ![](1.5/time/32_18-Arsenic-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>32:27 -
         <a href="https://discordapp.com/users/136301709113688064">
             NVS
@@ -152,7 +166,7 @@ and a player can only be in each section once.
     ![](1.5/time/32_37-NVS-1.30.4-1.5.4.jpg?raw+true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>32:59 -
         <a href="https://discordapp.com/users/242683507095109634">
             Gemking
@@ -166,7 +180,7 @@ and a player can only be in each section once.
     ![](1.5/time/32_59-Gemking-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>33:37 -
         <a href="https://discordapp.com/users/235474089815310341">
             makaronilaama
@@ -180,7 +194,7 @@ and a player can only be in each section once.
     ![](1.5/time/33_37-makaronilaama-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>35:15 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -194,7 +208,7 @@ and a player can only be in each section once.
     ![](1.5/time/35_15-sac42c-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>35:45 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
@@ -208,7 +222,7 @@ and a player can only be in each section once.
     ![](1.5/time/35_45-thongus-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>35:52 -
         <a href="https://discordapp.com/users/517156281925107723">
             xiVoiDz
@@ -222,7 +236,7 @@ and a player can only be in each section once.
     ![](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>36:04 -
         <a href="https://discordapp.com/users/124327547038203904">
             Ltmeow
@@ -236,7 +250,7 @@ and a player can only be in each section once.
     ![](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>36:53 -
         <a href="https://discordapp.com/users/234445811813974017">
             V:RGO
@@ -248,20 +262,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/36_53-V:RGO-1.30.2-1.5.1.w3g?raw=true)
 
     ![](1.5/time/36_53-V:RGO-1.30.2-1.5.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>37:12 -
-        <a href="https://discordapp.com/users/295241421164773376">
-            MorweN
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: [1.5.2]
-    - [Replay](1.5/time/37_12-MorweN-1.30.4-1.5.2.w3g?raw=true)
-
-    ![](1.5/time/37_12-MorweN-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
