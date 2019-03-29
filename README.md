@@ -266,6 +266,7 @@ and a player can only be in each section once.
 
 ### 1.5 DPS
 
+
 1.  <details>
     <summary>25855 -
         <a href="https://discordapp.com/users/520945994519543808">
@@ -295,6 +296,20 @@ and a player can only be in each section once.
     </details>
 
 3.  <details>
+    <summary>25075 -
+        <a href="https://discordapp.com/users/156087832983633920">
+            Ni4nMa
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/dps/25075-Ni4nMa-1.30.4-1.5.4.w3g?raw=true)
+
+    ![](1.5/dps/25075-Ni4nMa-1.30.4-1.5.4.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>24829 -
         <a href="https://discordapp.com/users/242718937551339520">
             Porposmonon
@@ -308,7 +323,7 @@ and a player can only be in each section once.
     ![](1.5/dps/24829-Porposmonon-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>23190 -
         <a href="https://discordapp.com/users/242683507095109634">
             Gemking
@@ -322,7 +337,7 @@ and a player can only be in each section once.
     ![](1.5/dps/23190-Gemking-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>22959 -
         <a href="https://discordapp.com/users/235474089815310341">
             makaronilaama
@@ -336,7 +351,7 @@ and a player can only be in each section once.
     ![](1.5/dps/22959-makaronilaama-1.30.3-1.5.1.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>22695 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
@@ -350,7 +365,7 @@ and a player can only be in each section once.
     ![](1.5/dps/22695-thongus-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>21751 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -364,7 +379,7 @@ and a player can only be in each section once.
     ![](1.5/dps/21751-Arsenic-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>21571 -
         <a href="https://discordapp.com/users/172426184548810752">
             Ludicrous
@@ -378,7 +393,7 @@ and a player can only be in each section once.
     ![](1.5/dps/21571-Ludicrous-1.30.2-1.5.1.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>21443 -
         <a href="https://discordapp.com/users/234445811813974017">
             V:RGO
@@ -390,20 +405,6 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/21443-V:RGO-1.30.4-1.5.3.w3g?raw=true)
 
     ![](1.5/dps/21443-V:RGO-1.30.4-1.5.3.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>20606 -
-        <a href="https://discordapp.com/users/215359996144123914">
-            albertusmaximus
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: [1.5.4]
-    - [Replay](1.5/dps/20606-albertusmaximus-1.30.4-1.5.4.w3g?raw=true)
-
-    ![](1.5/dps/20606-albertusmaximus-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
