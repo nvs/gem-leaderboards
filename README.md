@@ -266,7 +266,6 @@ and a player can only be in each section once.
 
 ### 1.5 DPS
 
-
 1.  <details>
     <summary>25855 -
         <a href="https://discordapp.com/users/520945994519543808">
