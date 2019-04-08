@@ -47,7 +47,7 @@ most common.
 
 Be sure that both your maze and the open board are in your screenshot.  Your
 player name, the time of finish, and the game identifier must be visible.
-The identifier is used to pair a screenshot pair with a replay.
+The identifier is used to pair a screenshot with a replay.
 
 ### Replay
 
