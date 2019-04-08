@@ -251,17 +251,18 @@ and a player can only be in each section once.
     </details>
 
 10. <details>
-    <summary>36:53 -
-        <a href="https://discordapp.com/users/234445811813974017">
-            V:RGO
+    <summary>36:32 -
+        <a href="https://discordapp.com/users/305710318557069314">
+            KeeperDe
         </a>
     </summary>
 
-    - Patch: 1.30.2
-    - Version: [1.5.1]
-    - [Replay](1.5/time/36_53-V:RGO-1.30.2-1.5.1.w3g?raw=true)
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - Notes: Played as `ads` in single-player.
+    - [Replay](1.5/time/36_32-KeeperDe-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/time/36_53-V:RGO-1.30.2-1.5.1.jpg?raw=true)
+    ![](1.5/time/36_32-KeeperDe-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
