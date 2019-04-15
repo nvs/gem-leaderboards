@@ -324,6 +324,20 @@ and a player can only be in each section once.
     </details>
 
 5.  <details>
+    <summary>23209 -
+        <a href="https://discordapp.com/users/235474089815310341">
+            makaronilaama
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/dps/23209-makaronilaama-1.30.4-1.5.4.w3g?raw=true)
+
+    ![](1.5/dps/23209-makaronilaama-1.30.4-1.5.4.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>23190 -
         <a href="https://discordapp.com/users/242683507095109634">
             Gemking
@@ -335,20 +349,6 @@ and a player can only be in each section once.
     - [Replay](1.5/dps/23190-Gemking-1.30.4-1.5.4.w3g?raw=true)
 
     ![](1.5/dps/23190-Gemking-1.30.4-1.5.4.jpg?raw=true)
-    </details>
-
-6.  <details>
-    <summary>22959 -
-        <a href="https://discordapp.com/users/235474089815310341">
-            makaronilaama
-        </a>
-    </summary>
-
-    - Patch: 1.30.3
-    - Version: [1.5.1]
-    - [Replay](1.5/dps/22959-makaronilaama-1.30.3-1.5.1.w3g?raw=true)
-
-    ![](1.5/dps/22959-makaronilaama-1.30.3-1.5.1.jpg?raw=true)
     </details>
 
 7.  <details>
