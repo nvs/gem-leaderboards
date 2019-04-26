@@ -195,7 +195,7 @@ and a player can only be in each section once.
     </details>
 
 6.  <details>
-    <summary>34:52 -
+    <summary>33:52 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
         </a>
@@ -203,9 +203,9 @@ and a player can only be in each section once.
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/time/34_52-sac42c-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](1.5/time/33_52-sac42c-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/time/34_52-sac42c-1.30.4-1.5.4.jpg?raw=true)
+    ![](1.5/time/33_52-sac42c-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
 7.  <details>
