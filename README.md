@@ -413,3 +413,4 @@ and a player can only be in each section once.
 [1.5.3]: https://github.com/nvs/gem/releases/tag/v1.5.3
 [1.5.3.1]: https://github.com/nvs/gem/releases/tag/v1.5.3.1
 [1.5.4]: https://github.com/nvs/gem/releases/tag/v1.5.4
+[1.5.5]: https://github.com/nvs/gem/releases/tag/v1.5.5
