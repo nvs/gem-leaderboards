@@ -208,7 +208,21 @@ and a player can only be in each section once.
     ![](1.5/time/33_52-sac42c-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-7.  <details>
+7. <details>
+    <summary>34:30 -
+        <a href="https://discordapp.com/users/305710318557069314">
+            KeeperDe
+        </a>
+    </summary>
+
+    - Patch: 1.30.4
+    - Version: [1.5.4]
+    - [Replay](1.5/time/34_30-KeeperDe-1.5.4-1.30.4.w3g?raw=true)
+
+    ![](1.5/time/34_30-KeeperDe-1.5.4-1.30.4.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>35:45 -
         <a href="https://discordapp.com/users/299914362695450624">
             thongus
@@ -222,7 +236,7 @@ and a player can only be in each section once.
     ![](1.5/time/35_45-thongus-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>35:52 -
         <a href="https://discordapp.com/users/517156281925107723">
             xiVoiDz
@@ -236,7 +250,7 @@ and a player can only be in each section once.
     ![](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>36:04 -
         <a href="https://discordapp.com/users/124327547038203904">
             Ltmeow
@@ -248,21 +262,6 @@ and a player can only be in each section once.
     - [Replay](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.w3g?raw=true)
 
     ![](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>36:32 -
-        <a href="https://discordapp.com/users/305710318557069314">
-            KeeperDe
-        </a>
-    </summary>
-
-    - Patch: 1.30.4
-    - Version: [1.5.4]
-    - Notes: Played as `ads` in single-player.
-    - [Replay](1.5/time/36_32-KeeperDe-1.30.4-1.5.4.w3g?raw=true)
-
-    ![](1.5/time/36_32-KeeperDe-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
