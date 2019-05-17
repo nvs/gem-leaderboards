@@ -117,10 +117,18 @@ best known **Damage Test** kills that have been verified.
 
 The current 1.5 leaderboards will close upon the release of 1.6.  The
 players with the top three **Damage Test** kills (aside from [NVS]) will be
-recognized (details pending).  Each section will show at most ten players,
-and a player can only be in each section once.
+recognized.  Each section will show at most ten players, and a player can
+only be in each section once.
 
 [NVS]: https://github.com/nvs
+
+### Prizes
+
+- The **top three players** in each category will have a critter/NPC added
+  to the middle area to acknowledge their achievement.  They will also
+  'level up' on the Discord.
+- The **top player** in each category will appear randomnly in place of
+  bosses, with a model of their choosing.  This is purely cosmetic.
 
 ### 1.5 Time
 
