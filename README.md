@@ -122,11 +122,12 @@ are closed as of 2019-06-01.
 
 ### Prizes
 
+- The **top player** in each category will be recognized as a Gem TD+
+  Champion.  They will appear randomnly in place of bosses, with a model of
+  their choosing.  This is purely cosmetic.
 - The **top three players** in each category will have a critter/NPC added
   to the middle area to acknowledge their achievement.  They will also
   'level up' on the Discord.
-- The **top player** in each category will appear randomnly in place of
-  bosses, with a model of their choosing.  This is purely cosmetic.
 
 *Note: NVS is excluded from the prizes.*
 
