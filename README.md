@@ -144,6 +144,7 @@ are closed as of 2019-06-01.
     - Patch: 1.30.4
     - Version: [1.5.4]
     - [Replay](1.5/time/29_46-Monkeynews-1.30.4-1.5.4.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=HG4u4zUayp4)
 
     ![](1.5/time/29_46-Monkeynews-1.30.4-1.5.4.jpg?raw=true)
     </details>
