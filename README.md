@@ -130,7 +130,7 @@ are closed as of 2019-06-01.
   to the middle area to acknowledge their achievement.  They will also
   'level up' on the Discord.
 
-*Note: NVS is excluded from the prizes.*
+*Note: [NVS] is excluded from the prizes.*
 
 ### 1.5 Time
 
