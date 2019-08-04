@@ -7,6 +7,7 @@
 - [How to View](#how-to-view)
 - [Pre 1.5](#pre-15)
 - [1.5 Leaderboards](#15-leaderboards)
+- [1.6 Leaderboards](#16-leaderboards)
 
 ## Overview
 
@@ -45,9 +46,9 @@ from within the replay.  You can use whatever method you prefer, but using
 the `Print Screen` key to have Warcraft III create the screenshot is the
 most common.
 
-Be sure that both your maze and the open board are in your screenshot.  Your
-player name, the time of finish, and the game identifier must be visible.
-The identifier is used to pair a screenshot with a replay.
+Be sure that both your maze and the open board are in your screenshot.
+Your player name and the game identifier must be visible.  The identifier is
+used to pair a screenshot with a replay.
 
 ### Replay
 
@@ -417,6 +418,70 @@ are closed as of 2019-06-01.
     ![](1.5/dps/21443-V:RGO-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
+## 1.6 Leaderboards
+
+These leaderboards are open.
+
+*Note: For the time being, the leaderboards on the repository will lag
+behind those present on the Discord.  This is to allow some time for the
+results to settle to minimize the number of added replays.*
+
+### Categories
+
+- **Time.** Only games that complete Level 50 will be considered.
+- **DPS.** Only games that complete Level 50 will be considered.
+- **No Maze.** Only games that use `-maze` to disable mazing will be
+  considered.  The board will display damage and progress upon losing.
+
+### Prizes
+
+- The **top player** in each category will be recognized as one the Gem TD+
+  Champions.  They will receive this role on the Discord.  They will also
+  randomnly appear in place of bosses, with a model of their choosing.  This
+  is purely cosmetic.
+- The **top three players** in each category will have a critter/NPC added
+  to the middle area to acknowledge their achievement.  They will also
+  become Leveled on the Discord and then level up.
+
+### 1.6 Maze (40:00 or lower)
+
+1. ?
+2. ?
+3. ?
+4. ?
+5. ?
+6. ?
+7. ?
+8. ?
+9. ?
+10. ?
+
+### 1.6 DPS (8,000 or higher)
+
+1. ?
+2. ?
+3. ?
+4. ?
+5. ?
+6. ?
+7. ?
+8. ?
+9. ?
+10. ?
+
+### 1.6 No Maze (Level 20 or higher)
+
+1. ?
+2. ?
+3. ?
+4. ?
+5. ?
+6. ?
+7. ?
+8. ?
+9. ?
+10. ?
+
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
 [1.5.2]: https://github.com/nvs/gem/releases/tag/v1.5.2
@@ -424,3 +489,4 @@ are closed as of 2019-06-01.
 [1.5.3.1]: https://github.com/nvs/gem/releases/tag/v1.5.3.1
 [1.5.4]: https://github.com/nvs/gem/releases/tag/v1.5.4
 [1.5.5]: https://github.com/nvs/gem/releases/tag/v1.5.5
+[1.6.0]: https://github.com/nvs/gem/releases/tag/v1.6.0
