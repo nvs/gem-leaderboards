@@ -46,9 +46,8 @@ from within the replay.  You can use whatever method you prefer, but using
 the `Print Screen` key to have Warcraft III create the screenshot is the
 most common.
 
-Be sure that both your maze and the open board are in your screenshot.
-Your player name, the game identifier, and the map version in the upper
-right corner must be visible.
+Include the game's entire window in the screenshot, and ensure that your
+maze and the expanded game board are both visible.
 
 ### Replay
 
