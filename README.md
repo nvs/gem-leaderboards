@@ -28,8 +28,8 @@ state of the leaderboards at a given moment in time.
    identify your submitted games.  Games cannot be submitted on someone
    else's behalf.
 2. Ensure you are playing the [latest version] of the map.  Games played on
-   older versions are not accepted.  *Note: Testing versions are **never**
-   eligible for the leaderboards.*
+   older versions, testing versions, or unofficial versions are not
+   accepted.
 3. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
    `#submitted-games` channel.  A game will not be verified without a
    replay. *Tip: Just drag them into the channel!*
@@ -431,17 +431,18 @@ results to settle to minimize the number of added replays.*
 - **Time.** Only games that complete Level 50 will be considered.
 - **DPS.** Only games that complete Level 50 will be considered.
 - **No Maze.** Only games that use `-maze` to disable mazing will be
-  considered.  The board will display damage and progress upon losing.
+  considered.  The board will display damage and progress upon losing, and
+  this will be used for placement on the leaderboard.
 
 ### Prizes
 
-- The **top player** in each category will be recognized as one the Gem TD+
-  Champions.  They will receive this role on the Discord.  They will also
-  randomnly appear in place of bosses, with a model of their choosing.  This
-  is purely cosmetic.
+- The **top player** in each category will be recognized as one of the Gem
+  TD+ Champions.  They will receive this role on the Discord.  They will
+  also randomnly appear in place of bosses, with a model of their choosing.
+  This is purely cosmetic.
 - The **top three players** in each category will have a critter/NPC added
   to the middle area to acknowledge their achievement.  They will also
-  become Leveled on the Discord and then level up.
+  become Leveled on the Discord.
 
 ### 1.6 Maze (40:00 or lower)
 
