@@ -47,8 +47,8 @@ the `Print Screen` key to have Warcraft III create the screenshot is the
 most common.
 
 Be sure that both your maze and the open board are in your screenshot.
-Your player name and the game identifier must be visible.  The identifier is
-used to pair a screenshot with a replay.
+Your player name, the game identifier, and the map version in the upper
+right corner must be visible.
 
 ### Replay
 
