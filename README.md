@@ -454,9 +454,9 @@ results to settle to minimize the number of added replays.*
 
     - Patch: 1.31.1
     - Version: [1.6.0]
-    - [Replay](1.6/time/39_52-Sesamia-1.30.1-1.6.0.w3g?raw=true)
+    - [Replay](1.6/time/36_56-Sesamia-1.31.1-1.6.0.w3g?raw=true)
 
-    ![](1.6/time/39_52-Sesamia-1.31.1-1.6.0.jpg?raw=true)
+    ![](1.6/time/36_56-Sesamia-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
 2. ?
