@@ -511,7 +511,20 @@ results to settle to minimize the number of added replays.*
 
 ### 1.6 No Maze (Level 20 or higher)
 
-1. ?
+1.  <details>
+    <summary>Level 21 - 27374 -
+        <a href="https://discordapp.com/users/242041566275960832">
+            sac42c
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/no-maze/21_27374-sac42c-1.31.1-1.6.0.w3g?raw=true)
+
+    ![](1.6/no-maze/21_27374-sac42c-1.31.1-1.6.0.jpg)
+    </details>
+
 2. ?
 3. ?
 4. ?
