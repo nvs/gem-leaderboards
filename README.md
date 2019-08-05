@@ -458,7 +458,20 @@ results to settle to minimize the number of added replays.*
 
 ### 1.6 DPS (8,000 or higher)
 
-1. ?
+1.  <details>
+    <summary>10155 -
+        <a href="https://discordapp.com/users/520945994519543808">
+            Wolfilein
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/dps/10155-Wolfilein-1.31.1-1.6.0.w3g?raw=true)
+
+    ![](1.6/dps/10155-Wolfilein-1.31.1-1.6.0.jpg?raw=true)
+    </details>
+
 2. ?
 3. ?
 4. ?
