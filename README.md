@@ -459,16 +459,6 @@ results to settle to minimize the number of added replays.*
     ![](1.6/time/36_56-Sesamia-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-2. ?
-3. ?
-4. ?
-5. ?
-6. ?
-7. ?
-8. ?
-9. ?
-10. ?
-
 ### 1.6 DPS (8,000 or higher)
 
 1.  <details>
@@ -499,16 +489,6 @@ results to settle to minimize the number of added replays.*
     ![](1.6/dps/8705-Sesamia-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-2. ?
-3. ?
-4. ?
-5. ?
-6. ?
-7. ?
-8. ?
-9. ?
-10. ?
-
 ### 1.6 No Maze (Level 20 or higher)
 
 1.  <details>
@@ -524,16 +504,6 @@ results to settle to minimize the number of added replays.*
 
     ![](1.6/no-maze/21_27374-sac42c-1.31.1-1.6.0.jpg)
     </details>
-
-2. ?
-3. ?
-4. ?
-5. ?
-6. ?
-7. ?
-8. ?
-9. ?
-10. ?
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
