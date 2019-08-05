@@ -445,7 +445,20 @@ results to settle to minimize the number of added replays.*
 
 ### 1.6 Maze (40:00 or lower)
 
-1. ?
+1. <details>
+    <summary>36:56 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/time/39_52-Sesamia-1.30.1-1.6.0.w3g?raw=true)
+
+    ![](1.6/time/39_52-Sesamia-1.31.1-1.6.0.jpg?raw=true)
+    </details>
+
 2. ?
 3. ?
 4. ?
