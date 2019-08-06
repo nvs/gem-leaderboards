@@ -520,6 +520,20 @@ results to settle to minimize the number of added replays.*
     </details>
 
 3.  <details>
+    <summary>Level 26 - 59751 -
+        <a href="https://discordapp.com/users/108427582340358144">
+            Hal
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/no-maze/26_59751-Hal-1.31.1-1.6.0.w3g?raw=true)
+
+    ![](1.6/no-maze/26_59751-Hal-1.31.1-1.6.0.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>Level 26 - 58208 -
         <a href="https://discordapp.com/users/266942257649680385">
             Tocid
