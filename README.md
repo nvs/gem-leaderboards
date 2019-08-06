@@ -421,10 +421,6 @@ are closed as of 2019-06-01.
 
 These leaderboards are open.
 
-*Note: For the time being, the leaderboards on the repository will lag
-behind those present on the Discord.  This is to allow some time for the
-results to settle to minimize the number of added replays.*
-
 ### Categories
 
 - **Time.** Only games that complete Level 50 will be considered.
