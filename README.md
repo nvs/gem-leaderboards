@@ -468,9 +468,9 @@ results to settle to minimize the number of added replays.*
 
     - Patch: 1.31.1
     - Version: [1.6.0]
-    - [Replay](1.6/time/36_56-Sesamia-1.31.1-1.6.0.w3g?raw=true)
+    - [Replay](1.6/time/36:56-Sesamia-1.31.1-1.6.0.w3g?raw=true)
 
-    ![](1.6/time/36_56-Sesamia-1.31.1-1.6.0.jpg?raw=true)
+    ![](1.6/time/36:56-Sesamia-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
 3.  <details>
@@ -482,9 +482,9 @@ results to settle to minimize the number of added replays.*
 
     - Patch: 1.31.1
     - Version: [1.6.0]
-    - [Replay](1.6/time/38_00-SaveMySoul-1.31.1-1.6.0.w3g?raw=true)
+    - [Replay](1.6/time/38:00-SaveMySoul-1.31.1-1.6.0.w3g?raw=true)
 
-    ![](1.6/time/38_00-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
+    ![](1.6/time/38:00-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
 ### 1.6 DPS (8,000 or higher)
