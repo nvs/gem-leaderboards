@@ -485,7 +485,21 @@ These leaderboards are open.
 
 ### 1.6 DPS (8,000 or higher)
 
-1. <details>
+1.  <details>
+    <summary>11358 -
+        <a href="https://discordapp.com/users/242718937551339520">
+            Porposmonon
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.w3g?raw=true)
+
+    ![](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.jpg?raw=true)
+    </details>
+
+2. <details>
     <summary>10294 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -499,7 +513,7 @@ These leaderboards are open.
     ![](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>10155 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -513,7 +527,7 @@ These leaderboards are open.
     ![](1.6/dps/10155-Wolfilein-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>10145 -
         <a href="https://discordapp.com/users/608150054846332929">
             SaveMySoul
@@ -527,7 +541,7 @@ These leaderboards are open.
     ![](1.6/dps/10145-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-4. <details>
+5. <details>
     <summary>8705 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
