@@ -499,7 +499,21 @@ These leaderboards are open.
     ![](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-2. <details>
+2.  <details>
+    <summary>10949 -
+        <a href="https://discordapp.com/users/520945994519543808">
+            Wolfilein
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/dps/10949-Wolfilein-1.31.1-1.6.0.w3g?raw=true)
+
+    ![](1.6/dps/10949-Wolfilein-1.31.1-1.6.0.jpg?raw=true)
+    </details>
+
+3. <details>
     <summary>10294 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -511,20 +525,6 @@ These leaderboards are open.
     - [Replay](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-3.  <details>
-    <summary>10155 -
-        <a href="https://discordapp.com/users/520945994519543808">
-            Wolfilein
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.0]
-    - [Replay](1.6/dps/10155-Wolfilein-1.31.1-1.6.0.w3g?raw=true)
-
-    ![](1.6/dps/10155-Wolfilein-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
 4.  <details>
