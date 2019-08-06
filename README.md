@@ -492,6 +492,20 @@ results to settle to minimize the number of added replays.*
 ### 1.6 No Maze (Level 20 or higher)
 
 1.  <details>
+    <summary>Level 29 - 51701 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/no-maze/29_51701-Sesamia-1.31.1-1.6.0.w3g?raw=true)
+
+    ![](1.6/no-maze/29_51701-Sesamia-1.31.1-1.6.0.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>Level 27 - 76443 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -505,7 +519,7 @@ results to settle to minimize the number of added replays.*
     ![](1.6/no-maze/27_76433-sac42c-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>Level 26 - 58208 -
         <a href="https://discordapp.com/users/266942257649680385">
             Tocid
