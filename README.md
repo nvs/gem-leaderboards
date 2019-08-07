@@ -442,6 +442,20 @@ These leaderboards are open.
 ### 1.6 Maze (40:00 or lower)
 
 1. <details>
+    <summary>34:07
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.1]
+    - [Replay](1.6/time/34:07-Sesamia-1.31.1-1.6.1.w3g?raw=true)
+
+    ![](1.6/time/34:07-Sesamia-1.31.1-1.6.1.jpg?raw=true)
+    </details>
+
+2. <details>
     <summary>36:48 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -453,20 +467,6 @@ These leaderboards are open.
     - [Replay](1.6/time/36:48-prprfzzt-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/time/36:48-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-2. <details>
-    <summary>36:56 -
-        <a href="https://discordapp.com/users/330183643215429633">
-            Sesamia
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.0]
-    - [Replay](1.6/time/36:56-Sesamia-1.31.1-1.6.0.w3g?raw=true)
-
-    ![](1.6/time/36:56-Sesamia-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
 3.  <details>
@@ -621,3 +621,4 @@ These leaderboards are open.
 [1.5.4]: https://github.com/nvs/gem/releases/tag/v1.5.4
 [1.5.5]: https://github.com/nvs/gem/releases/tag/v1.5.5
 [1.6.0]: https://github.com/nvs/gem/releases/tag/v1.6.0
+[1.6.1]: https://github.com/nvs/gem/releases/tag/v1.6.1
