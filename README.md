@@ -572,6 +572,20 @@ These leaderboards are open.
     </details>
 
 2.  <details>
+    <summary>Level 27 - 78115 -
+        <a href="https://discordapp.com/users/266942257649680385">
+            Tocid
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/no-maze/27_78115-Tocid-1.31.1-1.6.1.w3g?raw=true)
+
+    ![](1.6/no-maze/27_78115-Tocid-1.31.1-1.6.1.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>Level 27 - 76443 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -585,7 +599,7 @@ These leaderboards are open.
     ![](1.6/no-maze/27_76433-sac42c-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>Level 26 - 59751 -
         <a href="https://discordapp.com/users/108427582340358144">
             Hal
@@ -599,19 +613,7 @@ These leaderboards are open.
     ![](1.6/no-maze/26_59751-Hal-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-4.  <details>
-    <summary>Level 26 - 58208 -
-        <a href="https://discordapp.com/users/266942257649680385">
-            Tocid
-        </a>
-    </summary>
 
-    - Patch: 1.31.1
-    - Version: [1.6.0]
-    - [Replay](1.6/no-maze/26_58208-Tocid-1.31.1-1.6.0.w3g?raw=true)
-
-    ![](1.6/no-maze/26_58208-Tocid-1.31.1-1.6.0.jpg?raw=true)
-    </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
