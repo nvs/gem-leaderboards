@@ -569,7 +569,21 @@ These leaderboards are open.
     ![](1.6/dps/10145-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-6. <details>
+6.  <details>
+    <summary>9599 -
+        <a href="https://discordapp.com/users/171314221232029696">
+            Monkeynews
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.2]
+    - [Replay](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.w3g?raw=true)
+
+    ![](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>8705 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
