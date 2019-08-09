@@ -456,7 +456,7 @@ These leaderboards are open.
     </details>
 
 2. <details>
-    <summary>34:07
+    <summary>34:07 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
         </a>
