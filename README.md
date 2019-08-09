@@ -442,6 +442,20 @@ These leaderboards are open.
 ### 1.6 Maze (40:00 or lower)
 
 1.  <details>
+    <summary>31:32 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.2]
+    - [Replay](1.6/time/31:32-Sesamia-1.31.1-1.6.2.w3g?raw=true)
+
+    ![](1.6/time/31:32-Sesamia-1.31.1-1.6.2.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>31:56 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -453,20 +467,6 @@ These leaderboards are open.
     - [Replay](1.6/time/31:56-Monkeynews-1.31.1-1.6.2.w3g?raw=true)
 
     ![](1.6/time/31:56-Monkeynews-1.31.1-1.6.2.jpg?raw=true)
-    </details>
-
-2. <details>
-    <summary>34:07 -
-        <a href="https://discordapp.com/users/330183643215429633">
-            Sesamia
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.1]
-    - [Replay](1.6/time/34:07-Sesamia-1.31.1-1.6.1.w3g?raw=true)
-
-    ![](1.6/time/34:07-Sesamia-1.31.1-1.6.1.jpg?raw=true)
     </details>
 
 3. <details>
