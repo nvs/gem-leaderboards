@@ -614,20 +614,18 @@ These leaderboards are open.
     </details>
 
 4.  <details>
-    <summary>Level 26 - 59751 -
+    <summary>Level 27 - 67009 -
         <a href="https://discordapp.com/users/108427582340358144">
             Hal
         </a>
     </summary>
 
     - Patch: 1.31.1
-    - Version: [1.6.0]
-    - [Replay](1.6/no-maze/26_59751-Hal-1.31.1-1.6.0.w3g?raw=true)
+    - Version: [1.6.2]
+    - [Replay](1.6/no-maze/27_67009-Hal-1.31.1-1.6.2.w3g?raw=true)
 
-    ![](1.6/no-maze/26_59751-Hal-1.31.1-1.6.0.jpg?raw=true)
+    ![](1.6/no-maze/27_67009-Hal-1.31.1-1.6.2.jpg?raw=true)
     </details>
-
-
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
@@ -638,3 +636,4 @@ These leaderboards are open.
 [1.5.5]: https://github.com/nvs/gem/releases/tag/v1.5.5
 [1.6.0]: https://github.com/nvs/gem/releases/tag/v1.6.0
 [1.6.1]: https://github.com/nvs/gem/releases/tag/v1.6.1
+[1.6.2]: https://github.com/nvs/gem/releases/tag/v1.6.2
