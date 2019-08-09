@@ -528,6 +528,20 @@ These leaderboards are open.
     </details>
 
 3.  <details>
+    <summary>10905 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.2]
+    - [Replay](1.6/dps/10905-Sesamia-1.31.1-1.6.2.w3g?raw=true)
+
+    ![](1.6/dps/10905-Sesamia-1.31.1-1.6.2.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>10895 -
         <a href="https://discordapp.com/users/330183643215429633">
             alberto
@@ -541,7 +555,7 @@ These leaderboards are open.
     ![](1.6/dps/10895-alberto-1.31.1-1.6.1.jpg?raw=true)
     </details>
 
-4. <details>
+5.  <details>
     <summary>10294 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -555,7 +569,7 @@ These leaderboards are open.
     ![](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>10145 -
         <a href="https://discordapp.com/users/608150054846332929">
             SaveMySoul
@@ -569,7 +583,7 @@ These leaderboards are open.
     ![](1.6/dps/10145-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>9599 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -581,20 +595,6 @@ These leaderboards are open.
     - [Replay](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.w3g?raw=true)
 
     ![](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.jpg?raw=true)
-    </details>
-
-7.  <details>
-    <summary>8705 -
-        <a href="https://discordapp.com/users/330183643215429633">
-            Sesamia
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.0]
-    - [Replay](1.6/dps/8705-Sesamia-1.31.1-1.6.0.w3g?raw=true)
-
-    ![](1.6/dps/8705-Sesamia-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze (Level 20 or higher)
