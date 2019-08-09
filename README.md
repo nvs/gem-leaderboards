@@ -439,7 +439,7 @@ These leaderboards are open.
   to the middle area to acknowledge their achievement.  They will also
   become Leveled on the Discord.
 
-### 1.6 Maze (40:00 or lower)
+### 1.6 Time (40:00 or lower)
 
 1.  <details>
     <summary>31:32 -
