@@ -441,7 +441,21 @@ These leaderboards are open.
 
 ### 1.6 Time (40:00 or lower)
 
-1.  <details>
+1. <details>
+    <summary>30:53
+        <a href="https://discordapp.com/users/145853647052341249">
+            prprfzzt
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.2]
+    - [Replay](1.6/time/30:53-prprfzzt-1.31.1-1.6.2.w3g?raw=true)
+
+    ![](1.6/time/30:53-prprfzzt-1.31.1-1.6.2.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>31:32 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -455,7 +469,7 @@ These leaderboards are open.
     ![](1.6/time/31:32-Sesamia-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>31:56 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -467,20 +481,6 @@ These leaderboards are open.
     - [Replay](1.6/time/31:56-Monkeynews-1.31.1-1.6.2.w3g?raw=true)
 
     ![](1.6/time/31:56-Monkeynews-1.31.1-1.6.2.jpg?raw=true)
-    </details>
-
-3. <details>
-    <summary>36:48 -
-        <a href="https://discordapp.com/users/145853647052341249">
-            prprfzzt
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.0]
-    - [Replay](1.6/time/36:48-prprfzzt-1.31.1-1.6.0.w3g?raw=true)
-
-    ![](1.6/time/36:48-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
 4.  <details>
