@@ -484,6 +484,20 @@ These leaderboards are open.
     </details>
 
 4.  <details>
+    <summary>35:23 -
+        <a href="https://discordapp.com/users/234421036802637825">
+            Presea
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/time/35:23-Presea-1.31.1-1.6.0.w3g?raw=true)
+
+    ![](1.6/time/35:23-Presea-1.31.1-1.6.0.jpg?raw=true)
+    </details>
+
+5.  <details>
     <summary>38:00 -
         <a href="https://discordapp.com/users/608150054846332929">
             SaveMySoul
