@@ -570,6 +570,20 @@ These leaderboards are open.
     </details>
 
 5.  <details>
+    <summary>10385 -
+        <a href="https://discordapp.com/users/234421036802637825">
+            Presea
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.0]
+    - [Replay](1.6/dps/10385-Presea-1.31.1-1.6.0.w3g?raw=true)
+
+    ![](1.6/dps/10385-Presea-1.31.1-1.6.0.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>10294 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -583,7 +597,7 @@ These leaderboards are open.
     ![](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>10145 -
         <a href="https://discordapp.com/users/608150054846332929">
             SaveMySoul
@@ -597,7 +611,7 @@ These leaderboards are open.
     ![](1.6/dps/10145-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>9599 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
