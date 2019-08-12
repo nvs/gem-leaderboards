@@ -419,7 +419,8 @@ are closed as of 2019-06-01.
 
 ## 1.6 Leaderboards
 
-These leaderboards are open.
+These leaderboards are open.  Each category will contain a maximum of ten
+players.  A player can be in each category once.
 
 ### Categories
 
