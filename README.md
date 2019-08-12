@@ -442,7 +442,7 @@ These leaderboards are open.
 ### 1.6 Time (40:00 or lower)
 
 1. <details>
-    <summary>30:53
+    <summary>30:53 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
         </a>
