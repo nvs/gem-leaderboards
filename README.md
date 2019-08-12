@@ -628,6 +628,20 @@ These leaderboards are open.
 ### 1.6 No Maze (Level 20 or higher)
 
 1.  <details>
+    <summary>Level 29 - 84133 -
+        <a href="https://discordapp.com/users/266942257649680385">
+            Tocid
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.3]
+    - [Replay](1.6/no-maze/29_84133-Tocid-1.31.1-1.6.3.w3g?raw=true)
+
+    ![](1.6/no-maze/29_84133-Tocid-1.31.1-1.6.3.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>Level 29 - 51701 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -639,20 +653,6 @@ These leaderboards are open.
     - [Replay](1.6/no-maze/29_51701-Sesamia-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/no-maze/29_51701-Sesamia-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>Level 27 - 78115 -
-        <a href="https://discordapp.com/users/266942257649680385">
-            Tocid
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.0]
-    - [Replay](1.6/no-maze/27_78115-Tocid-1.31.1-1.6.1.w3g?raw=true)
-
-    ![](1.6/no-maze/27_78115-Tocid-1.31.1-1.6.1.jpg?raw=true)
     </details>
 
 3.  <details>
@@ -693,3 +693,4 @@ These leaderboards are open.
 [1.6.0]: https://github.com/nvs/gem/releases/tag/v1.6.0
 [1.6.1]: https://github.com/nvs/gem/releases/tag/v1.6.1
 [1.6.2]: https://github.com/nvs/gem/releases/tag/v1.6.2
+[1.6.3]: https://github.com/nvs/gem/releases/tag/v1.6.3
