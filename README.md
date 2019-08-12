@@ -684,6 +684,20 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/27_67009-Hal-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
+5.  <details>
+    <summary>Level 26 - 57599 -
+        <a href="https://discordapp.com/users/269810827706630146">
+            FryDays
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.3]
+    - [Replay](1.6/no-maze/26_57699-FryDays-1.31.1-1.6.3.w3g?raw=true)
+
+    ![](1.6/no-maze/26_57699-FryDays-1.31.1-1.6.3.jpg?raw=true)
+    </details>
+
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
 [1.5.2]: https://github.com/nvs/gem/releases/tag/v1.5.2
