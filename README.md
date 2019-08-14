@@ -219,7 +219,7 @@ are closed as of 2019-06-01.
     ![](1.5/time/33_52-sac42c-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-7. <details>
+7.  <details>
     <summary>34:30 -
         <a href="https://discordapp.com/users/305710318557069314">
             KeeperDe
