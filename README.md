@@ -640,6 +640,20 @@ players.  A player can be in each category once.
     ![](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
+9.  <details>
+    <summary>8978 -
+        <a href="https://discordapp.com/users/148133151678529536">
+            Buskmurvel
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.3]
+    - [Replay](1.6/dps/8978-Buskmurvel-1.31.1-1.6.3.w3g?raw=true)
+
+    ![](1.6/dps/8978-Buskmurvel-1.31.1-1.6.3.jpg?raw=true)
+    </details>
+
 ### 1.6 No Maze (Level 20 or higher)
 
 1.  <details>
