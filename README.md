@@ -685,6 +685,20 @@ players.  A player can be in each category once.
     </details>
 
 5.  <details>
+    <summary>Level 27 - 56129 -
+        <a href="https://discordapp.com/users/235474089815310341">
+            makaronilaama
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.3]
+    - [Replay](1.6/no-maze/27_56129-makaronilaama-1.31.1-1.6.3.w3g?raw=true)
+
+    ![](1.6/no-maze/27_56129-makaronilaama-1.31.1-1.6.3.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>Level 26 - 57599 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
