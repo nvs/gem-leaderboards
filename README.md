@@ -443,6 +443,20 @@ players.  A player can be in each category once.
 ### 1.6 Time (40:00 or lower)
 
 1.  <details>
+    <summary>27:41 -
+        <a href="https://discordapp.com/users/171314221232029696">
+            Monkeynews
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.3]
+    - [Replay](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.w3g?raw=true)
+
+    ![](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>29:08 -
         <a href="https://discordapp.com/users/148133151678529536">
             Buskmurvel
@@ -456,7 +470,7 @@ players.  A player can be in each category once.
     ![](1.6/time/29:08-Buskmurvel-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>30:53 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -470,7 +484,7 @@ players.  A player can be in each category once.
     ![](1.6/time/30:53-prprfzzt-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>31:32 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -482,20 +496,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/time/31:32-Sesamia-1.31.1-1.6.2.w3g?raw=true)
 
     ![](1.6/time/31:32-Sesamia-1.31.1-1.6.2.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>31:56 -
-        <a href="https://discordapp.com/users/171314221232029696">
-            Monkeynews
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.2]
-    - [Replay](1.6/time/31:56-Monkeynews-1.31.1-1.6.2.w3g?raw=true)
-
-    ![](1.6/time/31:56-Monkeynews-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
 5.  <details>
