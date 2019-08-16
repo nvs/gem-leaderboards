@@ -526,6 +526,20 @@ players.  A player can be in each category once.
     ![](1.6/time/38:00-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
+7.  <details>
+    <summary>38:05 -
+        <a href="https://discordapp.com/users/283752818899419137">
+            Kelev
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.3]
+    - [Replay](1.6/time/38:05-Kelev-1.31.1-1.6.3.w3g?raw=true)
+
+    ![](1.6/time/38:05-Kelev-1.31.1-1.6.3.jpg?raw=true)
+    </details>
+
 ### 1.6 DPS (8,000 or higher)
 
 1.  <details>
