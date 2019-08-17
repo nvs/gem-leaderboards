@@ -457,6 +457,20 @@ players.  A player can be in each category once.
     </details>
 
 2.  <details>
+    <summary>29:05 -
+        <a href="https://discordapp.com/users/145853647052341249">
+            prprfzzt
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>29:08 -
         <a href="https://discordapp.com/users/148133151678529536">
             Buskmurvel
@@ -468,20 +482,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/time/29:08-Buskmurvel-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/time/29:08-Buskmurvel-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-3.  <details>
-    <summary>30:53 -
-        <a href="https://discordapp.com/users/145853647052341249">
-            prprfzzt
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.2]
-    - [Replay](1.6/time/30:53-prprfzzt-1.31.1-1.6.2.w3g?raw=true)
-
-    ![](1.6/time/30:53-prprfzzt-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
 4.  <details>
@@ -792,3 +792,5 @@ players.  A player can be in each category once.
 [1.6.1]: https://github.com/nvs/gem/releases/tag/v1.6.1
 [1.6.2]: https://github.com/nvs/gem/releases/tag/v1.6.2
 [1.6.3]: https://github.com/nvs/gem/releases/tag/v1.6.3
+[1.6.4]: https://github.com/nvs/gem/releases/tag/v1.6.4
+[1.6.5]: https://github.com/nvs/gem/releases/tag/v1.6.5
