@@ -786,7 +786,6 @@ players.  A player can be in each category once.
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
 [1.5.2]: https://github.com/nvs/gem/releases/tag/v1.5.2
 [1.5.3]: https://github.com/nvs/gem/releases/tag/v1.5.3
-[1.5.3.1]: https://github.com/nvs/gem/releases/tag/v1.5.3.1
 [1.5.4]: https://github.com/nvs/gem/releases/tag/v1.5.4
 [1.5.5]: https://github.com/nvs/gem/releases/tag/v1.5.5
 [1.6.0]: https://github.com/nvs/gem/releases/tag/v1.6.0
