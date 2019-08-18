@@ -557,6 +557,20 @@ players.  A player can be in each category once.
 ### 1.6 DPS (8,000 or higher)
 
 1.  <details>
+    <summary>12699 -
+        <a href="https://discordapp.com/users/148133151678529536">
+            Buskmurvel
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/dps/12699-Buskmurvel-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/dps/12699-Buskmurvel-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>11806 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
@@ -570,7 +584,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/11806-knuts-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>11358 -
         <a href="https://discordapp.com/users/242718937551339520">
             Porposmonon
@@ -584,7 +598,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>10949 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -598,7 +612,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10949-Wolfilein-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>10905 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -612,7 +626,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10905-Sesamia-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>10895 -
         <a href="https://discordapp.com/users/330183643215429633">
             alberto
@@ -626,7 +640,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10895-alberto-1.31.1-1.6.1.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>10385 -
         <a href="https://discordapp.com/users/234421036802637825">
             Presea
@@ -640,7 +654,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10385-Presea-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>10294 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -654,7 +668,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>10145 -
         <a href="https://discordapp.com/users/608150054846332929">
             SaveMySoul
@@ -668,7 +682,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10145-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>9599 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -680,20 +694,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.w3g?raw=true)
 
     ![](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>8978 -
-        <a href="https://discordapp.com/users/148133151678529536">
-            Buskmurvel
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.3]
-    - [Replay](1.6/dps/8978-Buskmurvel-1.31.1-1.6.3.w3g?raw=true)
-
-    ![](1.6/dps/8978-Buskmurvel-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze (Level 20 or higher)
