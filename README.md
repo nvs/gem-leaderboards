@@ -264,15 +264,15 @@ are closed as of 2019-06-01.
 10. <details>
     <summary>36:04 -
         <a href="https://discordapp.com/users/124327547038203904">
-            Ltmeow
+            ltmeow
         </a>
     </summary>
 
     - Patch: 1.30.4
     - Version: [1.5.2]
-    - [Replay](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.w3g?raw=true)
+    - [Replay](1.5/time/36_04-ltmeow-1.30.4-1.5.2.w3g?raw=true)
 
-    ![](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.jpg?raw=true)
+    ![](1.5/time/36_04-ltmeow-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
@@ -499,6 +499,20 @@ players.  A player can be in each category once.
     </details>
 
 5.  <details>
+    <summary>34:29 -
+        <a href="https://discordapp.com/users/124327547038203904">
+            ltmeow
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/time/34:29-ltmeow-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/time/34:29-ltmeow-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>35:23 -
         <a href="https://discordapp.com/users/234421036802637825">
             Presea
@@ -512,7 +526,7 @@ players.  A player can be in each category once.
     ![](1.6/time/35:23-Presea-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>38:00 -
         <a href="https://discordapp.com/users/608150054846332929">
             SaveMySoul
@@ -526,7 +540,7 @@ players.  A player can be in each category once.
     ![](1.6/time/38:00-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>38:05 -
         <a href="https://discordapp.com/users/283752818899419137">
             Kelev
@@ -540,7 +554,7 @@ players.  A player can be in each category once.
     ![](1.6/time/38:05-Kelev-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>38:40 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
