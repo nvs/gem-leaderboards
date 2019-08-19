@@ -527,6 +527,20 @@ players.  A player can be in each category once.
     </details>
 
 7.  <details>
+    <summary>35:54 -
+        <a href="https://discordapp.com/users/175430560691257344">
+            knuts
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/time/35:54-knuts-1.31.1-1.6.5.w3g?raw=true )
+
+    ![](1.6/time/35:54-knuts-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>37:50 -
         <a href="https://discordapp.com/users/283752818899419137">
             Kelev
@@ -540,7 +554,7 @@ players.  A player can be in each category once.
     ![](1.6/time/37:50-Kelev-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>38:00 -
         <a href="https://discordapp.com/users/608150054846332929">
             SaveMySoul
@@ -552,20 +566,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/time/38:00-SaveMySoul-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/time/38:00-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-9.  <details>
-    <summary>38:40 -
-        <a href="https://discordapp.com/users/175430560691257344">
-            knuts
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.3]
-    - [Replay](1.6/time/38:40-knuts-1.31.1-1.6.3.w3g?raw=true)
-
-    ![](1.6/time/38:40-knuts-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
 ### 1.6 DPS (8,000 or higher)
