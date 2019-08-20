@@ -457,6 +457,20 @@ players.  A player can be in each category once.
     </details>
 
 2.  <details>
+    <summary>28:31 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/time/28:31-Sesamia-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/time/28:31-Sesamia-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>29:05 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -470,7 +484,7 @@ players.  A player can be in each category once.
     ![](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>29:08 -
         <a href="https://discordapp.com/users/148133151678529536">
             Buskmurvel
@@ -482,20 +496,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/time/29:08-Buskmurvel-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/time/29:08-Buskmurvel-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>31:32 -
-        <a href="https://discordapp.com/users/330183643215429633">
-            Sesamia
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.2]
-    - [Replay](1.6/time/31:32-Sesamia-1.31.1-1.6.2.w3g?raw=true)
-
-    ![](1.6/time/31:32-Sesamia-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
 5.  <details>
