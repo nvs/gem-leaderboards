@@ -810,6 +810,20 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/26_57699-FryDays-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
+7.  <details>
+    <summary>Level 23 - 42230 -
+        <a href="https://discordapp.com/users/392196340639072256">
+            BigBossSupreme
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/no-maze/23_42230-BigBossSupreme-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/no-maze/23_42230-BigBossSupreme-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
 [1.5.2]: https://github.com/nvs/gem/releases/tag/v1.5.2
