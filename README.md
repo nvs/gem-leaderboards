@@ -541,6 +541,20 @@ players.  A player can be in each category once.
     </details>
 
 8.  <details>
+    <summary>37:19 -
+        <a href="https://discordapp.com/users/165467020639469568">
+            Doomchild
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/time/37:19-Doomchild-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/time/37:19-Doomchild-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>37:50 -
         <a href="https://discordapp.com/users/283752818899419137">
             Kelev
@@ -554,7 +568,7 @@ players.  A player can be in each category once.
     ![](1.6/time/37:50-Kelev-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>38:00 -
         <a href="https://discordapp.com/users/608150054846332929">
             SaveMySoul
@@ -566,20 +580,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/time/38:00-SaveMySoul-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/time/38:00-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>38:44 -
-        <a href="https://discordapp.com/users/165467020639469568">
-            Doomchild
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/38:44-Doomchild-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/time/38:44-Doomchild-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 DPS (8,000 or higher)
