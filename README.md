@@ -440,7 +440,7 @@ players.  A player can be in each category once.
   to the middle area to acknowledge their achievement.  They will also
   become Leveled on the Discord.
 
-### 1.6 Time (40:00 or lower)
+### 1.6 Time
 
 1.  <details>
     <summary>27:41 -
@@ -582,7 +582,7 @@ players.  A player can be in each category once.
     ![](1.6/time/38:00-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-### 1.6 DPS (8,000 or higher)
+### 1.6 DPS
 
 1.  <details>
     <summary>12699 -
