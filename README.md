@@ -88,8 +88,8 @@ best known **Damage Test** kills that have been verified.
 <details>
 <summary><strong>Pre 1.4</strong>: 39:52 -
     <a href="https://discordapp.com/users/148133151678529536">
-        herr_beppo (Buskmurvel)
-    </a>
+        Buskmurvel
+    </a> <em>herr_beppo</em>
 </summary>
 
 - Patch: Unknown.  Most likely 1.26.
