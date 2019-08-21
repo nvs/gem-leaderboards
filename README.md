@@ -86,7 +86,11 @@ such, there are many games without screenshots and replays.  These are the
 best known **Damage Test** kills that have been verified.
 
 <details>
-<summary><strong>Pre 1.4</strong>: 39:52 - herr_beppo</summary>
+<summary><strong>Pre 1.4</strong>: 39:52 -
+    <a href="https://discordapp.com/users/148133151678529536">
+        herr_beppo (Buskmurvel)
+    </a>
+</summary>
 
 - Patch: Unknown.  Most likely 1.26.
 - Version: Bryvx's Gem TD 3.1
