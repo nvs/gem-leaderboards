@@ -759,6 +759,20 @@ players.  A player can be in each category once.
     </details>
 
 3.  <details>
+    <summary>Level 31 - 121833 -
+        <a href="https://discordapp.com/users/104819373297901568">
+            Redkeekee
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/no-maze/31_121833-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/no-maze/31_121833-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>Level 29 - 85205 -
         <a href="https://discordapp.com/users/266942257649680385">
             Tocid
@@ -772,7 +786,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>Level 29 - 79357 -
         <a href="https://discordapp.com/users/116603375210070021">
             Skdragon
@@ -786,7 +800,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/29_79357-Skdragon-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>Level 27 - 67009 -
         <a href="https://discordapp.com/users/108427582340358144">
             Hal
@@ -798,20 +812,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/no-maze/27_67009-Hal-1.31.1-1.6.2.w3g?raw=true)
 
     ![](1.6/no-maze/27_67009-Hal-1.31.1-1.6.2.jpg?raw=true)
-    </details>
-
-6.  <details>
-    <summary>Level 27 - 65579 -
-        <a href="https://discordapp.com/users/104819373297901568">
-            Redkeekee
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.4]
-    - [Replay](1.6/no-maze/27_65579-Redkeekee-1.31.1-1.6.4.w3g?raw=true)
-
-    ![](1.6/no-maze/27_65579-Redkeekee-1.31.1-1.6.4.jpg?raw=true)
     </details>
 
 7.  <details>
