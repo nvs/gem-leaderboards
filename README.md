@@ -801,6 +801,20 @@ players.  A player can be in each category once.
     </details>
 
 6.  <details>
+    <summary>Level 27 - 65579 -
+        <a href="https://discordapp.com/users/104819373297901568">
+            Redkeekee
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.4]
+    - [Replay](1.6/no-maze/27_65579-Redkeekee-1.31.1-1.6.4.w3g?raw=true)
+
+    ![](1.6/no-maze/27_65579-Redkeekee-1.31.1-1.6.4.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>Level 27 - 56129 -
         <a href="https://discordapp.com/users/235474089815310341">
             makaronilaama
@@ -814,7 +828,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/27_56129-makaronilaama-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>Level 26 - 57599 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -828,7 +842,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/26_57699-FryDays-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>Level 23 - 42230 -
         <a href="https://discordapp.com/users/392196340639072256">
             BigBossSupreme
