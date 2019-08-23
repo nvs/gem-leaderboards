@@ -728,7 +728,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
-### 1.6 No Maze (Level 20 or higher)
+### 1.6 No Maze
 
 1.  <details>
     <summary>Level 35 - 177616 -
