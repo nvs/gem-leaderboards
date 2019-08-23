@@ -731,6 +731,20 @@ players.  A player can be in each category once.
 ### 1.6 No Maze (Level 20 or higher)
 
 1.  <details>
+    <summary>Level 35 - 177616 -
+        <a href="https://discordapp.com/users/104819373297901568">
+            Redkeekee
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/no-maze/35_177616-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/no-maze/35_177616-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>Level 33 - 112313 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -744,7 +758,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/33_112313-sac42c-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>Level 31 - 126776 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -756,20 +770,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/no-maze/31_126776-Sesamia-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/31_126776-Sesamia-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-3.  <details>
-    <summary>Level 31 - 121833 -
-        <a href="https://discordapp.com/users/104819373297901568">
-            Redkeekee
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/no-maze/31_121833-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/no-maze/31_121833-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 4.  <details>
