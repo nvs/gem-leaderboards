@@ -856,6 +856,20 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/23_42230-BigBossSupreme-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
+10. <details>
+    <summary>Level 22 - 33251 -
+        <a href="https://discordapp.com/users/124966970763378693">
+            Genohacker
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/no-maze/22_33251-Genohacker-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/no-maze/22_33251-Genohacker-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
 [1.5.2]: https://github.com/nvs/gem/releases/tag/v1.5.2
