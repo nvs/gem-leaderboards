@@ -783,7 +783,7 @@ players.  A player can be in each category once.
     - Version: [1.6.5]
     - [Replay](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.w3g?raw=true)
 
-    ![](1.6/no-maze/30_107852-sac42c-1.31.1-1.6.3.jpg?raw=true)
+    ![](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 5.  <details>
