@@ -801,7 +801,7 @@ players.  A player can be in each category once.
     </details>
 
 6.  <details>
-    <summary>Level 29 - 79357 -
+    <summary>Level 30 - 75572 -
         <a href="https://discordapp.com/users/116603375210070021">
             SkdragoN
         </a>
