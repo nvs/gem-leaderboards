@@ -731,7 +731,7 @@ players.  A player can be in each category once.
 ### 1.6 No Maze
 
 1.  <details>
-    <summary>Level 35 - 177616 -
+    <summary>Level 38 - 189384 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
         </a>
@@ -739,9 +739,9 @@ players.  A player can be in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.5]
-    - [Replay](1.6/no-maze/35_177616-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
+    - [Replay](1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
 
-    ![](1.6/no-maze/35_177616-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
+    ![](1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 2.  <details>
