@@ -801,6 +801,20 @@ players.  A player can be in each category once.
     </details>
 
 6.  <details>
+    <summary>Level 29 - 79357 -
+        <a href="https://discordapp.com/users/116603375210070021">
+            SkdragoN
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/no-maze/30_75572-SkdragoN-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/no-maze/30_75572-SkdragoN-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>Level 29 - 85205 -
         <a href="https://discordapp.com/users/266942257649680385">
             Tocid
@@ -812,20 +826,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-7.  <details>
-    <summary>Level 29 - 79357 -
-        <a href="https://discordapp.com/users/116603375210070021">
-            Skdragon
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/no-maze/29_79357-Skdragon-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/no-maze/29_79357-Skdragon-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 8.  <details>
