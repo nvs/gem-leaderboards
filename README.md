@@ -423,8 +423,10 @@ are closed as of 2019-06-01.
 
 ## 1.6 Leaderboards
 
-These leaderboards are open.  Each category will contain a maximum of ten
-players.  A player can be in each category once.
+These leaderboards are open.  They will remain open until the 1.7 release
+draws near.  A one month warning will be issued on the Discord before they
+close.  Each category will contain a maximum of ten players.  A player can
+be in each category once.
 
 ### Categories
 
