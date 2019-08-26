@@ -517,6 +517,20 @@ players.  A player can be in each category once.
     </details>
 
 6.  <details>
+    <summary>35:02 -
+        <a href="https://discordapp.com/users/518982437179752458">
+            itsneveryeasy
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/time/35:02-itsnevereasy-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/time/35:02-itsnevereasy-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>35:23 -
         <a href="https://discordapp.com/users/234421036802637825">
             Presea
@@ -530,7 +544,7 @@ players.  A player can be in each category once.
     ![](1.6/time/35:23-Presea-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>35:27 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -544,7 +558,7 @@ players.  A player can be in each category once.
     ![](1.6/time/35:27-Arsenic-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>35:54 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
@@ -558,7 +572,7 @@ players.  A player can be in each category once.
     ![](1.6/time/35:54-knuts-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>37:19 -
         <a href="https://discordapp.com/users/165467020639469568">
             Doomchild
@@ -570,20 +584,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/time/37:19-Doomchild-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/time/37:19-Doomchild-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>37:50 -
-        <a href="https://discordapp.com/users/283752818899419137">
-            Kelev
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.3]
-    - [Replay](1.6/time/37:50-Kelev-1.31.1-1.6.3.w3g?raw=true)
-
-    ![](1.6/time/37:50-Kelev-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
