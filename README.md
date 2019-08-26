@@ -505,6 +505,20 @@ be in each category once.
     </details>
 
 5.  <details>
+    <summary>30:42 -
+        <a href="https://discordapp.com/users/160915097206784009">
+            Arsenic
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/time/30:42-Arsenic-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/time/30:42-Arsenic-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>34:29 -
         <a href="https://discordapp.com/users/124327547038203904">
             ltmeow
@@ -518,7 +532,7 @@ be in each category once.
     ![](1.6/time/34:29-ltmeow-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>35:02 -
         <a href="https://discordapp.com/users/518982437179752458">
             itsneveryeasy
@@ -532,7 +546,7 @@ be in each category once.
     ![](1.6/time/35:02-itsnevereasy-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>35:23 -
         <a href="https://discordapp.com/users/234421036802637825">
             Presea
@@ -544,20 +558,6 @@ be in each category once.
     - [Replay](1.6/time/35:23-Presea-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/time/35:23-Presea-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-8.  <details>
-    <summary>35:27 -
-        <a href="https://discordapp.com/users/160915097206784009">
-            Arsenic
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/35:27-Arsenic-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/time/35:27-Arsenic-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 9.  <details>
