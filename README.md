@@ -631,6 +631,20 @@ players.  A player can be in each category once.
     </details>
 
 4.  <details>
+    <summary>11119 -
+        <a href="https://discordapp.com/users/518982437179752458">
+            itsneveryeasy
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/dps/11119-itsnevereasy-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/dps/11119-itsnevereasy-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+5.  <details>
     <summary>10949 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -644,7 +658,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10949-Wolfilein-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>10905 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -658,7 +672,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10905-Sesamia-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>10895 -
         <a href="https://discordapp.com/users/330183643215429633">
             alberto
@@ -672,7 +686,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10895-alberto-1.31.1-1.6.1.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>10385 -
         <a href="https://discordapp.com/users/234421036802637825">
             Presea
@@ -686,7 +700,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10385-Presea-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>10294 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -700,7 +714,7 @@ players.  A player can be in each category once.
     ![](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>10145 -
         <a href="https://discordapp.com/users/608150054846332929">
             SaveMySoul
@@ -712,20 +726,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/dps/10145-SaveMySoul-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/dps/10145-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>9599 -
-        <a href="https://discordapp.com/users/171314221232029696">
-            Monkeynews
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.2]
-    - [Replay](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.w3g?raw=true)
-
-    ![](1.6/dps/9599-Monkeynews-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
