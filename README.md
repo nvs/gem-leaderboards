@@ -573,7 +573,7 @@ players.  A player can be in each category once.
     </details>
 
 10. <details>
-    <summary>37:19 -
+    <summary>36:33 -
         <a href="https://discordapp.com/users/165467020639469568">
             Doomchild
         </a>
@@ -581,9 +581,9 @@ players.  A player can be in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.5]
-    - [Replay](1.6/time/37:19-Doomchild-1.31.1-1.6.5.w3g?raw=true)
+    - [Replay](1.6/time/36:33-Doomchild-1.31.1-1.6.5.w3g?raw=true)
 
-    ![](1.6/time/37:19-Doomchild-1.31.1-1.6.5.jpg?raw=true)
+    ![](1.6/time/36:33-Doomchild-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
