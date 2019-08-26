@@ -745,6 +745,20 @@ players.  A player can be in each category once.
     </details>
 
 2.  <details>
+    <summary>Level 34 - 142719 -
+        <a href="https://discordapp.com/users/520945994519543808">
+            Wolfilein
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>Level 33 - 112313 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -758,7 +772,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/33_112313-sac42c-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>Level 31 - 126776 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -772,7 +786,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/31_126776-Sesamia-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>Level 30 - 107852 -
         <a href="https://discordapp.com/users/108427582340358144">
             Hal
@@ -786,7 +800,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>Level 30 - 107553 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -800,7 +814,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/30_107553-FryDays-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>Level 30 - 75572 -
         <a href="https://discordapp.com/users/116603375210070021">
             SkdragoN
@@ -814,7 +828,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/30_75572-SkdragoN-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>Level 29 - 85205 -
         <a href="https://discordapp.com/users/266942257649680385">
             Tocid
@@ -828,7 +842,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>Level 27 - 56129 -
         <a href="https://discordapp.com/users/235474089815310341">
             makaronilaama
@@ -842,7 +856,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/27_56129-makaronilaama-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>Level 23 - 42230 -
         <a href="https://discordapp.com/users/392196340639072256">
             BigBossSupreme
@@ -854,20 +868,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/no-maze/23_42230-BigBossSupreme-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/23_42230-BigBossSupreme-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 22 - 33251 -
-        <a href="https://discordapp.com/users/124966970763378693">
-            Genohacker
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/no-maze/22_33251-Genohacker-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/no-maze/22_33251-Genohacker-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
