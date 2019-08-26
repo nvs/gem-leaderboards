@@ -829,6 +829,20 @@ players.  A player can be in each category once.
     </details>
 
 8.  <details>
+    <summary>Level 29 - 89843 -
+        <a href="https://discordapp.com/users/124966970763378693">
+            Genohacker
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/no-maze/29_89843-Genohacker-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/no-maze/29_89843-Genohacker-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>Level 29 - 85205 -
         <a href="https://discordapp.com/users/266942257649680385">
             Tocid
@@ -842,7 +856,7 @@ players.  A player can be in each category once.
     ![](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>Level 27 - 56129 -
         <a href="https://discordapp.com/users/235474089815310341">
             makaronilaama
@@ -854,20 +868,6 @@ players.  A player can be in each category once.
     - [Replay](1.6/no-maze/27_56129-makaronilaama-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/no-maze/27_56129-makaronilaama-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 23 - 42230 -
-        <a href="https://discordapp.com/users/392196340639072256">
-            BigBossSupreme
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/no-maze/23_42230-BigBossSupreme-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/no-maze/23_42230-BigBossSupreme-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
