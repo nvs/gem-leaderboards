@@ -561,6 +561,20 @@ be in each category once.
     </details>
 
 9.  <details>
+    <summary>35:38 -
+        <a href="https://discordapp.com/users/104819373297901568">
+            Redkeekee
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/time/35:38-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/time/35:38-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>35:54 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
@@ -572,20 +586,6 @@ be in each category once.
     - [Replay](1.6/time/35:54-knuts-1.31.1-1.6.5.w3g?raw=true )
 
     ![](1.6/time/35:54-knuts-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>36:33 -
-        <a href="https://discordapp.com/users/165467020639469568">
-            Doomchild
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/36:33-Doomchild-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/time/36:33-Doomchild-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
