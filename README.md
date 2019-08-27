@@ -519,6 +519,20 @@ be in each category once.
     </details>
 
 6.  <details>
+    <summary>33:17 -
+        <a href="https://discordapp.com/users/165467020639469568">
+            Doomchild
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/time/33:17-Doomchild-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/time/33:17-Doomchild-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>34:29 -
         <a href="https://discordapp.com/users/124327547038203904">
             ltmeow
@@ -532,7 +546,7 @@ be in each category once.
     ![](1.6/time/34:29-ltmeow-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>35:02 -
         <a href="https://discordapp.com/users/518982437179752458">
             itsneveryeasy
@@ -546,7 +560,7 @@ be in each category once.
     ![](1.6/time/35:02-itsnevereasy-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>35:23 -
         <a href="https://discordapp.com/users/234421036802637825">
             Presea
@@ -560,7 +574,7 @@ be in each category once.
     ![](1.6/time/35:23-Presea-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>35:38 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -572,20 +586,6 @@ be in each category once.
     - [Replay](1.6/time/35:38-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/time/35:38-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>35:54 -
-        <a href="https://discordapp.com/users/175430560691257344">
-            knuts
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/35:54-knuts-1.31.1-1.6.5.w3g?raw=true )
-
-    ![](1.6/time/35:54-knuts-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
