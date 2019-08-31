@@ -619,6 +619,20 @@ be in each category once.
     </details>
 
 3.  <details>
+    <summary>11628 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/dps/11628-Sesamia-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/dps/11628-Sesamia-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>11358 -
         <a href="https://discordapp.com/users/242718937551339520">
             Porposmonon
@@ -632,7 +646,7 @@ be in each category once.
     ![](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>11119 -
         <a href="https://discordapp.com/users/518982437179752458">
             itsneveryeasy
@@ -646,7 +660,7 @@ be in each category once.
     ![](1.6/dps/11119-itsnevereasy-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>10949 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -658,20 +672,6 @@ be in each category once.
     - [Replay](1.6/dps/10949-Wolfilein-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/dps/10949-Wolfilein-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-6.  <details>
-    <summary>10905 -
-        <a href="https://discordapp.com/users/330183643215429633">
-            Sesamia
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.2]
-    - [Replay](1.6/dps/10905-Sesamia-1.31.1-1.6.2.w3g?raw=true)
-
-    ![](1.6/dps/10905-Sesamia-1.31.1-1.6.2.jpg?raw=true)
     </details>
 
 7.  <details>
@@ -884,3 +884,4 @@ be in each category once.
 [1.6.3]: https://github.com/nvs/gem/releases/tag/v1.6.3
 [1.6.4]: https://github.com/nvs/gem/releases/tag/v1.6.4
 [1.6.5]: https://github.com/nvs/gem/releases/tag/v1.6.5
+[1.6.6]: https://github.com/nvs/gem/releases/tag/v1.6.6
