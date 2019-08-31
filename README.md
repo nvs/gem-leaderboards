@@ -689,6 +689,20 @@ be in each category once.
     </details>
 
 8.  <details>
+    <summary>10610 -
+        <a href="https://discordapp.com/users/165467020639469568">
+            Doomchild
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.6]
+    - [Replay](1.6/dps/10610-Doomchild-1.31.1-1.6.6.w3g?raw=true)
+
+    ![](1.6/dps/10610-Doomchild-1.31.1-1.6.6.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>10385 -
         <a href="https://discordapp.com/users/234421036802637825">
             Presea
@@ -702,7 +716,7 @@ be in each category once.
     ![](1.6/dps/10385-Presea-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>10294 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -714,20 +728,6 @@ be in each category once.
     - [Replay](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>10145 -
-        <a href="https://discordapp.com/users/608150054846332929">
-            SaveMySoul
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.0]
-    - [Replay](1.6/dps/10145-SaveMySoul-1.31.1-1.6.0.w3g?raw=true)
-
-    ![](1.6/dps/10145-SaveMySoul-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
