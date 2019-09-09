@@ -561,6 +561,20 @@ be in each category once.
     </details>
 
 9.  <details>
+    <summary>35:15 -
+        <a href="https://discordapp.com/users/332326960283779073">
+            pijiu4u
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.6]
+    - [Replay](1.6/time/35:15-pijiu4u-1.31.1-1.6.6.w3g?raw=true)
+
+    ![](1.6/time/35:15-pijiu4u-1.31.1-1.6.6.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>35:23 -
         <a href="https://discordapp.com/users/234421036802637825">
             Presea
@@ -572,20 +586,6 @@ be in each category once.
     - [Replay](1.6/time/35:23-Presea-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/time/35:23-Presea-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>35:38 -
-        <a href="https://discordapp.com/users/104819373297901568">
-            Redkeekee
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/35:38-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/time/35:38-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
