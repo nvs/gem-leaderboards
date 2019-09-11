@@ -633,6 +633,20 @@ be in each category once.
     </details>
 
 4.  <details>
+    <summary>11553 -
+        <a href="https://discordapp.com/users/474330320167239702">
+            cucaracha
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](1.6/dps/11553-cucaracha-1.31.1-1.6.5.w3g?raw=true)
+
+    ![](1.6/dps/11553-cucaracha-1.31.1-1.6.5.jpg?raw=true)
+    </details>
+
+5.  <details>
     <summary>11358 -
         <a href="https://discordapp.com/users/242718937551339520">
             Porposmonon
@@ -646,7 +660,7 @@ be in each category once.
     ![](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>11119 -
         <a href="https://discordapp.com/users/518982437179752458">
             itsneveryeasy
@@ -660,7 +674,7 @@ be in each category once.
     ![](1.6/dps/11119-itsnevereasy-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>10949 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -674,7 +688,7 @@ be in each category once.
     ![](1.6/dps/10949-Wolfilein-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>10895 -
         <a href="https://discordapp.com/users/330183643215429633">
             alberto
@@ -688,7 +702,7 @@ be in each category once.
     ![](1.6/dps/10895-alberto-1.31.1-1.6.1.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>10610 -
         <a href="https://discordapp.com/users/165467020639469568">
             Doomchild
@@ -702,7 +716,7 @@ be in each category once.
     ![](1.6/dps/10610-Doomchild-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>10385 -
         <a href="https://discordapp.com/users/234421036802637825">
             Presea
@@ -714,20 +728,6 @@ be in each category once.
     - [Replay](1.6/dps/10385-Presea-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/dps/10385-Presea-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>10294 -
-        <a href="https://discordapp.com/users/145853647052341249">
-            prprfzzt
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.0]
-    - [Replay](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.w3g?raw=true)
-
-    ![](1.6/dps/10294-prprfzzt-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
