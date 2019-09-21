@@ -605,6 +605,20 @@ be in each category once.
     </details>
 
 2.  <details>
+    <summary>12647 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.6]
+    - [Replay](1.6/dps/12647-Sesamia-1.31.1-1.6.6.w3g?raw=true)
+
+    ![](1.6/dps/12647-Sesamia-1.31.1-1.6.6.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>11806 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
@@ -616,20 +630,6 @@ be in each category once.
     - [Replay](1.6/dps/11806-knuts-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/dps/11806-knuts-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-3.  <details>
-    <summary>11628 -
-        <a href="https://discordapp.com/users/330183643215429633">
-            Sesamia
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/dps/11628-Sesamia-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/dps/11628-Sesamia-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 4.  <details>
