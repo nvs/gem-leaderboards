@@ -689,6 +689,20 @@ be in each category once.
     </details>
 
 8.  <details>
+    <summary>11109 -
+        <a href="https://discordapp.com/users/269810827706630146">
+            FryDays
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.6]
+    - [Replay](1.6/dps/11109-FryDays-1.31.1-1.6.6.w3g?raw=true)
+
+    ![](1.6/dps/11109-FryDays-1.31.1-1.6.6.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>10949 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -702,7 +716,7 @@ be in each category once.
     ![](1.6/dps/10949-Wolfilein-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>10895 -
         <a href="https://discordapp.com/users/330183643215429633">
             alberto
@@ -714,20 +728,6 @@ be in each category once.
     - [Replay](1.6/dps/10895-alberto-1.31.1-1.6.1.w3g?raw=true)
 
     ![](1.6/dps/10895-alberto-1.31.1-1.6.1.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>10610 -
-        <a href="https://discordapp.com/users/165467020639469568">
-            Doomchild
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/dps/10610-Doomchild-1.31.1-1.6.6.w3g?raw=true)
-
-    ![](1.6/dps/10610-Doomchild-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
