@@ -591,6 +591,20 @@ be in each category once.
 ### 1.6 DPS
 
 1.  <details>
+    <summary>12951 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.6]
+    - [Replay](1.6/dps/12951-Sesamia-1.31.1-1.6.6.w3g?raw=true)
+
+    ![](1.6/dps/12951-Sesamia-1.31.1-1.6.6.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>12699 -
         <a href="https://discordapp.com/users/148133151678529536">
             Buskmurvel
@@ -602,20 +616,6 @@ be in each category once.
     - [Replay](1.6/dps/12699-Buskmurvel-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/dps/12699-Buskmurvel-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>12647 -
-        <a href="https://discordapp.com/users/330183643215429633">
-            Sesamia
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/dps/12647-Sesamia-1.31.1-1.6.6.w3g?raw=true)
-
-    ![](1.6/dps/12647-Sesamia-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 3.  <details>
