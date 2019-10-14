@@ -547,6 +547,20 @@ be in each category once.
     </details>
 
 8.  <details>
+    <summary>33:12 -
+        <a href="https://discordapp.com/users/278998936780406784">
+            B1amemenot
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.6]
+    - [Replay](1.6/time/33:12-B1amemenot-1.31.1-1.6.6.w3g?raw=true)
+
+    ![](1.6/time/33:12-B1amemenot-1.31.1-1.6.6.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>33:17 -
         <a href="https://discordapp.com/users/165467020639469568">
             Doomchild
@@ -560,7 +574,7 @@ be in each category once.
     ![](1.6/time/33:17-Doomchild-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>34:29 -
         <a href="https://discordapp.com/users/124327547038203904">
             ltmeow
@@ -572,20 +586,6 @@ be in each category once.
     - [Replay](1.6/time/34:29-ltmeow-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/time/34:29-ltmeow-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>35:02 -
-        <a href="https://discordapp.com/users/518982437179752458">
-            itsneveryeasy
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/35:02-itsnevereasy-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/time/35:02-itsnevereasy-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
