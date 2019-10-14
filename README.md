@@ -859,17 +859,17 @@ be in each category once.
     </details>
 
 10. <details>
-    <summary>Level 27 - 56129 -
-        <a href="https://discordapp.com/users/235474089815310341">
-            makaronilaama
+    <summary>Level 27 - 59005 -
+        <a href="https://discordapp.com/users/278998936780406784">
+            B1amemenot
         </a>
     </summary>
 
     - Patch: 1.31.1
-    - Version: [1.6.3]
-    - [Replay](1.6/no-maze/27_56129-makaronilaama-1.31.1-1.6.3.w3g?raw=true)
+    - Version: [1.6.6]
+    - [Replay](1.6/no-maze/27_59005-B1amemenot-1.31.1-1.6.6.w3g?raw=true)
 
-    ![](1.6/no-maze/27_56129-makaronilaama-1.31.1-1.6.3.jpg?raw=true)
+    ![](1.6/no-maze/27_59005-B1amemenot-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
