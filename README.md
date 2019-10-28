@@ -575,17 +575,17 @@ be in each category once.
     </details>
 
 10. <details>
-    <summary>34:29 -
-        <a href="https://discordapp.com/users/124327547038203904">
-            ltmeow
+    <summary>33:27 -
+        <a href="https://discordapp.com/users/104819373297901568">
+            Redkeekee
         </a>
     </summary>
 
     - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/34:29-ltmeow-1.31.1-1.6.5.w3g?raw=true)
+    - Version: [1.6.6]
+    - [Replay](1.6/time/33:27-Redkeekee-1.31.1-1.6.6.w3g?raw=true)
 
-    ![](1.6/time/34:29-ltmeow-1.31.1-1.6.5.jpg?raw=true)
+    ![](1.6/time/33:27-Redkeekee-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
