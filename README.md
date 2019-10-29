@@ -505,6 +505,20 @@ be in each category once.
     </details>
 
 5.  <details>
+    <summary>29:51 -
+        <a href="https://discordapp.com/users/104819373297901568">
+            Redkeekee
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.6]
+    - [Replay](1.6/time/29:51-Redkeekee-1.31.1-1.6.6.w3g?raw=true)
+
+    ![](1.6/time/29:51-Redkeekee-1.31.1-1.6.6.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>30:42 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -518,7 +532,7 @@ be in each category once.
     ![](1.6/time/30:42-Arsenic-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>31:06 -
         <a href="https://discordapp.com/users/346841019113013248">
             janme
@@ -532,7 +546,7 @@ be in each category once.
     ![](1.6/time/31:06-hashstit-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>32:01 -
         <a href="https://discordapp.com/users/474330320167239702">
             cucaracha
@@ -546,7 +560,7 @@ be in each category once.
     ![](1.6/time/32:01-cucaracha-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>33:12 -
         <a href="https://discordapp.com/users/278998936780406784">
             B1amemenot
@@ -560,7 +574,7 @@ be in each category once.
     ![](1.6/time/33:12-B1amemenot-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>33:17 -
         <a href="https://discordapp.com/users/165467020639469568">
             Doomchild
@@ -572,20 +586,6 @@ be in each category once.
     - [Replay](1.6/time/33:17-Doomchild-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/time/33:17-Doomchild-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>33:27 -
-        <a href="https://discordapp.com/users/104819373297901568">
-            Redkeekee
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/time/33:27-Redkeekee-1.31.1-1.6.6.w3g?raw=true)
-
-    ![](1.6/time/33:27-Redkeekee-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
