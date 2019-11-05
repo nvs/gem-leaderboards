@@ -30,11 +30,16 @@ state of the leaderboards at a given moment in time.
 2. Ensure you are playing the [latest version] of the map.  Games played on
    older versions, testing versions, or unofficial versions are not
    accepted.
-3. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
+3. Ensure that the map is placed within the default directory for downloaded
+   maps (i.e. `Maps/Download/Gem TD Plus X.Y.Z.w3x`) and not a subdirectory.
+   The map location is recorded into the replay, and non-default locations
+   require viewers to move the map.  Games with maps in non-default
+   locations are not accepted.
+4. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
    `#submitted-games` channel.  A game will not be verified without a
    replay. *Tip: Just drag them into the channel!*
-4. See if further information is needed for verification.
-5. Join the leaderboards, then try to make sure your name stays there!
+5. See if further information is needed for verification.
+6. Join the leaderboards, then try to make sure your name stays there!
 
 [Gem TD+ Discord]: https://discord.gg/PxNNp77
 [latest version]: https://github.com/nvs/gem/releases/latest
