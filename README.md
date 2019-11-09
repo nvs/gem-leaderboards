@@ -722,17 +722,17 @@ be in each category once.
     </details>
 
 10. <details>
-    <summary>11119 -
-        <a href="https://discordapp.com/users/518982437179752458">
-            itsneveryeasy
+    <summary>11126 -
+        <a href="https://discordapp.com/users/520945994519543808">
+            Wolfilein
         </a>
     </summary>
 
     - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/dps/11119-itsnevereasy-1.31.1-1.6.5.w3g?raw=true)
+    - Version: [1.6.7]
+    - [Replay](1.6/dps/11126-Wolfilein-1.31.1-1.6.7.w3g?raw=true)
 
-    ![](1.6/dps/11119-itsnevereasy-1.31.1-1.6.5.jpg?raw=true)
+    ![](1.6/dps/11126-Wolfilein-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
