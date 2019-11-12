@@ -652,17 +652,17 @@ be in each category once.
     </details>
 
 5.  <details>
-    <summary>11508 -
+    <summary>11517 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
         </a>
     </summary>
 
     - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/dps/11508-Redkeekee-1.31.1-1.6.6.w3g?raw=true)
+    - Version: [1.6.7]
+    - [Replay](1.6/dps/11517-Redkeekee-1.31.1-1.6.7.w3g?raw=true)
 
-    ![](1.6/dps/11508-Redkeekee-1.31.1-1.6.6.jpg?raw=true)
+    ![](1.6/dps/11517-Redkeekee-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
 6.  <details>
@@ -890,3 +890,4 @@ be in each category once.
 [1.6.4]: https://github.com/nvs/gem/releases/tag/v1.6.4
 [1.6.5]: https://github.com/nvs/gem/releases/tag/v1.6.5
 [1.6.6]: https://github.com/nvs/gem/releases/tag/v1.6.6
+[1.6.7]: https://github.com/nvs/gem/releases/tag/v1.6.7
