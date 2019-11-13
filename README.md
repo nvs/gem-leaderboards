@@ -624,6 +624,20 @@ be in each category once.
     </details>
 
 3.  <details>
+    <summary>12604 -
+        <a href="https://discordapp.com/users/104819373297901568">
+            Redkeekee
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.7]
+    - [Replay](1.6/dps/12604-Redkeekee-1.31.1-1.6.7.w3g?raw=true)
+
+    ![](1.6/dps/12604-Redkeekee-1.31.1-1.6.7.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>11806 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
@@ -637,7 +651,7 @@ be in each category once.
     ![](1.6/dps/11806-knuts-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>11553 -
         <a href="https://discordapp.com/users/474330320167239702">
             cucaracha
@@ -649,20 +663,6 @@ be in each category once.
     - [Replay](1.6/dps/11553-cucaracha-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/dps/11553-cucaracha-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-5.  <details>
-    <summary>11517 -
-        <a href="https://discordapp.com/users/104819373297901568">
-            Redkeekee
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.7]
-    - [Replay](1.6/dps/11517-Redkeekee-1.31.1-1.6.7.w3g?raw=true)
-
-    ![](1.6/dps/11517-Redkeekee-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
 6.  <details>
