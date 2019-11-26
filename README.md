@@ -538,6 +538,20 @@ be in each category once.
     </details>
 
 7.  <details>
+    <summary>30:41 -
+        <a href="https://discordapp.com/users/160915097206784009">
+            ZUNKEN
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.7]
+    - [Replay](1.6/time/30:41-ZUNKEN-1.31.1-1.6.7.w3g?raw=true)
+
+    ![](1.6/time/30:41-ZUNKEN-1.31.1-1.6.7.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>30:42 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -549,20 +563,6 @@ be in each category once.
     - [Replay](1.6/time/30:42-Arsenic-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/time/30:42-Arsenic-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-8.  <details>
-    <summary>30:49 -
-        <a href="https://discordapp.com/users/160915097206784009">
-            ZUNKEN
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/time/30:48-zunken-1.31.1-1.6.6.w3g?raw=true)
-
-    ![](1.6/time/30:48-zunken-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 9.  <details>
