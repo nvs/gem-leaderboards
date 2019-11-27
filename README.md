@@ -524,6 +524,20 @@ be in each category once.
     </details>
 
 6.  <details>
+    <summary>29:57 -
+        <a href="https://discordapp.com/users/417051812152082453">
+            Faqar
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.7]
+    - [Replay](1.6/time/29:57-Faqar-1.31.1-1.6.7.w3g?raw=true)
+
+    ![](1.6/time/29:57-Faqar-1.31.1-1.6.7.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>30:06 -
         <a href="https://discordapp.com/users/248561283467706368">
             Morgoth
@@ -537,7 +551,7 @@ be in each category once.
     ![](1.6/time/30:06-Morgoth-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>30:41 -
         <a href="https://discordapp.com/users/160915097206784009">
             ZUNKEN
@@ -551,7 +565,7 @@ be in each category once.
     ![](1.6/time/30:41-ZUNKEN-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>30:42 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -565,7 +579,7 @@ be in each category once.
     ![](1.6/time/30:42-Arsenic-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>31:06 -
         <a href="https://discordapp.com/users/346841019113013248">
             janme
@@ -577,20 +591,6 @@ be in each category once.
     - [Replay](1.6/time/31:06-hashstit-1.31.1-1.6.6.w3g?raw=true)
 
     ![](1.6/time/31:06-hashstit-1.31.1-1.6.6.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>32:01 -
-        <a href="https://discordapp.com/users/474330320167239702">
-            cucaracha
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/32:01-cucaracha-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/time/32:01-cucaracha-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
