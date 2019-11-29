@@ -666,6 +666,20 @@ be in each category once.
     </details>
 
 6.  <details>
+    <summary>11616 -
+        <a href="https://discordapp.com/users/278998936780406784">
+            B1amemenot
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.7]
+    - [Replay](1.6/dps/11616-B1ameMeNot-1.31.1-1.6.7.w3g?raw=true)
+
+    ![](1.6/dps/11616-B1ameMeNot-1.31.1-1.6.7.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>11553 -
         <a href="https://discordapp.com/users/474330320167239702">
             cucaracha
@@ -679,7 +693,7 @@ be in each category once.
     ![](1.6/dps/11553-cucaracha-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>11358 -
         <a href="https://discordapp.com/users/242718937551339520">
             Porposmonon
@@ -693,7 +707,7 @@ be in each category once.
     ![](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>11246 -
         <a href="https://discordapp.com/users/248561283467706368">
             Morgoth
@@ -705,20 +719,6 @@ be in each category once.
     - [Replay](1.6/dps/11246-Morgoth-1.31.1-1.6.6.w3g?raw=true)
 
     ![](1.6/dps/11246-Morgoth-1.31.1-1.6.6.jpg?raw=true)
-    </details>
-
-9.  <details>
-    <summary>11194 -
-        <a href="https://discordapp.com/users/278998936780406784">
-            B1amemenot
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/dps/11194-B1ameMeNot-1.31.1-1.6.6.w3g?raw=true)
-
-    ![](1.6/dps/11194-B1ameMeNot-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 10. <details>
