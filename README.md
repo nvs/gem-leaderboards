@@ -794,6 +794,20 @@ be in each category once.
     </details>
 
 5.  <details>
+    <summary>Level 31 - 124895 -
+        <a href="https://discordapp.com/users/124966970763378693">
+            Genohacker
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.8]
+    - [Replay](1.6/no-maze/29_89843-Genohacker-1.31.1-1.6.8.w3g?raw=true)
+
+    ![](1.6/no-maze/29_89843-Genohacker-1.31.1-1.6.8.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>Level 30 - 107852 -
         <a href="https://discordapp.com/users/108427582340358144">
             Hal
@@ -807,7 +821,7 @@ be in each category once.
     ![](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>Level 30 - 107553 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -821,7 +835,7 @@ be in each category once.
     ![](1.6/no-maze/30_107553-FryDays-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>Level 30 - 90357 -
         <a href="https://discordapp.com/users/278998936780406784">
             B1amemenot
@@ -835,7 +849,7 @@ be in each category once.
     ![](1.6/no-maze/30_90357-B1ameMeNot-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>Level 30 - 75572 -
         <a href="https://discordapp.com/users/116603375210070021">
             SkdragoN
@@ -847,20 +861,6 @@ be in each category once.
     - [Replay](1.6/no-maze/30_75572-SkdragoN-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/30_75572-SkdragoN-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-9.  <details>
-    <summary>Level 29 - 89843 -
-        <a href="https://discordapp.com/users/124966970763378693">
-            Genohacker
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/no-maze/29_89843-Genohacker-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/no-maze/29_89843-Genohacker-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 10. <details>
@@ -891,3 +891,4 @@ be in each category once.
 [1.6.5]: https://github.com/nvs/gem/releases/tag/v1.6.5
 [1.6.6]: https://github.com/nvs/gem/releases/tag/v1.6.6
 [1.6.7]: https://github.com/nvs/gem/releases/tag/v1.6.7
+[1.6.8]: https://github.com/nvs/gem/releases/tag/v1.6.8
