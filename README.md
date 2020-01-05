@@ -802,9 +802,9 @@ be in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.8]
-    - [Replay](1.6/no-maze/29_89843-Genohacker-1.31.1-1.6.8.w3g?raw=true)
+    - [Replay](1.6/no-maze/31_124895-Genohacker-1.31.1-1.6.8.w3g?raw=true)
 
-    ![](1.6/no-maze/29_89843-Genohacker-1.31.1-1.6.8.jpg?raw=true)
+    ![](1.6/no-maze/31_124895-Genohacker-1.31.1-1.6.8.jpg?raw=true)
     </details>
 
 6.  <details>
