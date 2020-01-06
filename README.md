@@ -129,17 +129,27 @@ are closed as of 2019-06-01.
 
 [NVS]: https://github.com/nvs
 
+### Categories
+
+- **[Time](#15-time).** Only games that complete Level 50 will be
+  considered.
+- **[DPS](#15-dps).** Only games that completely Level 50 will
+
 ### Prizes
 
 - The **top player** in each category will be recognized as one of the Gem
   TD+ Champions.  They will receive this role on the Discord.  They will
   also randomnly appear in place of bosses, with a model of their choosing.
   This is purely cosmetic.
-- The **top three players** in each category will have a critter/NPC added
-  to the middle area to acknowledge their achievement.  They will also
-  become Leveled on the Discord.
+- **Second and third place** in each category will randomnly appear in
+  place of veteran units, with a model of their choosing.  This is purely
+  cosmetic.
+- All players recognized via the above will become Leveled on the Discord.
+  A critter/NPC will be added to the middle area to acknowledge their
+  achievement.
 
-*Note: [NVS] is excluded from the prizes.*
+*Note: [NVS] is excluded from the prizes.  The reward extends to the next
+position as a result.*
 
 ### 1.5 Time
 
@@ -435,21 +445,31 @@ be in each category once.
 
 ### Categories
 
-- **Time.** Only games that complete Level 50 will be considered.
-- **DPS.** Only games that complete Level 50 will be considered.
-- **No Maze.** Only games that use `-maze` to disable mazing will be
-  considered.  The board will display damage and progress upon losing, and
-  this will be used for placement on the leaderboard.
+- **[Time](#16-time).** Only games that complete Level 50 will be
+  considered.
+- **[DPS](#16-dps).** Only games that complete Level 50 will be considered.
+- **[No Maze](#16-no-maze).** Only games that use `-maze` to disable mazing
+  will be considered.
+- **[No Extra Chance](#16-no-extra-chance).** Only games that use `-extra`
+  to disable Extra Chance will be considered.
 
 ### Prizes
 
+- The **top player** from all categories (as determined by a scoring system)
+  will be recognized as one of the Gem TD+ Grand Champions.  They will
+  receive this role on the Discord.  They will also randomnly appear in
+  place of the Stone of Bryvx, with a model of their choosing.  This is
+  purely cosmetic.
 - The **top player** in each category will be recognized as one of the Gem
   TD+ Champions.  They will receive this role on the Discord.  They will
   also randomnly appear in place of bosses, with a model of their choosing.
   This is purely cosmetic.
-- The **top three players** in each category will have a critter/NPC added
-  to the middle area to acknowledge their achievement.  They will also
-  become Leveled on the Discord.
+- **Second and third place** in each category will randomnly appear in
+  place of veteran units, with a model of their choosing.  This is purely
+  cosmetic.
+- All players recognized via the above will become Leveled on the Discord.
+  A critter/NPC will be added to the middle area to acknowledge their
+  achievement.
 
 ### 1.6 Time
 
@@ -877,6 +897,9 @@ be in each category once.
     ![](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
+### 1.6 No Extra Chance
+- N/A
+
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
 [1.5.2]: https://github.com/nvs/gem/releases/tag/v1.5.2
@@ -892,3 +915,4 @@ be in each category once.
 [1.6.6]: https://github.com/nvs/gem/releases/tag/v1.6.6
 [1.6.7]: https://github.com/nvs/gem/releases/tag/v1.6.7
 [1.6.8]: https://github.com/nvs/gem/releases/tag/v1.6.8
+[1.6.9]: https://github.com/nvs/gem/releases/tag/v1.6.9
