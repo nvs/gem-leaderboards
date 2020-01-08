@@ -139,9 +139,9 @@ are closed as of 2019-06-01.
 
 - The **top player** in each category will be recognized as one of the Gem
   TD+ Champions.  They will receive this role on the Discord.  They will
-  also randomnly appear in place of bosses, with a model of their choosing.
+  also randomly appear in place of bosses, with a model of their choosing.
   This is purely cosmetic.
-- **Second and third place** in each category will randomnly appear in
+- **Second and third place** in each category will randomly appear in
   place of veteran units, with a model of their choosing.  This is purely
   cosmetic.
 - All players recognized via the above will become Leveled on the Discord.
@@ -457,9 +457,9 @@ be in each category once.
 
 - The **top player** in each category will be recognized as one of the Gem
   TD+ Champions.  They will receive this role on the Discord.  They will
-  also randomnly appear in place of bosses, with a model of their choosing.
+  also randomly appear in place of bosses, with a model of their choosing.
   This is purely cosmetic.
-- **Second and third place** in each category will randomnly appear in
+- **Second and third place** in each category will randomly appear in
   place of veteran units, with a model of their choosing.  This is purely
   cosmetic.
 - All players recognized via the above will become Leveled on the Discord.
