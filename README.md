@@ -450,8 +450,6 @@ be in each category once.
 - **[DPS](#16-dps).** Only games that complete Level 50 will be considered.
 - **[No Maze](#16-no-maze).** Only games that use `-maze` to disable mazing
   will be considered.
-- **[No Extra Chance](#16-no-extra-chance).** Only games that use `-extra`
-  to disable Extra Chance will be considered.  Level 50 must be cleared.
 
 ### Prizes
 
@@ -890,22 +888,6 @@ be in each category once.
     - [Replay](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-### 1.6 No Extra Chance
-
-1.  <details>
-    <summary>37:08 -
-        <a href="https://discordapp.com/users/330183643215429633">
-            Sesamia
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.9]
-    - [Replay](1.6/no-extra-chance/37:08-Sesamia-1.31.1-1.6.9.w3g?raw=true)
-
-    ![](1.6/no-extra-chance/37:08-Sesamia-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
