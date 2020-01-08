@@ -455,11 +455,6 @@ be in each category once.
 
 ### Prizes
 
-- The **top player** from all categories (as determined by a scoring system)
-  will be recognized as one of the Gem TD+ Grand Champions.  They will
-  receive this role on the Discord.  They will also randomnly appear in
-  place of the Stone of Bryvx, with a model of their choosing.  This is
-  purely cosmetic.
 - The **top player** in each category will be recognized as one of the Gem
   TD+ Champions.  They will receive this role on the Discord.  They will
   also randomnly appear in place of bosses, with a model of their choosing.
