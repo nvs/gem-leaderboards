@@ -898,7 +898,20 @@ be in each category once.
     </details>
 
 ### 1.6 No Extra Chance
-- N/A
+
+1.  <details>
+    <summary>37:08 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.9]
+    - [Replay](1.6/no-extra-chance/37:08-Sesamia-1.31.1-1.6.9.w3g?raw=true)
+
+    ![](1.6/no-extra-chance/37:08-Sesamia-1.31.1-1.6.9.jpg?raw=true)
+    </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
 [1.5.1]: https://github.com/nvs/gem/releases/tag/v1.5.1
