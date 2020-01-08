@@ -451,7 +451,7 @@ be in each category once.
 - **[No Maze](#16-no-maze).** Only games that use `-maze` to disable mazing
   will be considered.
 - **[No Extra Chance](#16-no-extra-chance).** Only games that use `-extra`
-  to disable Extra Chance will be considered.
+  to disable Extra Chance will be considered.  Level 50 must be cleared.
 
 ### Prizes
 
