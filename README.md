@@ -807,17 +807,17 @@ be in each category once.
     </details>
 
 5.  <details>
-    <summary>Level 31 - 126502 -
+    <summary>Level 31 - 126620 -
         <a href="https://discordapp.com/users/124966970763378693">
-            Genohacker
+            GenoHacker
         </a>
     </summary>
 
     - Patch: 1.31.1
     - Version: [1.6.9]
-    - [Replay](1.6/no-maze/31_126502-Genohacker-1.31.1-1.6.9.w3g?raw=true)
+    - [Replay](1.6/no-maze/31_126620-GenoHacker-1.31.1-1.6.9.w3g?raw=true)
 
-    ![](1.6/no-maze/31_126502-Genohacker-1.31.1-1.6.9.jpg?raw=true)
+    ![](1.6/no-maze/31_126620-GenoHacker-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
 6.  <details>
