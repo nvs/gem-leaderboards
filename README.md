@@ -623,6 +623,20 @@ be in each category once.
     </details>
 
 2.  <details>
+    <summary>12875 -
+        <a href="https://discordapp.com/users/269810827706630146">
+            FryDays
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.9]
+    - [Replay](1.6/dps/12875-FryDays-1.31.1-1.6.9.w3g?raw=true)
+
+    ![](1.6/dps/12875-FryDays-1.31.1-1.6.9.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>12791 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -636,7 +650,7 @@ be in each category once.
     ![](1.6/dps/12791-Wolfilein-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>12699 -
         <a href="https://discordapp.com/users/148133151678529536">
             Buskmurvel
@@ -650,7 +664,7 @@ be in each category once.
     ![](1.6/dps/12699-Buskmurvel-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>12604 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -664,7 +678,7 @@ be in each category once.
     ![](1.6/dps/12604-Redkeekee-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>11806 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
@@ -678,7 +692,7 @@ be in each category once.
     ![](1.6/dps/11806-knuts-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>11616 -
         <a href="https://discordapp.com/users/278998936780406784">
             B1amemenot
@@ -692,7 +706,7 @@ be in each category once.
     ![](1.6/dps/11616-B1ameMeNot-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>11553 -
         <a href="https://discordapp.com/users/474330320167239702">
             cucaracha
@@ -706,7 +720,7 @@ be in each category once.
     ![](1.6/dps/11553-cucaracha-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>11358 -
         <a href="https://discordapp.com/users/242718937551339520">
             Porposmonon
@@ -720,7 +734,7 @@ be in each category once.
     ![](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>11246 -
         <a href="https://discordapp.com/users/248561283467706368">
             Morgoth
@@ -732,20 +746,6 @@ be in each category once.
     - [Replay](1.6/dps/11246-Morgoth-1.31.1-1.6.6.w3g?raw=true)
 
     ![](1.6/dps/11246-Morgoth-1.31.1-1.6.6.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>11127 -
-        <a href="https://discordapp.com/users/332326960283779073">
-            pijiu4u
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/dps/11127-pijiu4u-1.31.1-1.6.6.w3g?raw=true)
-
-    ![](1.6/dps/11127-pijiu4u-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
