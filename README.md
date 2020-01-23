@@ -779,6 +779,20 @@ be in each category once.
     </details>
 
 3.  <details>
+    <summary>Level 34 - 156133 -
+        <a href="https://discordapp.com/users/124966970763378693">
+            GenoHacker
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.9]
+    - [Replay](1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.w3g?raw=true)
+
+    ![](1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>Level 34 - 142719 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -792,7 +806,7 @@ be in each category once.
     ![](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>Level 33 - 112313 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -804,20 +818,6 @@ be in each category once.
     - [Replay](1.6/no-maze/33_112313-sac42c-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/33_112313-sac42c-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-5.  <details>
-    <summary>Level 31 - 126620 -
-        <a href="https://discordapp.com/users/124966970763378693">
-            GenoHacker
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.9]
-    - [Replay](1.6/no-maze/31_126620-GenoHacker-1.31.1-1.6.9.w3g?raw=true)
-
-    ![](1.6/no-maze/31_126620-GenoHacker-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
 6.  <details>
