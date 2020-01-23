@@ -665,6 +665,20 @@ be in each category once.
     </details>
 
 5.  <details>
+    <summary>12681 -
+        <a href="https://discordapp.com/users/278998936780406784">
+            B1ameMeNot
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.9]
+    - [Replay](1.6/dps/12681-B1ameMeNot-1.31.1-1.6.9.w3g?raw=true)
+
+    ![](1.6/dps/12681-B1ameMeNot-1.31.1-1.6.9.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>12604 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -678,7 +692,7 @@ be in each category once.
     ![](1.6/dps/12604-Redkeekee-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>11806 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
@@ -690,20 +704,6 @@ be in each category once.
     - [Replay](1.6/dps/11806-knuts-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/dps/11806-knuts-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-7.  <details>
-    <summary>11616 -
-        <a href="https://discordapp.com/users/278998936780406784">
-            B1amemenot
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.7]
-    - [Replay](1.6/dps/11616-B1ameMeNot-1.31.1-1.6.7.w3g?raw=true)
-
-    ![](1.6/dps/11616-B1ameMeNot-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
 8.  <details>
