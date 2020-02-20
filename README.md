@@ -27,19 +27,21 @@ state of the leaderboards at a given moment in time.
 1. Join the official [Gem TD+ Discord].  Your Discord account is used to
    identify your submitted games.  Games cannot be submitted on someone
    else's behalf.
-2. Ensure you are playing the [latest version] of the map.  Games played on
+2. Ensure you are playing on the latest Warcraft III patch.  Games played on
+   older patches are not accepted.
+3. Ensure you are playing the [latest version] of the map.  Games played on
    older versions, testing versions, or unofficial versions are not
    accepted.
-3. Ensure that the map is placed within the default directory for downloaded
+4. Ensure that the map is placed within the default directory for downloaded
    maps (i.e. `Maps/Download/Gem TD Plus X.Y.Z.w3x`) and not a subdirectory.
    The map location is recorded into the replay, and non-default locations
    require viewers to move the map.  Games with maps in non-default
    locations are not accepted.
-4. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
+5. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
    `#submitted-games` channel.  A game will not be verified without a
    replay. *Tip: Just drag them into the channel!*
-5. See if further information is needed for verification.
-6. Join the leaderboards, then try to make sure your name stays there!
+6. See if further information is needed for verification.
+7. Join the leaderboards, then try to make sure your name stays there!
 
 [Gem TD+ Discord]: https://discord.gg/PxNNp77
 [latest version]: https://github.com/nvs/gem/releases/latest
