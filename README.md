@@ -767,6 +767,20 @@ be in each category once.
     </details>
 
 2.  <details>
+    <summary>Level 37 - 186704 -
+        <a href="https://discordapp.com/users/417051812152082453">
+            Faqar
+        </a>
+    </summary>
+
+    - Patch: 1.32.1
+    - Version: [1.6.10]
+    - [Replay](1.6/no-maze/37_186704-Faqar-1.32.1-1.6.10.w3g?raw=true)
+
+    ![](1.6/no-maze/37_186704-Faqar-1.32.1-1.6.10.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>Level 35 - 157953 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -780,7 +794,7 @@ be in each category once.
     ![](1.6/no-maze/35_157953-Sesamia-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>Level 34 - 156133 -
         <a href="https://discordapp.com/users/124966970763378693">
             GenoHacker
@@ -794,7 +808,7 @@ be in each category once.
     ![](1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>Level 34 - 142719 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -808,7 +822,7 @@ be in each category once.
     ![](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>Level 33 - 112313 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -822,7 +836,7 @@ be in each category once.
     ![](1.6/no-maze/33_112313-sac42c-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>Level 30 - 107852 -
         <a href="https://discordapp.com/users/108427582340358144">
             Hal
@@ -836,7 +850,7 @@ be in each category once.
     ![](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>Level 30 - 107553 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -850,7 +864,7 @@ be in each category once.
     ![](1.6/no-maze/30_107553-FryDays-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>Level 30 - 90357 -
         <a href="https://discordapp.com/users/278998936780406784">
             B1amemenot
@@ -864,7 +878,7 @@ be in each category once.
     ![](1.6/no-maze/30_90357-B1ameMeNot-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>Level 30 - 75572 -
         <a href="https://discordapp.com/users/116603375210070021">
             SkdragoN
@@ -876,20 +890,6 @@ be in each category once.
     - [Replay](1.6/no-maze/30_75572-SkdragoN-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/30_75572-SkdragoN-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 29 - 85205 -
-        <a href="https://discordapp.com/users/266942257649680385">
-            Tocid
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.3]
-    - [Replay](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.w3g?raw=true)
-
-    ![](1.6/no-maze/29_85205-Tocid-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
@@ -908,3 +908,4 @@ be in each category once.
 [1.6.7]: https://github.com/nvs/gem/releases/tag/v1.6.7
 [1.6.8]: https://github.com/nvs/gem/releases/tag/v1.6.8
 [1.6.9]: https://github.com/nvs/gem/releases/tag/v1.6.9
+[1.6.10]: https://github.com/nvs/gem/releases/tag/v1.6.10
