@@ -695,6 +695,20 @@ be in each category once.
     </details>
 
 7.  <details>
+    <summary>12213 -
+        <a href="https://discordapp.com/users/106859436508712960">
+            freeqaz
+        </a>
+    </summary>
+
+    - Patch: 1.32.1
+    - Version: [1.6.10]
+    - [Replay](1.6/dps/12213-freeqaz-1.32.1-1.6.10.w3g?raw=true)
+
+    ![](1.6/dps/12213-freeqaz-1.32.1-1.6.10.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>11806 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
@@ -708,7 +722,7 @@ be in each category once.
     ![](1.6/dps/11806-knuts-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>11553 -
         <a href="https://discordapp.com/users/474330320167239702">
             cucaracha
@@ -722,7 +736,7 @@ be in each category once.
     ![](1.6/dps/11553-cucaracha-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>11358 -
         <a href="https://discordapp.com/users/242718937551339520">
             Porposmonon
@@ -734,20 +748,6 @@ be in each category once.
     - [Replay](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.w3g?raw=true)
 
     ![](1.6/dps/11358-Porposmonon-1.31.1-1.6.0.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>11246 -
-        <a href="https://discordapp.com/users/248561283467706368">
-            Morgoth
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/dps/11246-Morgoth-1.31.1-1.6.6.w3g?raw=true)
-
-    ![](1.6/dps/11246-Morgoth-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
