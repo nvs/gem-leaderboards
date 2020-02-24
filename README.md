@@ -497,6 +497,20 @@ be in each category once.
     </details>
 
 3.  <details>
+    <summary>28:33 -
+        <a href="https://discordapp.com/users/148133151678529536">
+            Buskmurvel
+        </a>
+    </summary>
+
+    - Patch: 1.32.1
+    - Version: [1.6.10]
+    - [Replay](1.6/time/28:33-Buskmurvel-1.32.1-1.6.10.w3g?raw=true)
+
+    ![](1.6/time/28:33-Buskmurvel-1.32.1-1.6.10.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>29:05 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -508,20 +522,6 @@ be in each category once.
     - [Replay](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>29:08 -
-        <a href="https://discordapp.com/users/148133151678529536">
-            Buskmurvel
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.3]
-    - [Replay](1.6/time/29:08-Buskmurvel-1.31.1-1.6.3.w3g?raw=true)
-
-    ![](1.6/time/29:08-Buskmurvel-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
 5.  <details>
