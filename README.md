@@ -753,6 +753,20 @@ be in each category once.
 ### 1.6 No Maze
 
 1.  <details>
+    <summary>Level 38 - 219933 -
+        <a href="https://discordapp.com/users/417051812152082453">
+            Faqar
+        </a>
+    </summary>
+
+    - Patch: 1.32.2
+    - Version: [1.6.10]
+    - [Replay](1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.w3g?raw=true)
+
+    ![](1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>Level 38 - 189384 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -764,20 +778,6 @@ be in each category once.
     - [Replay](1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>Level 37 - 186704 -
-        <a href="https://discordapp.com/users/417051812152082453">
-            Faqar
-        </a>
-    </summary>
-
-    - Patch: 1.32.1
-    - Version: [1.6.10]
-    - [Replay](1.6/no-maze/37_186704-Faqar-1.32.1-1.6.10.w3g?raw=true)
-
-    ![](1.6/no-maze/37_186704-Faqar-1.32.1-1.6.10.jpg?raw=true)
     </details>
 
 3.  <details>
