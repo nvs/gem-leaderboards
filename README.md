@@ -567,17 +567,17 @@ be in each category once.
     </details>
 
 8.  <details>
-    <summary>30:41 -
+    <summary>30:37 -
         <a href="https://discordapp.com/users/160915097206784009">
             ZUNKEN
         </a>
     </summary>
 
-    - Patch: 1.31.1
-    - Version: [1.6.7]
-    - [Replay](1.6/time/30:41-ZUNKEN-1.31.1-1.6.7.w3g?raw=true)
+    - Patch: 1.32.2
+    - Version: [1.6.10]
+    - [Replay](1.6/time/30:37-ZUNKEN-1.32.2-1.6.10.w3g?raw=true)
 
-    ![](1.6/time/30:41-ZUNKEN-1.31.1-1.6.7.jpg?raw=true)
+    ![](1.6/time/30:37-ZUNKEN-1.32.2-1.6.10.jpg?raw=true)
     </details>
 
 9.  <details>
