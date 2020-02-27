@@ -285,15 +285,15 @@ position as a result.*
 10. <details>
     <summary>36:04 -
         <a href="https://discordapp.com/users/124327547038203904">
-            ltmeow
+            Ltmeow
         </a>
     </summary>
 
     - Patch: 1.30.4
     - Version: [1.5.2]
-    - [Replay](1.5/time/36_04-ltmeow-1.30.4-1.5.2.w3g?raw=true)
+    - [Replay](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.w3g?raw=true)
 
-    ![](1.5/time/36_04-ltmeow-1.30.4-1.5.2.jpg?raw=true)
+    ![](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.jpg?raw=true)
     </details>
 
 ### 1.5 DPS
