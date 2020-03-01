@@ -567,6 +567,20 @@ be in each category once.
     </details>
 
 8.  <details>
+    <summary>30:29 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.2
+    - Version: [1.6.10]
+    - [Replay](1.6/time/30:29-EvilObiWan-1.32.2.1.6.10.w3g?raw=true)
+
+    ![](1.6/time/30:29-EvilObiWan-1.32.2.1.6.10.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>30:37 -
         <a href="https://discordapp.com/users/160915097206784009">
             ZUNKEN
@@ -580,7 +594,7 @@ be in each category once.
     ![](1.6/time/30:37-ZUNKEN-1.32.2-1.6.10.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>30:42 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -592,20 +606,6 @@ be in each category once.
     - [Replay](1.6/time/30:42-Arsenic-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/time/30:42-Arsenic-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>31:06 -
-        <a href="https://discordapp.com/users/346841019113013248">
-            janme
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/time/31:06-hashstit-1.31.1-1.6.6.w3g?raw=true)
-
-    ![](1.6/time/31:06-hashstit-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
