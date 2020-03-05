@@ -865,6 +865,20 @@ be in each category once.
     </details>
 
 9.  <details>
+    <summary>Level 30 - 93744 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.2
+    - Version: [1.6.10]
+    - [Replay](1.6/no-maze/30_93744-EvilObiWan-1.32.2-1.6.10.w3g?raw=true)
+
+    ![](1.6/no-maze/30_93744-EvilObiWan-1.32.2-1.6.10.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>Level 30 - 90357 -
         <a href="https://discordapp.com/users/278998936780406784">
             B1amemenot
@@ -876,20 +890,6 @@ be in each category once.
     - [Replay](1.6/no-maze/30_90357-B1ameMeNot-1.31.1-1.6.6.w3g?raw=true)
 
     ![](1.6/no-maze/30_90357-B1ameMeNot-1.31.1-1.6.6.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 30 - 75572 -
-        <a href="https://discordapp.com/users/116603375210070021">
-            SkdragoN
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/no-maze/30_75572-SkdragoN-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/no-maze/30_75572-SkdragoN-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
