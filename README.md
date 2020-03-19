@@ -37,11 +37,14 @@ state of the leaderboards at a given moment in time.
    The map location is recorded into the replay, and non-default locations
    require viewers to move the map.  Games with maps in non-default
    locations are not accepted.
-5. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
+5. Ensure that you are following any leaderboard category specific rules.
+   These can change gameplay in ways that cannot be replicated exactly
+   otherwise.
+6. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
    Leaderboards `#submit` channel.  A game will not be verified without a
    replay. *Tip: Just drag them into the channel!*
-6. See if further information is needed for verification.
-7. Join the leaderboards, then try to make sure your name stays there!
+7. See if further information is needed for verification.
+8. Join the leaderboards, then try to make sure your name stays there!
 
 [Gem TD+ Discord]: https://discord.gg/PxNNp77
 [latest version]: https://github.com/nvs/gem/releases/latest
