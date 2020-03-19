@@ -882,17 +882,17 @@ be in each category once.
     </details>
 
 10. <details>
-    <summary>Level 30 - 93744 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
+    <summary>Level 30 - 99625 -
+        <a href="https://discordapp.com/users/371817313281900545">
+            Remo
         </a>
     </summary>
 
-    - Patch: 1.32.2
+    - Patch: 1.32.3
     - Version: [1.6.10]
-    - [Replay](1.6/no-maze/30_93744-EvilObiWan-1.32.2-1.6.10.w3g?raw=true)
+    - [Replay](1.6/no-maze/30_99625-Remo-1.32.3-1.6.10.w3g?raw=true)
 
-    ![](1.6/no-maze/30_93744-EvilObiWan-1.32.2-1.6.10.jpg?raw=true)
+    ![](1.6/no-maze/30_99625-Remo-1.32.3-1.6.10.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
