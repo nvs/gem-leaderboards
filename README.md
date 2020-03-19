@@ -837,6 +837,20 @@ be in each category once.
     </details>
 
 7.  <details>
+    <summary>Level 30 - 108806 -
+        <a href="https://discordapp.com/users/151874411140481024">
+            TheVolatile
+        </a>
+    </summary>
+
+    - Patch: 1.31.2
+    - Version: [1.6.10]
+    - [Replay](1.6/no-maze/30_108806-TheVolatile-1.32.2-1.6.10.w3g?raw=true)
+
+    ![](1.6/no-maze/30_108806-TheVolatile-1.32.2-1.6.10.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>Level 30 - 107852 -
         <a href="https://discordapp.com/users/108427582340358144">
             Hal
@@ -850,7 +864,7 @@ be in each category once.
     ![](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>Level 30 - 107553 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -864,7 +878,7 @@ be in each category once.
     ![](1.6/no-maze/30_107553-FryDays-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>Level 30 - 99141 -
         <a href="https://discordapp.com/users/371817313281900545">
             Remo
@@ -876,20 +890,6 @@ be in each category once.
     - [Replay](1.6/no-maze/30_99141-Remo-1.32.2-1.6.10.w3g?raw=true)
 
     ![](1.6/no-maze/30_99141-Remo-1.32.2-1.6.10.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 30 - 93744 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.2
-    - Version: [1.6.10]
-    - [Replay](1.6/no-maze/30_93744-EvilObiWan-1.32.2-1.6.10.w3g?raw=true)
-
-    ![](1.6/no-maze/30_93744-EvilObiWan-1.32.2-1.6.10.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
