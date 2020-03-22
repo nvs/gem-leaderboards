@@ -556,6 +556,20 @@ be in each category once.
     </details>
 
 7.  <details>
+    <summary>30:00 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.11]
+    - [Replay](1.6/time/30:00-EvilObiWan-1.32.3-1.6.11.w3g?raw=true)
+
+    ![](1.6/time/30:00-EvilObiWan-1.32.3-1.6.11.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>30:06 -
         <a href="https://discordapp.com/users/248561283467706368">
             Morgoth
@@ -567,20 +581,6 @@ be in each category once.
     - [Replay](1.6/time/30:06-Morgoth-1.31.1-1.6.6.w3g?raw=true)
 
     ![](1.6/time/30:06-Morgoth-1.31.1-1.6.6.jpg?raw=true)
-    </details>
-
-8.  <details>
-    <summary>30:29 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.2
-    - Version: [1.6.10]
-    - [Replay](1.6/time/30:29-EvilObiWan-1.32.2.1.6.10.w3g?raw=true)
-
-    ![](1.6/time/30:29-EvilObiWan-1.32.2.1.6.10.jpg?raw=true)
     </details>
 
 9.  <details>
@@ -912,3 +912,4 @@ be in each category once.
 [1.6.8]: https://github.com/nvs/gem/releases/tag/v1.6.8
 [1.6.9]: https://github.com/nvs/gem/releases/tag/v1.6.9
 [1.6.10]: https://github.com/nvs/gem/releases/tag/v1.6.10
+[1.6.11]: https://github.com/nvs/gem/releases/tag/v1.6.11
