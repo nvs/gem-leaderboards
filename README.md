@@ -840,6 +840,20 @@ be in each category once.
     </details>
 
 7.  <details>
+    <summary>Level 30 - 109773 -
+        <a href="https://discordapp.com/users/175115627667783680">
+            DiddilyDoo
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.10]
+    - [Replay](1.6/no-maze/30_109773-DiddilyDoo-1.32.3-1.6.10.w3g?raw=true)
+
+    ![](1.6/no-maze/30_109773-DiddilyDoo-1.32.3-1.6.10.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>Level 30 - 108806 -
         <a href="https://discordapp.com/users/151874411140481024">
             TheVolatile
@@ -853,7 +867,7 @@ be in each category once.
     ![](1.6/no-maze/30_108806-TheVolatile-1.32.2-1.6.10.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>Level 30 - 107852 -
         <a href="https://discordapp.com/users/108427582340358144">
             Hal
@@ -867,7 +881,7 @@ be in each category once.
     ![](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>Level 30 - 107553 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -879,20 +893,6 @@ be in each category once.
     - [Replay](1.6/no-maze/30_107553-FryDays-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/30_107553-FryDays-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 30 - 106195 -
-        <a href="https://discordapp.com/users/378031997546921984">
-            Misk
-        </a>
-    </summary>
-
-    - Patch: 1.32.3
-    - Version: [1.6.10]
-    - [Replay](1.6/no-maze/30_106195-Misk-1.32.3-1.6.10.w3g?raw=true)
-
-    ![](1.6/no-maze/30_106195-Misk-1.32.3-1.6.10.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
