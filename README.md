@@ -542,6 +542,20 @@ be in each category once.
     </details>
 
 6.  <details>
+    <summary>29:16 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.11]
+    - [Replay](1.6/time/29:16-EvilObiWan-1.32.3-1.6.11.w3g?raw=true)
+
+    ![](1.6/time/29:16-EvilObiWan-1.32.3-1.6.11.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>29:51 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -555,7 +569,7 @@ be in each category once.
     ![](1.6/time/29:51-Redkeekee-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>29:57 -
         <a href="https://discordapp.com/users/417051812152082453">
             Faqar
@@ -567,20 +581,6 @@ be in each category once.
     - [Replay](1.6/time/29:57-Faqar-1.31.1-1.6.7.w3g?raw=true)
 
     ![](1.6/time/29:57-Faqar-1.31.1-1.6.7.jpg?raw=true)
-    </details>
-
-8.  <details>
-    <summary>30:00 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.3
-    - Version: [1.6.11]
-    - [Replay](1.6/time/30:00-EvilObiWan-1.32.3-1.6.11.w3g?raw=true)
-
-    ![](1.6/time/30:00-EvilObiWan-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
 9.  <details>
