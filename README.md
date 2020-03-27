@@ -826,6 +826,20 @@ be in each category once.
     </details>
 
 6.  <details>
+    <summary>Level 33 - 125393 -
+        <a href="https://discordapp.com/users/371817313281900545">
+            Remo
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.11]
+    - [Replay](1.6/no-maze/33_125393-Remo-1.32.3-1.6.11.w3g?raw=true)
+
+    ![](1.6/no-maze/33_125393-Remo-1.32.3-1.6.11.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>Level 33 - 112313 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -839,7 +853,7 @@ be in each category once.
     ![](1.6/no-maze/33_112313-sac42c-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>Level 30 - 109773 -
         <a href="https://discordapp.com/users/175115627667783680">
             DiddilyDoo
@@ -853,7 +867,7 @@ be in each category once.
     ![](1.6/no-maze/30_109773-DiddilyDoo-1.32.3-1.6.10.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>Level 30 - 108806 -
         <a href="https://discordapp.com/users/151874411140481024">
             TheVolatile
@@ -865,20 +879,6 @@ be in each category once.
     - [Replay](1.6/no-maze/30_108806-TheVolatile-1.32.2-1.6.10.w3g?raw=true)
 
     ![](1.6/no-maze/30_108806-TheVolatile-1.32.2-1.6.10.jpg?raw=true)
-    </details>
-
-9.  <details>
-    <summary>Level 30 - 107925 -
-        <a href="https://discordapp.com/users/371817313281900545">
-            Remo
-        </a>
-    </summary>
-
-    - Patch: 1.32.3
-    - Version: [1.6.11]
-    - [Replay](1.6/no-maze/30_107925-Remo-1.32.3-1.6.11.w3g?raw=true)
-
-    ![](1.6/no-maze/30_107925-Remo-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
 10. <details>
