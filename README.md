@@ -868,6 +868,20 @@ be in each category once.
     </details>
 
 9.  <details>
+    <summary>Level 30 - 107925 -
+        <a href="https://discordapp.com/users/371817313281900545">
+            Remo
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.11]
+    - [Replay](1.6/no-maze/30_107925-Remo-1.32.3-1.6.11.w3g?raw=true)
+
+    ![](1.6/no-maze/30_107925-Remo-1.32.3-1.6.11.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>Level 30 - 107852 -
         <a href="https://discordapp.com/users/108427582340358144">
             Hal
@@ -879,20 +893,6 @@ be in each category once.
     - [Replay](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 30 - 107553 -
-        <a href="https://discordapp.com/users/269810827706630146">
-            FryDays
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/no-maze/30_107553-FryDays-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/no-maze/30_107553-FryDays-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
