@@ -528,6 +528,20 @@ be in each category once.
     </details>
 
 5.  <details>
+    <summary>28:59 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.11]
+    - [Replay](1.6/time/28:59-EvilObiWan-1.32.3-1.6.11.w3g?raw=true)
+
+    ![](1.6/time/28:59-EvilObiWan-1.32.3-1.6.11.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>29:05 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -539,20 +553,6 @@ be in each category once.
     - [Replay](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-6.  <details>
-    <summary>29:16 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.3
-    - Version: [1.6.11]
-    - [Replay](1.6/time/29:16-EvilObiWan-1.32.3-1.6.11.w3g?raw=true)
-
-    ![](1.6/time/29:16-EvilObiWan-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
 7.  <details>
