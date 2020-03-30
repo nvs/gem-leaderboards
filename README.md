@@ -485,7 +485,7 @@ be in each category once.
     ![](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-3.  <details>
+2.  <details>
     <summary>27:55 -
         <a href="https://discordapp.com/users/148133151678529536">
             Buskmurvel
