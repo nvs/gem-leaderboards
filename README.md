@@ -513,7 +513,21 @@ be in each category once.
     ![](1.6/time/28:31-Sesamia-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-4.  <details>
+3)  <details>
+    <summary>28:31 -
+        <a href="https://discordapp.com/users/175113641799057408">
+            Sleek
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.11]
+    - [Replay](1.6/time/28:31-Sleek-1.32.3-1.6.11.w3g?raw=true)
+
+    ![](1.6/time/28:31-Sleek-1.32.3-1.6.11.jpg?raw=true)
+    </details>
+
+5.  <details>
     <summary>28:51 -
         <a href="https://discordapp.com/users/273359473064673281">
             Treefiddy
@@ -527,7 +541,7 @@ be in each category once.
     ![](1.6/time/28:51-Treefiddy-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>28:59 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
@@ -541,7 +555,7 @@ be in each category once.
     ![](1.6/time/28:59-EvilObiWan-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>29:05 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -555,7 +569,7 @@ be in each category once.
     ![](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>29:51 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -569,7 +583,7 @@ be in each category once.
     ![](1.6/time/29:51-Redkeekee-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>29:57 -
         <a href="https://discordapp.com/users/417051812152082453">
             Faqar
@@ -583,7 +597,7 @@ be in each category once.
     ![](1.6/time/29:57-Faqar-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>30:06 -
         <a href="https://discordapp.com/users/248561283467706368">
             Morgoth
@@ -595,20 +609,6 @@ be in each category once.
     - [Replay](1.6/time/30:06-Morgoth-1.31.1-1.6.6.w3g?raw=true)
 
     ![](1.6/time/30:06-Morgoth-1.31.1-1.6.6.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>30:37 -
-        <a href="https://discordapp.com/users/160915097206784009">
-            ZUNKEN
-        </a>
-    </summary>
-
-    - Patch: 1.32.2
-    - Version: [1.6.10]
-    - [Replay](1.6/time/30:37-ZUNKEN-1.32.2-1.6.10.w3g?raw=true)
-
-    ![](1.6/time/30:37-ZUNKEN-1.32.2-1.6.10.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
