@@ -472,6 +472,20 @@ be in each category once.
 ### 1.6 Time
 
 1.  <details>
+    <summary>27:30 -
+        <a href="https://discordapp.com/users/148133151678529536">
+            Buskmurvel
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.13]
+    - [Replay](1.6/time/27:30-Buskmurvel-1.32.3-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/27:30-Buskmurvel-1.32.3-1.6.13.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>27:41 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -483,20 +497,6 @@ be in each category once.
     - [Replay](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>27:55 -
-        <a href="https://discordapp.com/users/148133151678529536">
-            Buskmurvel
-        </a>
-    </summary>
-
-    - Patch: 1.32.3
-    - Version: [1.6.11]
-    - [Replay](1.6/time/27:55-Buskmurvel-1.32.3-1.6.11.w3g?raw=true)
-
-    ![](1.6/time/27:55-Buskmurvel-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
 3.  <details>
@@ -913,3 +913,4 @@ be in each category once.
 [1.6.9]: https://github.com/nvs/gem/releases/tag/v1.6.9
 [1.6.10]: https://github.com/nvs/gem/releases/tag/v1.6.10
 [1.6.11]: https://github.com/nvs/gem/releases/tag/v1.6.11
+[1.6.13]: https://github.com/nvs/gem/releases/tag/v1.6.13
