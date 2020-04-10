@@ -598,17 +598,17 @@ be in each category once.
     </details>
 
 10. <details>
-    <summary>30:06 -
-        <a href="https://discordapp.com/users/248561283467706368">
-            Morgoth
+    <summary>30:01 -
+        <a href="https://discordapp.com/users/160915097206784009">
+            Arsenic
         </a>
     </summary>
 
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/time/30:06-Morgoth-1.31.1-1.6.6.w3g?raw=true)
+    - Patch: 1.32.3
+    - Version: [1.6.13]
+    - [Replay](1.6/time/30:01-Arsenic-1.32.3-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/30:06-Morgoth-1.31.1-1.6.6.jpg?raw=true)
+    ![](1.6/time/30:01-Arsenic-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
