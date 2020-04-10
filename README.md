@@ -173,7 +173,7 @@ position as a result.*
     ![](1.5/time/29_46-Monkeynews-1.30.4-1.5.4.jpg?raw=true)
     </details>
 
-3.  <details>
+2.  <details>
     <summary>30:58 -
         <a href="https://discordapp.com/users/136301709113688064">
             NVS
@@ -187,7 +187,7 @@ position as a result.*
     ![](1.5/time/30_58-NVS-1.31.0-1.5.5.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>32:18 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
