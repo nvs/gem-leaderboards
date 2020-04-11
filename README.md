@@ -450,9 +450,10 @@ be in each category once.
 
 ### Categories
 
-- **[Time](#16-time).** Only games that complete Level 50 will be
+- **[Time](#16-time).** Only the displayed time upon completing Level 50
+  will be considered.
+- **[DPS](#16-dps).** Only the displayed DPS upon completing Level 50 wil be
   considered.
-- **[DPS](#16-dps).** Only games that complete Level 50 will be considered.
 - **[No Maze](#16-no-maze).** Only games that use `-maze` to disable mazing
   will be considered.
 
