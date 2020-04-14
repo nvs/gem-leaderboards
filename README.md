@@ -571,7 +571,7 @@ be in each category once.
     </details>
 
 8.  <details>
-    <summary>29:24 -
+    <summary>29:19 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
         </a>
@@ -579,9 +579,9 @@ be in each category once.
 
     - Patch: 1.32.3
     - Version: [1.6.13]
-    - [Replay](1.6/time/29:24-Arsenic-1.32.3-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/29:19-Arsenic-1.32.3-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/29:24-Arsenic-1.32.3-1.6.13.jpg?raw=true)
+    ![](1.6/time/29:19-Arsenic-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
 9.  <details>
