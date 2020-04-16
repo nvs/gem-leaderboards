@@ -543,17 +543,17 @@ be in each category once.
     </details>
 
 6.  <details>
-    <summary>28:59 -
+    <summary>28:53 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
         </a>
     </summary>
 
     - Patch: 1.32.3
-    - Version: [1.6.11]
-    - [Replay](1.6/time/28:59-EvilObiWan-1.32.3-1.6.11.w3g?raw=true)
+    - Version: [1.6.13]
+    - [Replay](1.6/time/28:53-EvilObiWan-1.32.3-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/28:59-EvilObiWan-1.32.3-1.6.11.jpg?raw=true)
+    ![](1.6/time/28:53-EvilObiWan-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
 7.  <details>
