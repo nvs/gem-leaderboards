@@ -487,6 +487,20 @@ be in each category once.
     </details>
 
 2.  <details>
+    <summary>27:22 -
+        <a href="https://discordapp.com/users/330183643215429633">
+            Sesamia
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.13]
+    - [Replay](1.6/time/27:22-Sesamia-1.32.3-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/27:22-Sesamia-1.32.3-1.6.13.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>27:41 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -500,7 +514,7 @@ be in each category once.
     ![](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>28:14 -
         <a href="https://discordapp.com/users/175113641799057408">
             Sleek
@@ -512,20 +526,6 @@ be in each category once.
     - [Replay](1.6/time/28:14-Sleek-1.32.3-1.6.13.w3g?raw=true)
 
     ![](1.6/time/28:14-Sleek-1.32.3-1.6.13.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>28:31 -
-        <a href="https://discordapp.com/users/330183643215429633">
-            Sesamia
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/28:31-Sesamia-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/time/28:31-Sesamia-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 5.  <details>
