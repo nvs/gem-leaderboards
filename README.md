@@ -869,6 +869,20 @@ be in each category once.
     </details>
 
 9.  <details>
+    <summary>Level 30 - 109494 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.3
+    - Version: [1.6.13]
+    - [Replay](1.6/no-maze/30_109494-EvilObiWan-1.32.3-1.6.13.w3g?raw=true)
+
+    ![](1.6/no-maze/30_109494-EvilObiWan-1.32.3-1.6.13.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>Level 30 - 108806 -
         <a href="https://discordapp.com/users/151874411140481024">
             TheVolatile
@@ -880,20 +894,6 @@ be in each category once.
     - [Replay](1.6/no-maze/30_108806-TheVolatile-1.32.2-1.6.10.w3g?raw=true)
 
     ![](1.6/no-maze/30_108806-TheVolatile-1.32.2-1.6.10.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 30 - 107852 -
-        <a href="https://discordapp.com/users/108427582340358144">
-            Hal
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/no-maze/30_107852-Hal-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
