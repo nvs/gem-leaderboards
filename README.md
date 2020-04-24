@@ -515,7 +515,7 @@ be in each category once.
     </details>
 
 4.  <details>
-    <summary>28:14 -
+    <summary>28:08 -
         <a href="https://discordapp.com/users/175113641799057408">
             Sleek
         </a>
@@ -523,9 +523,9 @@ be in each category once.
 
     - Patch: 1.32.3
     - Version: [1.6.13]
-    - [Replay](1.6/time/28:14-Sleek-1.32.3-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/28:08-Sleek-1.32.3-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/28:14-Sleek-1.32.3-1.6.13.jpg?raw=true)
+    ![](1.6/time/28:08-Sleek-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
 5.  <details>
