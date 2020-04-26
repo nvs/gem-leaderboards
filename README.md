@@ -791,8 +791,8 @@ be in each category once.
         </a>
     </summary>
 
-    - Patch: 1.31.2
-    - Version: [1.6.10]
+    - Patch: 1.32.3
+    - Version: [1.6.13]
     - [Replay](1.6/no-maze/37_116012-TheVolatile-1.32.3-1.6.13.w3g?raw=true)
 
     ![](1.6/no-maze/37_116012-TheVolatile-1.32.3-1.6.13.jpg?raw=true)
