@@ -785,7 +785,7 @@ be in each category once.
     </details>
 
 3.  <details>
-    <summary>Level 37 - 116012 -
+    <summary>Level 38 - 184751 -
         <a href="https://discordapp.com/users/151874411140481024">
             TheVolatile
         </a>
@@ -793,9 +793,9 @@ be in each category once.
 
     - Patch: 1.32.3
     - Version: [1.6.13]
-    - [Replay](1.6/no-maze/37_116012-TheVolatile-1.32.3-1.6.13.w3g?raw=true)
+    - [Replay](1.6/no-maze/38_184751-TheVolatile-1.32.3-1.6.13.w3g?raw=true)
 
-    ![](1.6/no-maze/37_116012-TheVolatile-1.32.3-1.6.13.jpg?raw=true)
+    ![](1.6/no-maze/38_184751-TheVolatile-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
 4.  <details>
