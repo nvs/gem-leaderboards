@@ -799,6 +799,20 @@ be in each category once.
     </details>
 
 4.  <details>
+    <summary>Level 37 - 131894 -
+        <a href="https://discordapp.com/users/371817313281900545">
+            Remo
+        </a>
+    </summary>
+
+    - Patch: 1.32.4
+    - Version: [1.6.13]
+    - [Replay](1.6/no-maze/37_131894-Remo-1.32.4-1.6.13.w3g?raw=true)
+
+    ![](1.6/no-maze/37_131894-Remo-1.32.4-1.6.13.jpg?raw=true)
+    </details>
+
+5.  <details>
     <summary>Level 35 - 157953 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -812,7 +826,7 @@ be in each category once.
     ![](1.6/no-maze/35_157953-Sesamia-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>Level 34 - 156133 -
         <a href="https://discordapp.com/users/124966970763378693">
             GenoHacker
@@ -826,7 +840,7 @@ be in each category once.
     ![](1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>Level 34 - 142719 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -838,20 +852,6 @@ be in each category once.
     - [Replay](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-7.  <details>
-    <summary>Level 33 - 125393 -
-        <a href="https://discordapp.com/users/371817313281900545">
-            Remo
-        </a>
-    </summary>
-
-    - Patch: 1.32.3
-    - Version: [1.6.11]
-    - [Replay](1.6/no-maze/33_125393-Remo-1.32.3-1.6.11.w3g?raw=true)
-
-    ![](1.6/no-maze/33_125393-Remo-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
 8.  <details>
