@@ -571,6 +571,20 @@ be in each category once.
     </details>
 
 8.  <details>
+    <summary>29:11 -
+        <a href="https://discordapp.com/users/444461680349413386">
+            Closed
+        </a>
+    </summary>
+
+    - Patch: 1.32.4
+    - Version: [1.6.13]
+    - [Replay](1.6/time/29:11-Closed-1.32.4-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/29:11-Closed-1.32.4-1.6.13.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>29:05 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -584,7 +598,7 @@ be in each category once.
     ![](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>29:51 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -598,19 +612,7 @@ be in each category once.
     ![](1.6/time/29:51-Redkeekee-1.31.1-1.6.6.jpg?raw=true)
     </details>
 
-10. <details>
-    <summary>29:57 -
-        <a href="https://discordapp.com/users/417051812152082453">
-            Faqar
-        </a>
-    </summary>
 
-    - Patch: 1.31.1
-    - Version: [1.6.7]
-    - [Replay](1.6/time/29:57-Faqar-1.31.1-1.6.7.w3g?raw=true)
-
-    ![](1.6/time/29:57-Faqar-1.31.1-1.6.7.jpg?raw=true)
-    </details>
 
 ### 1.6 DPS
 
