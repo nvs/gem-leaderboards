@@ -515,6 +515,20 @@ be in each category once.
     </details>
 
 4.  <details>
+    <summary>27:55 -
+        <a href="https://discordapp.com/users/444461680349413386">
+            Closed
+        </a>
+    </summary>
+
+    - Patch: 1.32.5
+    - Version: [1.6.13]
+    - [Replay](1.6/time/27:55-Closed-1.32.5-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/27:55-Closed-1.32.5-1.6.13.jpg?raw=true)
+    </details>
+
+5.  <details>
     <summary>28:08 -
         <a href="https://discordapp.com/users/175113641799057408">
             Sleek
@@ -528,7 +542,7 @@ be in each category once.
     ![](1.6/time/28:08-Sleek-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>28:36 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -542,7 +556,7 @@ be in each category once.
     ![](1.6/time/28:36-Arsenic-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>28:51 -
         <a href="https://discordapp.com/users/273359473064673281">
             Treefiddy
@@ -556,7 +570,7 @@ be in each category once.
     ![](1.6/time/28:51-Treefiddy-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>28:53 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
@@ -568,20 +582,6 @@ be in each category once.
     - [Replay](1.6/time/28:53-EvilObiWan-1.32.3-1.6.13.w3g?raw=true)
 
     ![](1.6/time/28:53-EvilObiWan-1.32.3-1.6.13.jpg?raw=true)
-    </details>
-
-8.  <details>
-    <summary>29:11 -
-        <a href="https://discordapp.com/users/444461680349413386">
-            Closed
-        </a>
-    </summary>
-
-    - Patch: 1.32.4
-    - Version: [1.6.13]
-    - [Replay](1.6/time/29:11-Closed-1.32.4-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/29:11-Closed-1.32.4-1.6.13.jpg?raw=true)
     </details>
 
 9.  <details>
