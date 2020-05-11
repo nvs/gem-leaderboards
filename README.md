@@ -557,6 +557,20 @@ be in each category once.
     </details>
 
 7.  <details>
+    <summary>28:49 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.5
+    - Version: [1.6.13]
+    - [Replay](1.6/time/28:49-EvilObiWan-1.32.5-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/28:49-EvilObiWan-1.32.5-1.6.13.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>28:51 -
         <a href="https://discordapp.com/users/273359473064673281">
             Treefiddy
@@ -568,20 +582,6 @@ be in each category once.
     - [Replay](1.6/time/28:51-Treefiddy-1.32.3-1.6.11.w3g?raw=true)
 
     ![](1.6/time/28:51-Treefiddy-1.32.3-1.6.11.jpg?raw=true)
-    </details>
-
-8.  <details>
-    <summary>28:53 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.3
-    - Version: [1.6.13]
-    - [Replay](1.6/time/28:53-EvilObiWan-1.32.3-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/28:53-EvilObiWan-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
 9.  <details>
