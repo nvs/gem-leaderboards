@@ -787,6 +787,20 @@ be in each category once.
     </details>
 
 3.  <details>
+    <summary>Level 38 - 200106 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.5
+    - Version: [1.6.13]
+    - [Replay](1.6/no-maze/38_200106-EvilObiWan-1.32.5-1.6.13.w3g?raw=true)
+
+    ![](1.6/no-maze/38_200106-EvilObiWan-1.32.5-1.6.13.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>Level 38 - 189384 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -798,20 +812,6 @@ be in each category once.
     - [Replay](1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>Level 37 - 185890 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.5
-    - Version: [1.6.13]
-    - [Replay](1.6/no-maze/37_185890-EvilObiWan-1.32.5-1.6.13.w3g?raw=true)
-
-    ![](1.6/no-maze/37_185890-EvilObiWan-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 5.  <details>
