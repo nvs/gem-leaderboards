@@ -773,6 +773,20 @@ be in each category once.
     </details>
 
 2.  <details>
+    <summary>Level 38 - 229598 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.5
+    - Version: [1.6.13]
+    - [Replay](1.6/no-maze/38_229598-EvilObiWan-1.32.5-1.6.13.w3g?raw=true)
+
+    ![](1.6/no-maze/38_229598-EvilObiWan-1.32.5-1.6.13.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>Level 38 - 219933 -
         <a href="https://discordapp.com/users/417051812152082453">
             Faqar
@@ -784,20 +798,6 @@ be in each category once.
     - [Replay](1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.w3g?raw=true)
 
     ![](1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.jpg?raw=true)
-    </details>
-
-3.  <details>
-    <summary>Level 38 - 200106 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.5
-    - Version: [1.6.13]
-    - [Replay](1.6/no-maze/38_200106-EvilObiWan-1.32.5-1.6.13.w3g?raw=true)
-
-    ![](1.6/no-maze/38_200106-EvilObiWan-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 4.  <details>
