@@ -631,6 +631,20 @@ be in each category once.
     </details>
 
 2.  <details>
+    <summary>14312 -
+        <a href="https://discordapp.com/users/444461680349413386">
+            Closed
+        </a>
+    </summary>
+
+    - Patch: 1.32.5
+    - Version: [1.6.13]
+    - [Replay](1.6/dps/14312-Closed-1.32.5-1.6.13.w3g?raw=true)
+
+    ![](1.6/dps/14312-Closed-1.32.5-1.6.13.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>13759 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
@@ -644,7 +658,7 @@ be in each category once.
     ![](1.6/dps/13759-EvilObiWan-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>12875 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -658,7 +672,7 @@ be in each category once.
     ![](1.6/dps/12875-FryDays-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>12791 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -672,7 +686,7 @@ be in each category once.
     ![](1.6/dps/12791-Wolfilein-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>12699 -
         <a href="https://discordapp.com/users/148133151678529536">
             Buskmurvel
@@ -686,7 +700,7 @@ be in each category once.
     ![](1.6/dps/12699-Buskmurvel-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>12681 -
         <a href="https://discordapp.com/users/278998936780406784">
             B1ameMeNot
@@ -700,7 +714,7 @@ be in each category once.
     ![](1.6/dps/12681-B1ameMeNot-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>12604 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -714,7 +728,7 @@ be in each category once.
     ![](1.6/dps/12604-Redkeekee-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>12213 -
         <a href="https://discordapp.com/users/106859436508712960">
             freeqaz
@@ -728,7 +742,7 @@ be in each category once.
     ![](1.6/dps/12213-freeqaz-1.32.1-1.6.10.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>11806 -
         <a href="https://discordapp.com/users/175430560691257344">
             knuts
@@ -740,20 +754,6 @@ be in each category once.
     - [Replay](1.6/dps/11806-knuts-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/dps/11806-knuts-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>11553 -
-        <a href="https://discordapp.com/users/474330320167239702">
-            cucaracha
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/dps/11553-cucaracha-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/dps/11553-cucaracha-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
