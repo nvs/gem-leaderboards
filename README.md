@@ -773,7 +773,7 @@ be in each category once.
     </details>
 
 2.  <details>
-    <summary>Level 38 - 229598 -
+    <summary>Level 39 - 249668 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
         </a>
@@ -781,9 +781,9 @@ be in each category once.
 
     - Patch: 1.32.5
     - Version: [1.6.13]
-    - [Replay](1.6/no-maze/38_229598-EvilObiWan-1.32.5-1.6.13.w3g?raw=true)
+    - [Replay](1.6/no-maze/39_249668-EvilObiWan-1.32.5-1.6.13.w3g?raw=true)
 
-    ![](1.6/no-maze/38_229598-EvilObiWan-1.32.5-1.6.13.jpg?raw=true)
+    ![](1.6/no-maze/39_249668-EvilObiWan-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 3.  <details>
