@@ -487,6 +487,20 @@ be in each category once.
     </details>
 
 2.  <details>
+    <summary>27:09 -
+        <a href="https://discordapp.com/users/444461680349413386">
+            Closed
+        </a>
+    </summary>
+
+    - Patch: 1.32.5
+    - Version: [1.6.13]
+    - [Replay](1.6/time/27:09-Closed-1.32.5-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/27:09-Closed-1.32.5-1.6.13.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>27:22 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -500,7 +514,7 @@ be in each category once.
     ![](1.6/time/27:22-Sesamia-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>27:41 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -512,20 +526,6 @@ be in each category once.
     - [Replay](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>27:55 -
-        <a href="https://discordapp.com/users/444461680349413386">
-            Closed
-        </a>
-    </summary>
-
-    - Patch: 1.32.5
-    - Version: [1.6.13]
-    - [Replay](1.6/time/27:55-Closed-1.32.5-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/27:55-Closed-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 5.  <details>
