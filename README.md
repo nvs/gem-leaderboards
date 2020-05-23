@@ -759,7 +759,7 @@ be in each category once.
 ### 1.6 No Maze
 
 1.  <details>
-    <summary>Level 41 - 205222 -
+    <summary>Level 41 - 214567
         <a href="https://discordapp.com/users/151874411140481024">
             TheVolatile
         </a>
@@ -767,9 +767,9 @@ be in each category once.
 
     - Patch: 1.32.5
     - Version: [1.6.13]
-    - [Replay](1.6/no-maze/41_205222-TheVolatile-1.32.5-1.6.13.w3g?raw=true)
+    - [Replay](1.6/no-maze/41_214567-TheVolatile-1.32.5-1.6.13.w3g?raw=true)
 
-    ![](1.6/no-maze/41_205222-TheVolatile-1.32.5-1.6.13.jpg?raw=true)
+    ![](1.6/no-maze/41_214567-TheVolatile-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 2.  <details>
