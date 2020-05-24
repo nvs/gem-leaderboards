@@ -473,7 +473,7 @@ be in each category once.
 ### 1.6 Time
 
 1.  <details>
-    <summary>26:48 -
+    <summary>26:47 -
         <a href="https://discordapp.com/users/148133151678529536">
             Buskmurvel
         </a>
@@ -481,9 +481,9 @@ be in each category once.
 
     - Patch: 1.32.5
     - Version: [1.6.13]
-    - [Replay](1.6/time/26:48-Buskmurvel-1.32.5-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/26:47-Buskmurvel-1.32.5-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/26:48-Buskmurvel-1.32.5-1.6.13.jpg?raw=true)
+    ![](1.6/time/26:47-Buskmurvel-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 2.  <details>
