@@ -885,17 +885,17 @@ be in each category once.
     </details>
 
 10. <details>
-    <summary>Level 30 - 109773 -
-        <a href="https://discordapp.com/users/175115627667783680">
-            DiddilyDoo
+    <summary>Level 31 - 122463 -
+        <a href="https://discordapp.com/users/347013029386387477">
+            Caligula
         </a>
     </summary>
 
-    - Patch: 1.32.3
-    - Version: [1.6.10]
-    - [Replay](1.6/no-maze/30_109773-DiddilyDoo-1.32.3-1.6.10.w3g?raw=true)
+    - Patch: 1.32.5
+    - Version: [1.6.13]
+    - [Replay](1.6/no-maze/31_122463-Caligula-1.32.5-1.6.13.w3g?raw=true)
 
-    ![](1.6/no-maze/30_109773-DiddilyDoo-1.32.3-1.6.10.jpg?raw=true)
+    ![](1.6/no-maze/31_122463-Caligula-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
