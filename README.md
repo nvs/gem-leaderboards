@@ -871,6 +871,20 @@ be in each category once.
     </details>
 
 9.  <details>
+    <summary>Level 34 - 107227 -
+        <a href="https://discordapp.com/users/347013029386387477">
+            Caligula
+        </a>
+    </summary>
+
+    - Patch: 1.32.5
+    - Version: [1.6.13]
+    - [Replay](1.6/no-maze/34_107227-Caligula-1.32.6-1.6.13.w3g?raw=true)
+
+    ![](1.6/no-maze/34_107227-Caligula-1.32.6-1.6.13.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>Level 33 - 112313 -
         <a href="https://discordapp.com/users/242041566275960832">
             sac42c
@@ -882,20 +896,6 @@ be in each category once.
     - [Replay](1.6/no-maze/33_112313-sac42c-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/33_112313-sac42c-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 31 - 122463 -
-        <a href="https://discordapp.com/users/347013029386387477">
-            Caligula
-        </a>
-    </summary>
-
-    - Patch: 1.32.5
-    - Version: [1.6.13]
-    - [Replay](1.6/no-maze/31_122463-Caligula-1.32.5-1.6.13.w3g?raw=true)
-
-    ![](1.6/no-maze/31_122463-Caligula-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
