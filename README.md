@@ -543,6 +543,20 @@ be in each category once.
     </details>
 
 6.  <details>
+    <summary>28:33 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.6
+    - Version: [1.6.13]
+    - [Replay](1.6/time/28:33-EvilObiWan-1.32.6-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/28:33-EvilObiWan-1.32.6-1.6.13.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>28:36 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -554,20 +568,6 @@ be in each category once.
     - [Replay](1.6/time/28:36-Arsenic-1.32.3-1.6.13.w3g?raw=true)
 
     ![](1.6/time/28:36-Arsenic-1.32.3-1.6.13.jpg?raw=true)
-    </details>
-
-7.  <details>
-    <summary>28:43 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.6
-    - Version: [1.6.13]
-    - [Replay](1.6/time/28:43-EvilObiWan-1.32.6-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/28:43-EvilObiWan-1.32.6-1.6.13.jpg?raw=true)
     </details>
 
 8.  <details>
