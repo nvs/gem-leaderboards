@@ -759,7 +759,7 @@ be in each category once.
 ### 1.6 No Maze
 
 1.  <details>
-    <summary>Level 41 - 214567
+    <summary>Level 41 - 214567 -
         <a href="https://discordapp.com/users/151874411140481024">
             TheVolatile
         </a>
