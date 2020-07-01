@@ -543,7 +543,7 @@ be in each category once.
     </details>
 
 6.  <details>
-    <summary>28:33 -
+    <summary>28:20 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
         </a>
@@ -551,9 +551,9 @@ be in each category once.
 
     - Patch: 1.32.6
     - Version: [1.6.13]
-    - [Replay](1.6/time/28:33-EvilObiWan-1.32.6-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/28:20-EvilObiWan-1.32.6-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/28:33-EvilObiWan-1.32.6-1.6.13.jpg?raw=true)
+    ![](1.6/time/28:20-EvilObiWan-1.32.6-1.6.13.jpg?raw=true)
     </details>
 
 7.  <details>
