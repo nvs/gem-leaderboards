@@ -771,17 +771,17 @@ be in each category once.
     </details>
 
 2.  <details>
-    <summary>Level 39 - 249668 -
+    <summary>Level 41 - 200341 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
         </a>
     </summary>
 
-    - Patch: 1.32.5
+    - Patch: 1.32.7
     - Version: [1.6.13]
-    - [Replay](1.6/no-maze/39_249668-EvilObiWan-1.32.5-1.6.13.w3g?raw=true)
+    - [Replay](1.6/no-maze/41_200341-EvilObiWan-1.32.7-1.6.13.w3g?raw=true)
 
-    ![](1.6/no-maze/39_249668-EvilObiWan-1.32.5-1.6.13.jpg?raw=true)
+    ![](1.6/no-maze/41_200341-EvilObiWan-1.32.7-1.6.13.jpg?raw=true)
     </details>
 
 3.  <details>
