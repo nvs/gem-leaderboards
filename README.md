@@ -599,20 +599,18 @@ be in each category once.
     </details>
 
 10. <details>
-    <summary>29:51 -
-        <a href="https://discordapp.com/users/104819373297901568">
-            Redkeekee
+    <summary>29:28 -
+        <a href="https://discordapp.com/users/346841019113013248">
+            janme
         </a>
     </summary>
 
-    - Patch: 1.31.1
-    - Version: [1.6.6]
-    - [Replay](1.6/time/29:51-Redkeekee-1.31.1-1.6.6.w3g?raw=true)
+    - Patch: 1.32.7
+    - Version: [1.6.13]
+    - [Replay](1.6/time/29:28-janme-1.32.7-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/29:51-Redkeekee-1.31.1-1.6.6.jpg?raw=true)
+    ![](1.6/time/29:28-janme-1.32.7-1.6.13.jpg?raw=true)
     </details>
-
-
 
 ### 1.6 DPS
 
