@@ -785,6 +785,20 @@ be in each category once.
     </details>
 
 3.  <details>
+    <summary>Level 38 - 229145
+        <a href="https://discordapp.com/users/175113641799057408">
+            Sleek
+        </a>
+    </summary>
+
+    - Patch: 1.32.7
+    - Version: [1.6.13]
+    - [Replay](1.6/no-maze/38_229145-Sleek-1.32.7-1.6.13.w3g?raw=true)
+
+    ![](1.6/no-maze/38_229145-Sleek-1.32.7-1.6.13.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>Level 38 - 219933 -
         <a href="https://discordapp.com/users/417051812152082453">
             Faqar
@@ -796,20 +810,6 @@ be in each category once.
     - [Replay](1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.w3g?raw=true)
 
     ![](1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.jpg?raw=true)
-    </details>
-
-4.  <details>
-    <summary>Level 38 - 202633
-        <a href="https://discordapp.com/users/175113641799057408">
-            Sleek
-        </a>
-    </summary>
-
-    - Patch: 1.32.7
-    - Version: [1.6.13]
-    - [Replay](1.6/no-maze/38_202633-Sleek-1.32.7-1.6.13.w3g?raw=true)
-
-    ![](1.6/no-maze/38_202633-Sleek-1.32.7-1.6.13.jpg?raw=true)
     </details>
 
 5.  <details>
