@@ -757,6 +757,20 @@ be in each category once.
 ### 1.6 No Maze
 
 1.  <details>
+    <summary>Level 41 - 222025 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.7
+    - Version: [1.6.13]
+    - [Replay](1.6/no-maze/41_222025-EvilObiWan-1.32.7-1.6.13.w3g?raw=true)
+
+    ![](1.6/no-maze/41_222025-EvilObiWan-1.32.7-1.6.13.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>Level 41 - 214567 -
         <a href="https://discordapp.com/users/151874411140481024">
             TheVolatile
@@ -768,20 +782,6 @@ be in each category once.
     - [Replay](1.6/no-maze/41_214567-TheVolatile-1.32.5-1.6.13.w3g?raw=true)
 
     ![](1.6/no-maze/41_214567-TheVolatile-1.32.5-1.6.13.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>Level 41 - 200341 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.7
-    - Version: [1.6.13]
-    - [Replay](1.6/no-maze/41_200341-EvilObiWan-1.32.7-1.6.13.w3g?raw=true)
-
-    ![](1.6/no-maze/41_200341-EvilObiWan-1.32.7-1.6.13.jpg?raw=true)
     </details>
 
 3.  <details>
