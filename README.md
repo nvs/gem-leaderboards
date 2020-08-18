@@ -514,7 +514,22 @@ be in each category once.
     ![](1.6/time/27:09-Closed-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
-4.  <details>
+3)  <details>
+    <summary>27:09 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.8
+    - Version: [1.6.13]
+
+    - [Replay](1.6/time/27:09-EvilObiWan-1.32.8-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/27:09-EvilObiWan-1.32.8-1.6.13.jpg?raw=true)
+    </details>
+
+5.  <details>
     <summary>27:23 -
         <a href="https://discordapp.com/users/175113641799057408">
             Sleek
@@ -528,7 +543,7 @@ be in each category once.
     ![](1.6/time/27:23-Sleek-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>27:41 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -540,20 +555,6 @@ be in each category once.
     - [Replay](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-6.  <details>
-    <summary>28:20 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.6
-    - Version: [1.6.13]
-    - [Replay](1.6/time/28:20-EvilObiWan-1.32.6-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/28:20-EvilObiWan-1.32.6-1.6.13.jpg?raw=true)
     </details>
 
 7.  <details>
