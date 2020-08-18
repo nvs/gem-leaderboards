@@ -523,7 +523,6 @@ be in each category once.
 
     - Patch: 1.32.8
     - Version: [1.6.13]
-
     - [Replay](1.6/time/27:09-EvilObiWan-1.32.8-1.6.13.w3g?raw=true)
 
     ![](1.6/time/27:09-EvilObiWan-1.32.8-1.6.13.jpg?raw=true)
