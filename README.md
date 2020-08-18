@@ -786,7 +786,7 @@ be in each category once.
     </details>
 
 3.  <details>
-    <summary>Level 38 - 229145
+    <summary>Level 38 - 229145 -
         <a href="https://discordapp.com/users/175113641799057408">
             Sleek
         </a>
