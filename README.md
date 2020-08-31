@@ -481,9 +481,9 @@ be in each category once.
 
     - Patch: 1.32.8
     - Version: [1.6.13]
-    - [Replay](1.6/time/25:43-Buskmurvel-1.32.8-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/25_43-Buskmurvel-1.32.8-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/25:43-Buskmurvel-1.32.8-1.6.13.jpg?raw=true)
+    ![](1.6/time/25_43-Buskmurvel-1.32.8-1.6.13.jpg?raw=true)
     </details>
 
 2.  <details>
@@ -495,9 +495,9 @@ be in each category once.
 
     - Patch: 1.32.7
     - Version: [1.6.13]
-    - [Replay](1.6/time/26:40-Sesamia-1.32.7-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/26_40-Sesamia-1.32.7-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/26:40-Sesamia-1.32.7-1.6.13.jpg?raw=true)
+    ![](1.6/time/26_40-Sesamia-1.32.7-1.6.13.jpg?raw=true)
     </details>
 
 3.  <details>
@@ -509,9 +509,9 @@ be in each category once.
 
     - Patch: 1.32.5
     - Version: [1.6.13]
-    - [Replay](1.6/time/27:09-Closed-1.32.5-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/27_09-Closed-1.32.5-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/27:09-Closed-1.32.5-1.6.13.jpg?raw=true)
+    ![](1.6/time/27_09-Closed-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 3)  <details>
@@ -523,9 +523,9 @@ be in each category once.
 
     - Patch: 1.32.8
     - Version: [1.6.13]
-    - [Replay](1.6/time/27:09-EvilObiWan-1.32.8-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/27_09-EvilObiWan-1.32.8-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/27:09-EvilObiWan-1.32.8-1.6.13.jpg?raw=true)
+    ![](1.6/time/27_09-EvilObiWan-1.32.8-1.6.13.jpg?raw=true)
     </details>
 
 5.  <details>
@@ -537,9 +537,9 @@ be in each category once.
 
     - Patch: 1.32.5
     - Version: [1.6.13]
-    - [Replay](1.6/time/27:23-Sleek-1.32.5-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/27_23-Sleek-1.32.5-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/27:23-Sleek-1.32.5-1.6.13.jpg?raw=true)
+    ![](1.6/time/27_23-Sleek-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 6.  <details>
@@ -551,9 +551,9 @@ be in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.3]
-    - [Replay](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.w3g?raw=true)
+    - [Replay](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.w3g?raw=true)
 
-    ![](1.6/time/27:41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
+    ![](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
 7.  <details>
@@ -565,9 +565,9 @@ be in each category once.
 
     - Patch: 1.32.3
     - Version: [1.6.13]
-    - [Replay](1.6/time/28:36-Arsenic-1.32.3-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/28_36-Arsenic-1.32.3-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/28:36-Arsenic-1.32.3-1.6.13.jpg?raw=true)
+    ![](1.6/time/28_36-Arsenic-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
 8.  <details>
@@ -579,9 +579,9 @@ be in each category once.
 
     - Patch: 1.32.3
     - Version: [1.6.11]
-    - [Replay](1.6/time/28:51-Treefiddy-1.32.3-1.6.11.w3g?raw=true)
+    - [Replay](1.6/time/28_51-Treefiddy-1.32.3-1.6.11.w3g?raw=true)
 
-    ![](1.6/time/28:51-Treefiddy-1.32.3-1.6.11.jpg?raw=true)
+    ![](1.6/time/28_51-Treefiddy-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
 9.  <details>
@@ -593,9 +593,9 @@ be in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.5]
-    - [Replay](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.w3g?raw=true)
+    - [Replay](1.6/time/29_05-prprfzzt-1.31.1-1.6.5.w3g?raw=true)
 
-    ![](1.6/time/29:05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
+    ![](1.6/time/29_05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 10. <details>
@@ -607,9 +607,9 @@ be in each category once.
 
     - Patch: 1.32.7
     - Version: [1.6.13]
-    - [Replay](1.6/time/29:28-janme-1.32.7-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/29_28-janme-1.32.7-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/29:28-janme-1.32.7-1.6.13.jpg?raw=true)
+    ![](1.6/time/29_28-janme-1.32.7-1.6.13.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
