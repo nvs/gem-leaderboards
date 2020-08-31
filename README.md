@@ -473,6 +473,20 @@ be in each category once.
 ### 1.6 Time
 
 1.  <details>
+    <summary>25:43 -
+        <a href="https://discordapp.com/users/148133151678529536">
+            Buskmurvel
+        </a>
+    </summary>
+
+    - Patch: 1.32.8
+    - Version: [1.6.13]
+    - [Replay](1.6/time/25:43-Buskmurvel-1.32.8-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/25:43-Buskmurvel-1.32.8-1.6.13.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>26:40 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -484,20 +498,6 @@ be in each category once.
     - [Replay](1.6/time/26:40-Sesamia-1.32.7-1.6.13.w3g?raw=true)
 
     ![](1.6/time/26:40-Sesamia-1.32.7-1.6.13.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>26:47 -
-        <a href="https://discordapp.com/users/148133151678529536">
-            Buskmurvel
-        </a>
-    </summary>
-
-    - Patch: 1.32.5
-    - Version: [1.6.13]
-    - [Replay](1.6/time/26:47-Buskmurvel-1.32.5-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/26:47-Buskmurvel-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 3.  <details>
