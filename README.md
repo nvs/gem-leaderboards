@@ -487,6 +487,20 @@ be in each category once.
     </details>
 
 2.  <details>
+    <summary>26:23 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.8
+    - Version: [1.6.13]
+    - [Replay](1.6/time/26_23-EvilObiWan-1.32.8-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/26_23-EvilObiWan-1.32.8-1.6.13.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>26:40 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -500,7 +514,7 @@ be in each category once.
     ![](1.6/time/26_40-Sesamia-1.32.7-1.6.13.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>27:09 -
         <a href="https://discordapp.com/users/444461680349413386">
             Closed
@@ -512,20 +526,6 @@ be in each category once.
     - [Replay](1.6/time/27_09-Closed-1.32.5-1.6.13.w3g?raw=true)
 
     ![](1.6/time/27_09-Closed-1.32.5-1.6.13.jpg?raw=true)
-    </details>
-
-3)  <details>
-    <summary>27:09 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.8
-    - Version: [1.6.13]
-    - [Replay](1.6/time/27_09-EvilObiWan-1.32.8-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/27_09-EvilObiWan-1.32.8-1.6.13.jpg?raw=true)
     </details>
 
 5.  <details>
