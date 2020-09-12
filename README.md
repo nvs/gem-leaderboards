@@ -599,17 +599,17 @@ be in each category once.
     </details>
 
 10. <details>
-    <summary>29:28 -
-        <a href="https://discordapp.com/users/346841019113013248">
-            janme
+    <summary>29:26 -
+        <a href="https://discordapp.com/users/148992009057730560">
+            Vast
         </a>
     </summary>
 
-    - Patch: 1.32.7
+    - Patch: 1.32.8
     - Version: [1.6.13]
-    - [Replay](1.6/time/29_28-janme-1.32.7-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/29_26-Vast-1.32.8-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/29_28-janme-1.32.7-1.6.13.jpg?raw=true)
+    ![](1.6/time/29_26-Vast-1.32.8-1.6.13.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
