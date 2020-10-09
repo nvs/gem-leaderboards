@@ -557,6 +557,20 @@ be in each category once.
     </details>
 
 7.  <details>
+    <summary>27:57 -
+        <a href="https://discordapp.com/users/394952462785576964">
+            Ethereum
+        </a>
+    </summary>
+
+    - Patch: 1.32.8
+    - Version: [1.6.13]
+    - [Replay](1.6/time/27_57-Ethereum-1.32.8-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/27_57-Ethereum-1.32.8-1.6.13.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>28:36 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -570,7 +584,7 @@ be in each category once.
     ![](1.6/time/28_36-Arsenic-1.32.3-1.6.13.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>28:51 -
         <a href="https://discordapp.com/users/273359473064673281">
             Treefiddy
@@ -584,7 +598,7 @@ be in each category once.
     ![](1.6/time/28_51-Treefiddy-1.32.3-1.6.11.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>29:05 -
         <a href="https://discordapp.com/users/145853647052341249">
             prprfzzt
@@ -596,20 +610,6 @@ be in each category once.
     - [Replay](1.6/time/29_05-prprfzzt-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/time/29_05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>29:26 -
-        <a href="https://discordapp.com/users/148992009057730560">
-            Vast
-        </a>
-    </summary>
-
-    - Patch: 1.32.8
-    - Version: [1.6.13]
-    - [Replay](1.6/time/29_26-Vast-1.32.8-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/29_26-Vast-1.32.8-1.6.13.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
