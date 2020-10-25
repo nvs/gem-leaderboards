@@ -585,6 +585,20 @@ be in each category once.
     </details>
 
 9.  <details>
+    <summary>28:41 -
+        <a href="https://discordapp.com/users/237012782539603979">
+            Kage
+        </a>
+    </summary>
+
+    - Patch: 1.32.9
+    - Version: [1.6.13]
+    - [Replay](1.6/time/28_41-Kage-1.32.9-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/28_41-Kage-1.32.9-1.6.13.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>28:51 -
         <a href="https://discordapp.com/users/273359473064673281">
             Treefiddy
@@ -596,20 +610,6 @@ be in each category once.
     - [Replay](1.6/time/28_51-Treefiddy-1.32.3-1.6.11.w3g?raw=true)
 
     ![](1.6/time/28_51-Treefiddy-1.32.3-1.6.11.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>29:05 -
-        <a href="https://discordapp.com/users/145853647052341249">
-            prprfzzt
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/time/29_05-prprfzzt-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/time/29_05-prprfzzt-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
