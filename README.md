@@ -529,17 +529,17 @@ be in each category once.
     </details>
 
 5.  <details>
-    <summary>27:23 -
+    <summary>27:18 -
         <a href="https://discordapp.com/users/175113641799057408">
             Sleek
         </a>
     </summary>
 
-    - Patch: 1.32.5
+    - Patch: 1.32.9
     - Version: [1.6.13]
-    - [Replay](1.6/time/27_23-Sleek-1.32.5-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/27_18-Sleek-1.32.9-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/27_23-Sleek-1.32.5-1.6.13.jpg?raw=true)
+    ![](1.6/time/27_18-Sleek-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
 6.  <details>
