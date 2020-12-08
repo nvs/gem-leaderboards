@@ -529,6 +529,20 @@ be in each category once.
     </details>
 
 5.  <details>
+    <summary>27:10 -
+        <a href="https://discordapp.com/users/266230167276355594">
+            Magchi
+        </a>
+    </summary>
+
+    - Patch: 1.32.9
+    - Version: [1.6.13]
+    - [Replay](1.6/time/27_10-Magchi-1.32.9-1.6.13.w3g?raw=true)
+
+    ![](1.6/time/27_10-Magchi-1.32.9-1.6.13.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>27:18 -
         <a href="https://discordapp.com/users/175113641799057408">
             Sleek
@@ -542,7 +556,7 @@ be in each category once.
     ![](1.6/time/27_18-Sleek-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>27:41 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -556,7 +570,7 @@ be in each category once.
     ![](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>27:43 -
         <a href="https://discordapp.com/users/148992009057730560">
             Vast
@@ -570,7 +584,7 @@ be in each category once.
     ![](1.6/time/27_43-Vast-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>27:57 -
         <a href="https://discordapp.com/users/394952462785576964">
             Ethereum
@@ -584,7 +598,7 @@ be in each category once.
     ![](1.6/time/27_57-Ethereum-1.32.8-1.6.13.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>28:36 -
         <a href="https://discordapp.com/users/160915097206784009">
             Arsenic
@@ -596,20 +610,6 @@ be in each category once.
     - [Replay](1.6/time/28_36-Arsenic-1.32.3-1.6.13.w3g?raw=true)
 
     ![](1.6/time/28_36-Arsenic-1.32.3-1.6.13.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>28:41 -
-        <a href="https://discordapp.com/users/237012782539603979">
-            Kage
-        </a>
-    </summary>
-
-    - Patch: 1.32.9
-    - Version: [1.6.13]
-    - [Replay](1.6/time/28_41-Kage-1.32.9-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/28_41-Kage-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
