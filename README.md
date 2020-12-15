@@ -599,17 +599,17 @@ be in each category once.
     </details>
 
 10. <details>
-    <summary>28:36 -
-        <a href="https://discordapp.com/users/160915097206784009">
-            Arsenic
+    <summary>27:59 -
+        <a href="https://discordapp.com/users/273359473064673281">
+            Treefiddy
         </a>
     </summary>
 
-    - Patch: 1.32.3
+    - Patch: 1.32.9
     - Version: [1.6.13]
-    - [Replay](1.6/time/28_36-Arsenic-1.32.3-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/27_59-Treefiddy-1.32.9-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/28_36-Arsenic-1.32.3-1.6.13.jpg?raw=true)
+    ![](1.6/time/27_59-Treefiddy-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
