@@ -615,6 +615,20 @@ be in each category once.
 ### 1.6 DPS
 
 1.  <details>
+    <summary>14994 -
+        <a href="https://discordapp.com/users/444461680349413386">
+            Closed
+        </a>
+    </summary>
+
+    - Patch: 1.32.9
+    - Version: [1.6.13]
+    - [Replay](1.6/dps/14994-Closed-1.32.9-1.6.13.w3g?raw=true)
+
+    ![](1.6/dps/14994-Closed-1.32.9-1.6.13.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>14427 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -626,20 +640,6 @@ be in each category once.
     - [Replay](1.6/dps/14427-Sesamia-1.31.1-1.6.6.w3g?raw=true)
 
     ![](1.6/dps/14427-Sesamia-1.31.1-1.6.6.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>14312 -
-        <a href="https://discordapp.com/users/444461680349413386">
-            Closed
-        </a>
-    </summary>
-
-    - Patch: 1.32.5
-    - Version: [1.6.13]
-    - [Replay](1.6/dps/14312-Closed-1.32.5-1.6.13.w3g?raw=true)
-
-    ![](1.6/dps/14312-Closed-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
 3.  <details>
