@@ -657,7 +657,7 @@ be in each category once.
     </details>
 
 4.  <details>
-    <summary>13647 -
+    <summary>13836 -
         <a href="https://discordapp.com/users/266230167276355594">
             Magchi
         </a>
@@ -665,9 +665,9 @@ be in each category once.
 
     - Patch: 1.32.9
     - Version: [1.6.13]
-    - [Replay](1.6/dps/13647-Magchi-1.32.9-1.6.13.w3g?raw=true)
+    - [Replay](1.6/dps/13836-HerrO-1.32.9-1.6.13.w3g?raw=true)
 
-    ![](1.6/dps/13647-Magchi-1.32.9-1.6.13.jpg?raw=true)
+    ![](1.6/dps/13836-HerrO-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
 5.  <details>
