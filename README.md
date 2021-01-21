@@ -531,7 +531,7 @@ be in each category once.
 5.  <details>
     <summary>26:47 -
         <a href="https://discordapp.com/users/266230167276355594">
-            Magchi
+            HerrO
         </a>
     </summary>
 
@@ -659,7 +659,7 @@ be in each category once.
 4.  <details>
     <summary>13836 -
         <a href="https://discordapp.com/users/266230167276355594">
-            Magchi
+            HerrO
         </a>
     </summary>
 
