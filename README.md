@@ -529,7 +529,7 @@ be in each category once.
     </details>
 
 5.  <details>
-    <summary>27:10 -
+    <summary>26:47 -
         <a href="https://discordapp.com/users/266230167276355594">
             Magchi
         </a>
@@ -537,9 +537,9 @@ be in each category once.
 
     - Patch: 1.32.9
     - Version: [1.6.13]
-    - [Replay](1.6/time/27_10-Magchi-1.32.9-1.6.13.w3g?raw=true)
+    - [Replay](1.6/time/26_47-HerrO-1.32.9-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/27_10-Magchi-1.32.9-1.6.13.jpg?raw=true)
+    ![](1.6/time/26_47-HerrO-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
 6.  <details>
