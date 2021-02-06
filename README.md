@@ -57,7 +57,7 @@ the `Print Screen` key to have Warcraft III create the screenshot is the
 most common.
 
 Include the game's entire window in the screenshot, and ensure that your
-maze and the expanded game board are both visible.
+maze, the expanded game board, and the map version are all visible.
 
 ### Replay
 
