@@ -32,11 +32,11 @@ state of the leaderboards at a given moment in time.
 3. Ensure you are playing the [latest version] of the map.  Games played on
    older versions, testing versions, or unofficial versions are not
    accepted.
-4. Ensure that the map is placed within the default directory for downloaded
-   maps (i.e. `Maps/Download/Gem TD Plus X.Y.Z.w3x`) and not a subdirectory.
-   The map location is recorded into the replay, and non-default locations
-   require viewers to move the map.  Games with maps in non-default
-   locations are not accepted.
+4. Do not rename the map.  And ensure that the map is placed within the
+   default directory for downloaded maps (i.e. `Maps/Download/Gem TD Plus
+   X.Y.Z.w3x`).  The map location is recorded into the replay, and
+   non-default locations make it difficult for other users to view replays.
+   Hence, they may not be accepted.
 5. Ensure that you are following any leaderboard category specific rules.
    These can change gameplay in ways that cannot be replicated exactly
    otherwise.
