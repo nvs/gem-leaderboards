@@ -671,6 +671,20 @@ be in each category once.
     </details>
 
 5.  <details>
+    <summary>13379 -
+        <a href="https://discordapp.com/users/287498105455116290">
+            Itlum
+        </a>
+    </summary>
+
+    - Patch: 1.32.9
+    - Version: [1.6.13]
+    - [Replay](1.6/dps/13379-Itlum-1.32.9-1.6.13.w3g?raw=true)
+
+    ![](1.6/dps/13379-Itlum-1.32.9-1.6.13.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>13217 -
         <a href="https://discordapp.com/users/148992009057730560">
             Vast
@@ -684,7 +698,7 @@ be in each category once.
     ![](1.6/dps/13217-Vast-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>12875 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -698,7 +712,7 @@ be in each category once.
     ![](1.6/dps/12875-FryDays-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>12791 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -712,7 +726,7 @@ be in each category once.
     ![](1.6/dps/12791-Wolfilein-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>12699 -
         <a href="https://discordapp.com/users/148133151678529536">
             Buskmurvel
@@ -726,7 +740,7 @@ be in each category once.
     ![](1.6/dps/12699-Buskmurvel-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>12681 -
         <a href="https://discordapp.com/users/278998936780406784">
             B1ameMeNot
@@ -738,20 +752,6 @@ be in each category once.
     - [Replay](1.6/dps/12681-B1ameMeNot-1.31.1-1.6.9.w3g?raw=true)
 
     ![](1.6/dps/12681-B1ameMeNot-1.31.1-1.6.9.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>12604 -
-        <a href="https://discordapp.com/users/104819373297901568">
-            Redkeekee
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.7]
-    - [Replay](1.6/dps/12604-Redkeekee-1.31.1-1.6.7.w3g?raw=true)
-
-    ![](1.6/dps/12604-Redkeekee-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
