@@ -436,9 +436,9 @@ position as a result.*
 
     - Patch: 1.30.4
     - Version: [1.5.3]
-    - [Replay](1.5/dps/21443-V:RGO-1.30.4-1.5.3.w3g?raw=true)
+    - [Replay](1.5/dps/21443-V_RGO-1.30.4-1.5.3.w3g?raw=true)
 
-    ![](1.5/dps/21443-V:RGO-1.30.4-1.5.3.jpg?raw=true)
+    ![](1.5/dps/21443-V_RGO-1.30.4-1.5.3.jpg?raw=true)
     </details>
 
 ## 1.6 Leaderboards
