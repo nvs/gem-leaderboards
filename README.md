@@ -472,6 +472,8 @@ be in each category once.
 
 ### 1.6 Time
 
+- [Playlist](https://www.youtube.com/playlist?list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
+
 1.  <details>
     <summary>24:59 -
         <a href="https://discordapp.com/users/444461680349413386">
@@ -482,6 +484,7 @@ be in each category once.
     - Patch: 1.32.9
     - Version: [1.6.13]
     - [Replay](1.6/time/24_59-Closed-1.32.9-1.6.13.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=XhogOpqxNKM&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/24_59-Closed-1.32.9-1.6.13.jpg?raw=true)
     </details>
@@ -496,6 +499,7 @@ be in each category once.
     - Patch: 1.32.9
     - Version: [1.6.13]
     - [Replay](1.6/time/25_02-Buskmurvel-1.32.9-1.6.13.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=WzlZ0ieekW4&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/25_02-Buskmurvel-1.32.9-1.6.13.jpg?raw=true)
     </details>
@@ -510,6 +514,7 @@ be in each category once.
     - Patch: 1.32.8
     - Version: [1.6.13]
     - [Replay](1.6/time/25_12-Sesamia-1.32.8-1.6.13.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=huAyPO6mzp0&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/25_12-Sesamia-1.32.8-1.6.13.jpg?raw=true)
     </details>
@@ -524,6 +529,7 @@ be in each category once.
     - Patch: 1.32.10
     - Version: [1.6.13]
     - [Replay](1.6/time/25_57-HerrO-1.32.10-1.6.13.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=eVWEcjuh5Yo&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/25_57-HerrO-1.32.10-1.6.13.jpg?raw/=true)
     </details>
@@ -538,6 +544,7 @@ be in each category once.
     - Patch: 1.32.9
     - Version: [1.6.13]
     - [Replay](1.6/time/26_16-EvilObiWan-1.32.9-1.6.13.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=Jv4pYb9t0yw&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/26_16-EvilObiWan-1.32.9-1.6.13.jpg?raw=true)
     </details>
@@ -552,6 +559,7 @@ be in each category once.
     - Patch: 1.32.9
     - Version: [1.6.13]
     - [Replay](1.6/time/26_47-Sleek-1.32.9-1.6.13.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=0RMY9lEVQoU&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/26_47-Sleek-1.32.9-1.6.13.jpg?raw=true)
     </details>
@@ -566,6 +574,7 @@ be in each category once.
     - Patch: 1.31.1
     - Version: [1.6.3]
     - [Replay](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=ef6m8EsPWt8&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
     </details>
@@ -580,6 +589,7 @@ be in each category once.
     - Patch: 1.32.9
     - Version: [1.6.13]
     - [Replay](1.6/time/27_43-Vast-1.32.9-1.6.13.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=i2ymhSu2JOI&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/27_43-Vast-1.32.9-1.6.13.jpg?raw=true)
     </details>
@@ -594,6 +604,7 @@ be in each category once.
     - Patch: 1.32.8
     - Version: [1.6.13]
     - [Replay](1.6/time/27_57-Ethereum-1.32.8-1.6.13.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=Kdfygh0xJ9o&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/27_57-Ethereum-1.32.8-1.6.13.jpg?raw=true)
     </details>
@@ -608,6 +619,7 @@ be in each category once.
     - Patch: 1.32.9
     - Version: [1.6.13]
     - [Replay](1.6/time/27_59-Treefiddy-1.32.9-1.6.13.w3g?raw=true)
+    - [Video](https://www.youtube.com/watch?v=4l1fhCewVdI&list=PLoAqbDvwJdTQ4t3-wQqgReNXv4u-ShWx7)
 
     ![](1.6/time/27_59-Treefiddy-1.32.9-1.6.13.jpg?raw=true)
     </details>
