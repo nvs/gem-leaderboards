@@ -615,6 +615,20 @@ be in each category once.
 ### 1.6 DPS
 
 1.  <details>
+    <summary>15924 -
+        <a href="https://discordapp.com/users/683553494224994305">
+            EvilObiWan
+        </a>
+    </summary>
+
+    - Patch: 1.32.10
+    - Version: [1.6.13]
+    - [Replay](./1.6/dps/15924-EvilObiWan-1.32.10-1.6.13.w3g?raw=true)
+
+    ![](./1.6/dps/15924-EvilObiWan-1.32.10-1.6.13.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>14994 -
         <a href="https://discordapp.com/users/444461680349413386">
             Closed
@@ -628,7 +642,7 @@ be in each category once.
     ![](1.6/dps/14994-Closed-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>14427 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -640,20 +654,6 @@ be in each category once.
     - [Replay](1.6/dps/14427-Sesamia-1.31.1-1.6.6.w3g?raw=true)
 
     ![](1.6/dps/14427-Sesamia-1.31.1-1.6.6.jpg?raw=true)
-    </details>
-
-3.  <details>
-    <summary>14100 -
-        <a href="https://discordapp.com/users/683553494224994305">
-            EvilObiWan
-        </a>
-    </summary>
-
-    - Patch: 1.32.8
-    - Version: [1.6.13]
-    - [Replay](1.6/dps/14100-EvilObiWan-1.32.8-1.6.13.w3g?raw=true)
-
-    ![](1.6/dps/14100-EvilObiWan-1.32.8-1.6.13.jpg?raw=true)
     </details>
 
 4.  <details>
