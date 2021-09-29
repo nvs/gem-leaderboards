@@ -529,17 +529,17 @@ be in each category once.
     </details>
 
 5.  <details>
-    <summary>26:16 -
+    <summary>25:47 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
         </a>
     </summary>
 
-    - Patch: 1.32.9
+    - Patch: 1.32.10
     - Version: [1.6.13]
-    - [Replay](1.6/time/26_16-EvilObiWan-1.32.9-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/time/25_47-EvilObiWan-1.32.10-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/26_16-EvilObiWan-1.32.9-1.6.13.jpg?raw=true)
+    ![](./1.6/time/25_47-EvilObiWan-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
 6.  <details>
