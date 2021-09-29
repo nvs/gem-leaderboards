@@ -557,6 +557,20 @@ be in each category once.
     </details>
 
 7.  <details>
+    <summary>27:40 -
+        <a href="https://discordapp.com/users/148992009057730560">
+            Vast
+        </a>
+    </summary>
+
+    - Patch: 1.32.10
+    - Version: [1.6.13]
+    - [Replay](./1.6/time/27_40-Vast-1.32.10-1.6.13.w3g?raw=true)
+
+    ![](./1.6/time/27_40-Vast-1.32.10-1.6.13.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>27:41 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -568,20 +582,6 @@ be in each category once.
     - [Replay](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.w3g?raw=true)
 
     ![](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
-    </details>
-
-8.  <details>
-    <summary>27:43 -
-        <a href="https://discordapp.com/users/148992009057730560">
-            Vast
-        </a>
-    </summary>
-
-    - Patch: 1.32.9
-    - Version: [1.6.13]
-    - [Replay](1.6/time/27_43-Vast-1.32.9-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/27_43-Vast-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
 9.  <details>
