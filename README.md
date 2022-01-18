@@ -557,6 +557,20 @@ be in each category once.
     </details>
 
 7.  <details>
+    <summary>27:11 -
+        <a href="https://discordapp.com/users/816002593888665632">
+            Mercy
+        </a>
+    </summary>
+
+    - Patch: 1.32.10
+    - Version: [1.6.13]
+    - [Replay](./1.6/time/27_11-Mercy-1.32.10-1.6.13.w3g?raw=true)
+
+    ![](./1.6/time/27_11-Mercy-1.32.10-1.6.13.jpg?raw=true)
+    </details>
+
+8.  <details>
     <summary>27:40 -
         <a href="https://discordapp.com/users/148992009057730560">
             Vast
@@ -570,7 +584,7 @@ be in each category once.
     ![](./1.6/time/27_40-Vast-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>27:41 -
         <a href="https://discordapp.com/users/171314221232029696">
             Monkeynews
@@ -584,7 +598,7 @@ be in each category once.
     ![](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>27:57 -
         <a href="https://discordapp.com/users/394952462785576964">
             Ethereum
@@ -596,20 +610,6 @@ be in each category once.
     - [Replay](1.6/time/27_57-Ethereum-1.32.8-1.6.13.w3g?raw=true)
 
     ![](1.6/time/27_57-Ethereum-1.32.8-1.6.13.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>27:59 -
-        <a href="https://discordapp.com/users/273359473064673281">
-            Treefiddy
-        </a>
-    </summary>
-
-    - Patch: 1.32.9
-    - Version: [1.6.13]
-    - [Replay](1.6/time/27_59-Treefiddy-1.32.9-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/27_59-Treefiddy-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
