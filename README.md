@@ -543,7 +543,7 @@ be in each category once.
     </details>
 
 6.  <details>
-    <summary>26:26 -
+    <summary>26:46 -
         <a href="https://discordapp.com/users/148992009057730560">
             Vast
         </a>
