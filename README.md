@@ -543,6 +543,20 @@ be in each category once.
     </details>
 
 6.  <details>
+    <summary>26:44 -
+        <a href="https://discordapp.com/users/816002593888665632">
+            Mercy
+        </a>
+    </summary>
+
+    - Patch: 1.32.10
+    - Version: [1.6.13]
+    - [Replay](./1.6/time/26_44-Mercy-1.32.10-1.6.13.w3g?raw=true)
+
+    ![](./1.6/time/26_44-Mercy-1.32.10-1.6.13.jpg?raw=true)
+    </details>
+
+7.  <details>
     <summary>26:46 -
         <a href="https://discordapp.com/users/148992009057730560">
             Vast
@@ -556,7 +570,7 @@ be in each category once.
     ![](./1.6/time/26_46-Vast-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>26:47 -
         <a href="https://discordapp.com/users/175113641799057408">
             Sleek
@@ -568,20 +582,6 @@ be in each category once.
     - [Replay](1.6/time/26_47-Sleek-1.32.9-1.6.13.w3g?raw=true)
 
     ![](1.6/time/26_47-Sleek-1.32.9-1.6.13.jpg?raw=true)
-    </details>
-
-8.  <details>
-    <summary>27:11 -
-        <a href="https://discordapp.com/users/816002593888665632">
-            Mercy
-        </a>
-    </summary>
-
-    - Patch: 1.32.10
-    - Version: [1.6.13]
-    - [Replay](./1.6/time/27_11-Mercy-1.32.10-1.6.13.w3g?raw=true)
-
-    ![](./1.6/time/27_11-Mercy-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
 9.  <details>
