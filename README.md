@@ -827,7 +827,7 @@ be in each category once.
     </details>
 
 6.  <details>
-    <summary>Level 37 - 131894 -
+    <summary>Level 37 - 146824 -
         <a href="https://discordapp.com/users/371817313281900545">
             Remo
         </a>
@@ -835,9 +835,9 @@ be in each category once.
 
     - Patch: 1.32.4
     - Version: [1.6.13]
-    - [Replay](1.6/no-maze/37_131894-Remo-1.32.4-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/no-maze/37_146842-Remo-1.32.10-1.6.13.w3g?raw=true)
 
-    ![](1.6/no-maze/37_131894-Remo-1.32.4-1.6.13.jpg?raw=true)
+    ![](./1.6/no-maze/37_146842-Remo-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
 7.  <details>
