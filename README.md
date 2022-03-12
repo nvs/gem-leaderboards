@@ -22,29 +22,34 @@ state of the leaderboards at a given moment in time.
 
 [Gem TD+]: https://github.com/nvs/gem
 
+## Rules
+
+1. Ensure you are playing on the latest Warcraft III patch.  Games played on
+   older patches are not accepted.
+2. Ensure you are playing the [latest version] of the map.  Games played on
+   older versions, testing versions, or unofficial versions are not
+   accepted.
+3. Do not rename the map.  And ensure that the map is placed within the
+   default directory for downloaded maps (i.e. `Maps/Download/Gem TD Plus
+   X.Y.Z.w3x`).  The map location is recorded into the replay, and
+   non-default locations make it difficult for other users to view replays.
+   Hence, they may not be accepted.
+4. Ensure that you are following any leaderboard category specific rules.
+   These can change gameplay in ways that cannot be replicated exactly
+   otherwise.
+5. Be a good sport.  Do not undertake any behavior that might undermine the
+   competitive spirit of the leaderboards.  If in doubt, ask.
+
 ## How to Submit
 
 1. Join the official [Gem TD+ Discord].  Your Discord account is used to
    identify your submitted games.  Games cannot be submitted on someone
    else's behalf.
-2. Ensure you are playing on the latest Warcraft III patch.  Games played on
-   older patches are not accepted.
-3. Ensure you are playing the [latest version] of the map.  Games played on
-   older versions, testing versions, or unofficial versions are not
-   accepted.
-4. Do not rename the map.  And ensure that the map is placed within the
-   default directory for downloaded maps (i.e. `Maps/Download/Gem TD Plus
-   X.Y.Z.w3x`).  The map location is recorded into the replay, and
-   non-default locations make it difficult for other users to view replays.
-   Hence, they may not be accepted.
-5. Ensure that you are following any leaderboard category specific rules.
-   These can change gameplay in ways that cannot be replicated exactly
-   otherwise.
-6. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
+2. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
    Leaderboards `#submit` channel.  A game will not be verified without a
    replay. *Tip: Just drag them into the channel!*
-7. See if further information is needed for verification.
-8. Join the leaderboards, then try to make sure your name stays there!
+3. See if further information is needed for verification.
+4. Join the leaderboards, then try to make sure your name stays there!
 
 [Gem TD+ Discord]: https://discord.gg/PxNNp77
 [latest version]: https://github.com/nvs/gem/releases/latest
