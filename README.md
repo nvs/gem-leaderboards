@@ -634,17 +634,17 @@ be in each category once.
     </details>
 
 2.  <details>
-    <summary>14994 -
+    <summary>15589 -
         <a href="https://discordapp.com/users/444461680349413386">
             Closed
         </a>
     </summary>
 
-    - Patch: 1.32.9
+    - Patch: 1.32.10
     - Version: [1.6.13]
-    - [Replay](1.6/dps/14994-Closed-1.32.9-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/dps/15589-Closed-1.32.10-1.6.13.w3g?raw=true)
 
-    ![](1.6/dps/14994-Closed-1.32.9-1.6.13.jpg?raw=true)
+    ![](./1.6/dps/15589-Closed-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
 3.  <details>
