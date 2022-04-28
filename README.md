@@ -478,6 +478,20 @@ be in each category once.
 ### 1.6 Time
 
 1.  <details>
+    <summary>24:54 -
+        <a href="https://discordapp.com/users/444461680349413386">
+            Closed
+        </a>
+    </summary>
+
+    - Patch: 1.32.10
+    - Version: [1.6.13]
+    - [Replay](./1.6/time/24_44-Closed-1.32.10-1.6.13.w3g?raw=true)
+
+    ![](./1.6/time/24_44-Closed-1.32.10-1.6.13.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>24:51 -
         <a href="https://discordapp.com/users/266230167276355594">
             HerrO
@@ -489,20 +503,6 @@ be in each category once.
     - [Replay](./1.6/time/24_51-HerrO-1.32.10-1.6.13.w3g?raw=true)
 
     ![](./1.6/time/24_51-HerrO-1.32.10-1.6.13.jpg?raw=true)
-    </details>
-
-2.  <details>
-    <summary>24:59 -
-        <a href="https://discordapp.com/users/444461680349413386">
-            Closed
-        </a>
-    </summary>
-
-    - Patch: 1.32.9
-    - Version: [1.6.13]
-    - [Replay](1.6/time/24_59-Closed-1.32.9-1.6.13.w3g?raw=true)
-
-    ![](1.6/time/24_59-Closed-1.32.9-1.6.13.jpg?raw=true)
     </details>
 
 3.  <details>
