@@ -478,7 +478,7 @@ be in each category once.
 ### 1.6 Time
 
 1.  <details>
-    <summary>24:54 -
+    <summary>24:44 -
         <a href="https://discordapp.com/users/444461680349413386">
             Closed
         </a>
