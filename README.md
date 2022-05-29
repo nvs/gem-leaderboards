@@ -534,6 +534,20 @@ be in each category once.
     </details>
 
 5.  <details>
+    <summary>25:20 -
+        <a href="https://discordapp.com/users/816002593888665632">
+            Mercy
+        </a>
+    </summary>
+
+    - Patch: 1.32.10
+    - Version: [1.6.13]
+    - [Replay](./1.6/time/25_20-Mercy-1.32.10-1.6.13.w3g?raw=true)
+
+    ![](./1.6/time/25_20-Mercy-1.32.10-1.6.13.jpg?raw=true)
+    </details>
+
+6.  <details>
     <summary>25:47 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
@@ -545,20 +559,6 @@ be in each category once.
     - [Replay](./1.6/time/25_47-EvilObiWan-1.32.10-1.6.13.w3g?raw=true)
 
     ![](./1.6/time/25_47-EvilObiWan-1.32.10-1.6.13.jpg?raw=true)
-    </details>
-
-6.  <details>
-    <summary>26:21 -
-        <a href="https://discordapp.com/users/816002593888665632">
-            Mercy
-        </a>
-    </summary>
-
-    - Patch: 1.32.10
-    - Version: [1.6.13]
-    - [Replay](./1.6/time/26_21-Mercy-1.32.10-1.6.13.w3g?raw=true)
-
-    ![](./1.6/time/26_21-Mercy-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
 7.  <details>
