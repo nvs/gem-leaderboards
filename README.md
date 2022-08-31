@@ -648,6 +648,20 @@ be in each category once.
     </details>
 
 3.  <details>
+    <summary>14350 -
+        <a href="https://discordapp.com/users/816002593888665632">
+            Mercy
+        </a>
+    </summary>
+
+    - Patch: 1.33.0
+    - Version: [1.6.13]
+    - [Replay](./1.6/dps/15281-Mercy-1.33.0-1.6.13.w3g?raw=true)
+
+    ![](./1.6/dps/15281-Mercy-1.33.0-1.6.13.jpg?raw=true)
+    </details>
+
+4.  <details>
     <summary>14909 -
         <a href="https://discordapp.com/users/266230167276355594">
             HerrO
@@ -661,7 +675,7 @@ be in each category once.
     ![](./1.6/dps/14909-HerrO-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>14427 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -673,20 +687,6 @@ be in each category once.
     - [Replay](1.6/dps/14427-Sesamia-1.31.1-1.6.6.w3g?raw=true)
 
     ![](1.6/dps/14427-Sesamia-1.31.1-1.6.6.jpg?raw=true)
-    </details>
-
-5.  <details>
-    <summary>14350 -
-        <a href="https://discordapp.com/users/816002593888665632">
-            Mercy
-        </a>
-    </summary>
-
-    - Patch: 1.32.10
-    - Version: [1.6.13]
-    - [Replay](./1.6/dps/14350-Mercy-1.32.10-1.6.13.w3g?raw=true)
-
-    ![](./1.6/dps/14350-Mercy-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
 6.  <details>
