@@ -506,7 +506,7 @@ be in each category once.
     </details>
 
 3.  <details>
-    <summary>24:59 -
+    <summary>24:52 -
         <a href="https://discordapp.com/users/816002593888665632">
             Mercy
         </a>
@@ -514,9 +514,9 @@ be in each category once.
 
     - Patch: 1.33.0
     - Version: [1.6.13]
-    - [Replay](./1.6/time/24_59-Mercy-1.33.0-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/time/24_52-Mercy-1.33.0-1.6.13.w3g?raw=true)
 
-    ![](./1.6/time/24_59-Mercy-1.33.0-1.6.13.jpg?raw=true)
+    ![](./1.6/time/24_52-Mercy-1.33.0-1.6.13.jpg?raw=true)
     </details>
 
 4.  <details>
