@@ -634,6 +634,20 @@ be in each category once.
     </details>
 
 2.  <details>
+    <summary>15734 -
+        <a href="https://discordapp.com/users/816002593888665632">
+            Mercy
+        </a>
+    </summary>
+
+    - Patch: 1.33.0
+    - Version: [1.6.13]
+    - [Replay](./1.6/dps/15734-Mercy-1.33.0-1.6.13.w3g?raw=true)t
+
+    ![](./1.6/dps/15734-Mercy-1.33.0-1.6.13.jpg?raw=true)
+    </details>
+
+3.  <details>
     <summary>15589 -
         <a href="https://discordapp.com/users/444461680349413386">
             Closed
@@ -645,20 +659,6 @@ be in each category once.
     - [Replay](./1.6/dps/15589-Closed-1.32.10-1.6.13.w3g?raw=true)
 
     ![](./1.6/dps/15589-Closed-1.32.10-1.6.13.jpg?raw=true)
-    </details>
-
-3.  <details>
-    <summary>15734 -
-        <a href="https://discordapp.com/users/816002593888665632">
-            Mercy
-        </a>
-    </summary>
-
-    - Patch: 1.33.0
-    - Version: [1.6.13]
-    - [Replay](./1.6/dps/15734-Mercy-1.33.0-1.6.13.w3g?raw=true)
-
-    ![](./1.6/dps/15734-Mercy-1.33.0-.1.6.13.jpg?raw=true)
     </details>
 
 4.  <details>
