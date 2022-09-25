@@ -642,7 +642,7 @@ be in each category once.
 
     - Patch: 1.33.0
     - Version: [1.6.13]
-    - [Replay](./1.6/dps/15734-Mercy-1.33.0-1.6.13.w3g?raw=true)t
+    - [Replay](./1.6/dps/15734-Mercy-1.33.0-1.6.13.w3g?raw=true)
 
     ![](./1.6/dps/15734-Mercy-1.33.0-1.6.13.jpg?raw=true)
     </details>
