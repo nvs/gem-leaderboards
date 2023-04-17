@@ -762,6 +762,20 @@ be in each category once.
 ### 1.6 No Maze
 
 1.  <details>
+    <summary>Level 41 - 258974 -
+        <a href="https://discordapp.com/users/368531233073922049">
+            Obeleet
+        </a>
+    </summary>
+
+    - Patch: 1.35.0
+    - Version: [1.6.13]
+    - [Replay](./1.6/no-maze/41_258974-Obeleet-1.35.0-1.6.13.w3g)
+
+    ![](./1.6/no-maze/41_258974-Obeleet-1.35.0-1.6.13.jpg?raw=true)
+    </details>
+
+2.  <details>
     <summary>Level 41 - 222025 -
         <a href="https://discordapp.com/users/683553494224994305">
             EvilObiWan
@@ -775,7 +789,7 @@ be in each category once.
     ![](1.6/no-maze/41_222025-EvilObiWan-1.32.7-1.6.13.jpg?raw=true)
     </details>
 
-2.  <details>
+3.  <details>
     <summary>Level 41 - 214567 -
         <a href="https://discordapp.com/users/151874411140481024">
             TheVolatile
@@ -789,7 +803,7 @@ be in each category once.
     ![](1.6/no-maze/41_214567-TheVolatile-1.32.5-1.6.13.jpg?raw=true)
     </details>
 
-3.  <details>
+4.  <details>
     <summary>Level 38 - 229145 -
         <a href="https://discordapp.com/users/175113641799057408">
             Sleek
@@ -803,7 +817,7 @@ be in each category once.
     ![](1.6/no-maze/38_229145-Sleek-1.32.7-1.6.13.jpg?raw=true)
     </details>
 
-4.  <details>
+5.  <details>
     <summary>Level 38 - 219933 -
         <a href="https://discordapp.com/users/417051812152082453">
             Faqar
@@ -817,7 +831,7 @@ be in each category once.
     ![](1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.jpg?raw=true)
     </details>
 
-5.  <details>
+6.  <details>
     <summary>Level 38 - 189384 -
         <a href="https://discordapp.com/users/104819373297901568">
             Redkeekee
@@ -831,7 +845,7 @@ be in each category once.
     ![](1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
-6.  <details>
+7.  <details>
     <summary>Level 37 - 146824 -
         <a href="https://discordapp.com/users/371817313281900545">
             Remo
@@ -845,7 +859,7 @@ be in each category once.
     ![](./1.6/no-maze/37_146842-Remo-1.32.10-1.6.13.jpg?raw=true)
     </details>
 
-7.  <details>
+8.  <details>
     <summary>Level 35 - 157953 -
         <a href="https://discordapp.com/users/330183643215429633">
             Sesamia
@@ -859,7 +873,7 @@ be in each category once.
     ![](1.6/no-maze/35_157953-Sesamia-1.31.1-1.6.7.jpg?raw=true)
     </details>
 
-8.  <details>
+9.  <details>
     <summary>Level 34 - 156133 -
         <a href="https://discordapp.com/users/124966970763378693">
             GenoHacker
@@ -873,7 +887,7 @@ be in each category once.
     ![](1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>Level 34 - 142719 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -885,20 +899,6 @@ be in each category once.
     - [Replay](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.w3g?raw=true)
 
     ![](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>Level 34 - 107227 -
-        <a href="https://discordapp.com/users/347013029386387477">
-            Caligula
-        </a>
-    </summary>
-
-    - Patch: 1.32.5
-    - Version: [1.6.13]
-    - [Replay](1.6/no-maze/34_107227-Caligula-1.32.6-1.6.13.w3g?raw=true)
-
-    ![](1.6/no-maze/34_107227-Caligula-1.32.6-1.6.13.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
