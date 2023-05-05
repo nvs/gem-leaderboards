@@ -506,17 +506,17 @@ be in each category once.
     </details>
 
 3.  <details>
-    <summary>24:51 -
+    <summary>24:50 -
         <a href="https://discordapp.com/users/266230167276355594">
             HerrO
         </a>
     </summary>
 
-    - Patch: 1.32.10
+    - Patch: 1.35.0
     - Version: [1.6.13]
-    - [Replay](./1.6/time/24_51-HerrO-1.32.10-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/time/24_50-HerrO-1.35.0-1.6.13.w3g?raw=true)
 
-    ![](./1.6/time/24_51-HerrO-1.32.10-1.6.13.jpg?raw=true)
+    ![](./1.6/time/24_50-HerrO-1.35.0-1.6.13.jpg?raw=true)
     </details>
 
 4.  <details>
