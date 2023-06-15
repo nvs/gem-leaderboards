@@ -887,18 +887,20 @@ be in each category once.
     ![](1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
+    149203
+
 10. <details>
-    <summary>Level 34 - 142719 -
-        <a href="https://discordapp.com/users/520945994519543808">
-            Wolfilein
+    <summary>Level 34 - 149203 -
+        <a href="https://discordapp.com/users/385481386003267590">
+            Frostless
         </a>
     </summary>
 
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.w3g?raw=true)
+    - Patch: 1.36.0
+    - Version: [1.6.14]
+    - [Replay](./1.6/no-maze/34_149203-Frostless-1.36.0-1.6.14.w3g?raw=true)
 
-    ![](1.6/no-maze/34_142719-Wolfilein-1.31.1-1.6.5.jpg?raw=true)
+    ![](./1.6/no-maze/34_149203-Frostless-1.36.0-1.6.14.jpg?raw=true)
     </details>
 
 [1.4.0]: https://github.com/nvs/gem/releases/tag/v1.4.0
@@ -920,3 +922,4 @@ be in each category once.
 [1.6.10]: https://github.com/nvs/gem/releases/tag/v1.6.10
 [1.6.11]: https://github.com/nvs/gem/releases/tag/v1.6.11
 [1.6.13]: https://github.com/nvs/gem/releases/tag/v1.6.13
+[1.6.14]: https://github.com/nvs/gem/releases/tag/v1.6.14
