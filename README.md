@@ -718,6 +718,20 @@ be in each category once.
     </details>
 
 8.  <details>
+    <summary>13049 -
+        <a href="https://discordapp.com/users/655592896027820053">
+            Crypto
+        </a>
+    </summary>
+
+    - Patch: 1.31.1
+    - Version: [1.6.5]
+    - [Replay](./1.6/dps/13049-Crypto-1.36.0-1.6.14.w3g?raw=true)
+
+    ![](./1.6/dps/13049-Crypto-1.36.0-1.6.14.jpg?raw=true)
+    </details>
+
+9.  <details>
     <summary>12875 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -731,7 +745,7 @@ be in each category once.
     ![](1.6/dps/12875-FryDays-1.31.1-1.6.9.jpg?raw=true)
     </details>
 
-9.  <details>
+10. <details>
     <summary>12791 -
         <a href="https://discordapp.com/users/520945994519543808">
             Wolfilein
@@ -743,20 +757,6 @@ be in each category once.
     - [Replay](1.6/dps/12791-Wolfilein-1.31.1-1.6.7.w3g?raw=true)
 
     ![](1.6/dps/12791-Wolfilein-1.31.1-1.6.7.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>12699 -
-        <a href="https://discordapp.com/users/148133151678529536">
-            Buskmurvel
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.5]
-    - [Replay](1.6/dps/12699-Buskmurvel-1.31.1-1.6.5.w3g?raw=true)
-
-    ![](1.6/dps/12699-Buskmurvel-1.31.1-1.6.5.jpg?raw=true)
     </details>
 
 ### 1.6 No Maze
