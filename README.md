@@ -143,7 +143,7 @@ are closed as of 2019-06-01.
 
 - **[Time](#15-time).** Only games that complete Level 50 will be
   considered.
-- **[DPS](#15-dps).** Only games that complete Level 50 will
+- **[DPS](#15-dps).** Only games that complete Level 50 will be considered.
 
 ### Prizes
 
