@@ -590,6 +590,20 @@ be in each category once.
     </details>
 
 9.  <details>
+    <summary>27:02 -
+        <a href="https://discordapp.com/users/655592896027820053">
+            Crypto
+        </a>
+    </summary>
+
+    - Patch: 1.36.0
+    - Version: [1.6.14]
+    - [Replay](./1.6/time/27_02-Crypto-1.36.0-1.6.14.w3g?raw=true)
+
+    ![](./1.6/time/27_02-Crypto-1.36.0-1.6.14.jpg?raw=true)
+    </details>
+
+10. <details>
     <summary>27:17 -
         <a href="https://discordapp.com/users/209300944167501826">
             Amadeusz
@@ -601,20 +615,6 @@ be in each category once.
     - [Replay](./1.6/time/27_17-Amadeusz-1.32.10-1.6.13.w3g?raw=true)
 
     ![](./1.6/time/27_17-Amadeusz-1.32.10-1.6.13.jpg?raw=true)
-    </details>
-
-10. <details>
-    <summary>27:41 -
-        <a href="https://discordapp.com/users/171314221232029696">
-            Monkeynews
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.3]
-    - [Replay](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.w3g?raw=true)
-
-    ![](1.6/time/27_41-Monkeynews-1.31.1-1.6.3.jpg?raw=true)
     </details>
 
 ### 1.6 DPS
