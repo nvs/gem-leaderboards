@@ -724,8 +724,8 @@ be in each category once.
         </a>
     </summary>
 
-    - Patch: 1.31.1
-    - Version: [1.6.5]
+    - Patch: 1.36.0
+    - Version: [1.6.14]
     - [Replay](./1.6/dps/13049-Crypto-1.36.0-1.6.14.w3g?raw=true)
 
     ![](./1.6/dps/13049-Crypto-1.36.0-1.6.14.jpg?raw=true)
