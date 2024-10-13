@@ -763,6 +763,21 @@ in each category once.
     </details>
 
 09. <details>
+    <summary>12969 -
+        <a href="https://discordapp.com/users/697977991145455628">
+            Toothbrusher
+        </a>
+    </summary>
+
+    - Patch: 1.36.2
+    - Version: [1.6.14]
+    - [Replay](./1.6/dps/12969-Toothbrusher-1.36.2-1.6.14.w3g?raw=true)
+
+    ![](./1.6/dps/12969-Toothbrusher-1.36.2-1.6.14.jpg?raw=true)
+
+    </details>
+
+10. <details>
     <summary>12875 -
         <a href="https://discordapp.com/users/269810827706630146">
             FryDays
@@ -774,21 +789,6 @@ in each category once.
     - [Replay](1.6/dps/12875-FryDays-1.31.1-1.6.9.w3g?raw=true)
 
     ![](1.6/dps/12875-FryDays-1.31.1-1.6.9.jpg?raw=true)
-
-    </details>
-
-10. <details>
-    <summary>12791 -
-        <a href="https://discordapp.com/users/520945994519543808">
-            Wolfilein
-        </a>
-    </summary>
-
-    - Patch: 1.31.1
-    - Version: [1.6.7]
-    - [Replay](1.6/dps/12791-Wolfilein-1.31.1-1.6.7.w3g?raw=true)
-
-    ![](1.6/dps/12791-Wolfilein-1.31.1-1.6.7.jpg?raw=true)
 
     </details>
 
