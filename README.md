@@ -506,7 +506,7 @@ in each category once.
     </details>
 
 02. <details>
-    <summary>24:50 -
+    <summary>24:41 -
         <a href="https://discordapp.com/users/266230167276355594">
             HerrO
         </a>
