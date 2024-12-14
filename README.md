@@ -3,17 +3,18 @@
 ## Contents
 
 - [Overview](#overview)
-- [How to Submit](#how-to-submit)
-- [How to View](#how-to-view)
+- [Rules](#rules)
+- [Submission Guidelines](#submission-guidelines)
 - [Pre 1.5](#pre-15)
 - [1.5 Leaderboards](#15-leaderboards)
 - [1.6 Leaderboards](#16-leaderboards)
 
 ## Overview
 
-These are the leaderboards for [Gem TD+]. If you have a great game, make
-sure to share it with others! Encourage players you encounter to do the
-same. And, yes, you can play offline; just provide the needed information.
+These are the leaderboards for [Gem TD+](https://github.com/nvs/gem). If you
+have a great game, make sure to share it with others! Encourage players you
+encounter to do the same. And, yes, you can play offline; just provide the
+needed information.
 
 Do realize that this is not an exhaustive list of all the best games. Only
 those reported can be included, and as the competition grows steeper many do
@@ -22,72 +23,42 @@ of the leaderboards at a given moment in time.
 
 ## Rules
 
-1. Ensure you are playing on the latest Warcraft III patch. Games played on
-   older patches are not accepted.
-2. Ensure you are playing the [latest version] of the map. Games played on
-   older versions, testing versions, or unofficial versions are not
-   accepted.
+Please look over the following, to prepare yourself for competing on the
+**Gem TD+ Leaderboards**:
+
+1. Ensure you are playing on the latest Warcraft III patch.
+2. Ensure you are playing the latest version of the map. Check
+   https://github.com/nvs/gem/releases/latest to be sure.
 3. Do not rename the map. And ensure that the map is placed within the
    default directory for downloaded maps (i.e.
-   `Maps/Download/Gem TD Plus X.Y.Z.w3x`). The map location is recorded into
-   the replay, and non-default locations make it difficult for other users
-   to view replays. Hence, they may not be accepted.
+   `Maps/Download/Gem TD Plus X.Y.Z.w3x`). *The map location is recorded
+   into the replay, and non-default locations make it difficult/impossible
+   for others to view replays.*
 4. Ensure that you are following any leaderboard category specific rules.
-   These can change gameplay in ways that cannot be replicated exactly
-   otherwise.
 5. Be a good sport. Do not undertake any behavior that might undermine the
    competitive spirit of the leaderboards. If in doubt, ask.
 
-## How to Submit
+## Submission Guidelines
 
-1. Join the official [Gem TD+ Discord]. Your Discord account is used to
-   identify your submitted games. Games cannot be submitted on someone
-   else's behalf.
-2. Provide a [screenshot](#screenshot) **and** [replay](#replay) in the
-   Leaderboards `#submit` channel. A game will not be verified without a
-   replay. _Tip: Just drag them into the channel!_
-3. See if further information is needed for verification.
-4. Join the leaderboards, then try to make sure your name stays there!
+To participate on the **Gem TD+ Leaderboards** your **must** join the
+official [Gem TD+ Discord](https://discord.gg/PxNNp77). Your Discord account
+is used to identify your submitted games. Games cannot be submitted on
+someone else's behalf.
 
-### Screenshot
+For your submission to be considered you **must** provide both of the
+following when you hit that **New Post** button:
 
-Before leaving the game take a screenshot. If you forget, you can take one
-from within the replay. You can use whatever method you prefer, but using
-the `Print Screen` key to have Warcraft III create the screenshot is the
-most common.
+1. The **replay** for the game you are submitting. Yes, it can be provided
+   later if you forget. However, a submission without one will **not** be
+   considered.
+2. A **screenshot** of your result. Include the entire game window, the
+   expanded game board, and the map version in your screenshot. *If you do
+   not have a screenshot, you can get one by viewing your replay.* Editing
+   this in later will not provide a preview image for the post. If you skip
+   this step, you will be asked to repost.
 
-Include the game's entire window in the screenshot, and ensure that your
-maze, the expanded game board, and the map version are all visible.
-
-### Replay
-
-Upon leaving a game the option to save a replay should be available. If it
-is not, or you forget, check for `LastReplay.w3g`. Do note that this will be
-overwritten upon playing your next game. Also, consider the game option to
-automatically save replays for every game you play.
-
-## How to View
-
-A replay is tied to a specific version or versions of Warcraft III. This can
-either be a single patch or a range of patches. In order to view that
-replay, one must have access to an installation of Warcraft III that is
-patched accordingly.
-
-### Zoom
-
-Starting in Gem TD+ 1.5.3, the camera zoom used when viewing a replay
-defaults to `2500`. In older versions, this was not the case, and the camera
-would change due to the use of the `-zoom` command. If the camera in one of
-these older versions seems to be stuck, or you would prefer to return the
-camera to the default Warcraft III zoom of `1650`, press `Insert` or
-`Delete` briefly.
-
-### Map Location
-
-The location of the map used when playing the game is recorded into the
-replay. For most players, this will be a file in the following folder:
-`Maps/Download`. However, it could differ. In such situations, it may be
-necessary to place a copy of the map into another location to view a replay.
+Then just wait and see if any other information is needed to verify your
+submission! 💎
 
 ## Pre 1.5
 
@@ -131,29 +102,30 @@ best known **Damage Test** kills that have been verified.
 
 ## 1.5 Leaderboards
 
-The results here reflect the best **Damage Test** kills. These leaderboards
-are closed as of 2019-06-01.
+These leaderboards are closed.
 
 ### Categories
 
-- **[Time](#15-time).** Only games that complete Level 50 will be
+- **[Time](#15-time).** Only the displayed time upon completing Level 50 is
   considered.
-- **[DPS](#15-dps).** Only games that complete Level 50 will be considered.
+- **[DPS](#15-dps).** Only the displayed DPS upon completing Level 50 is
+  considered.
 
 ### Prizes
 
-- The **top player** in each category will be recognized as one of the Gem
-  TD+ Champions. They will receive this role on the Discord. They will also
-  randomly appear in place of bosses, with a model of their choosing. This
-  is purely cosmetic.
-- **Second and third place** in each category will randomly appear in place
-  of veteran units, with a model of their choosing. This is purely cosmetic.
-- All players recognized via the above will become Leveled on the Discord. A
-  critter/NPC will be added to the middle area to acknowledge their
-  achievement.
+- The **top player** in each category will be recognized as a **Gem TD+**
+  @Champion. They will also randomly appear in place of bosses, with a model
+  of their choosing. This is purely cosmetic.
+- **Second** and **third place** in each category will randomly appear in
+  place of veteran units, with a model of their choosing. This is purely
+  cosmetic. *Note that veterans units do not exist yet in the map.*
+- All players recognized via the above will become @Leveled on the Discord.
+  A critter/NPC will be added to the middle area to acknowledge their
+  achievement. *The method to display this may change in future versions of
+  the map.*
 
-_Note: [NVS] is excluded from the prizes. The reward extends to the next
-position as a result._
+*Note: [NVS](https://github.com/nvs) is excluded from the prizes. The reward
+extends to the next position as a result.*
 
 ### 1.5 Time
 
@@ -166,10 +138,10 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/time/29_46-Monkeynews-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/time/29_46-Monkeynews-1.30.4-1.5.4.w3g?raw=true)
     - [Video](https://www.youtube.com/watch?v=HG4u4zUayp4)
 
-    ![](1.5/time/29_46-Monkeynews-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/time/29_46-Monkeynews-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -182,9 +154,9 @@ position as a result._
 
     - Patch: 1.31.0
     - Version: [1.5.5]
-    - [Replay](1.5/time/30_58-NVS-1.31.0-1.5.5.w3g?raw=true)
+    - [Replay](./1.5/time/30_58-NVS-1.31.0-1.5.5.w3g?raw=true)
 
-    ![](1.5/time/30_58-NVS-1.31.0-1.5.5.jpg?raw=true)
+    ![](./1.5/time/30_58-NVS-1.31.0-1.5.5.jpg?raw=true)
 
     </details>
 
@@ -197,9 +169,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/time/32_18-Arsenic-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/time/32_18-Arsenic-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/time/32_18-Arsenic-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/time/32_18-Arsenic-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -212,9 +184,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/time/32_59-Gemking-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/time/32_59-Gemking-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/time/32_59-Gemking-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/time/32_59-Gemking-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -227,9 +199,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/time/33_37-makaronilaama-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/time/33_37-makaronilaama-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/time/33_37-makaronilaama-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/time/33_37-makaronilaama-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -242,9 +214,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/time/33_52-sac42c-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/time/33_52-sac42c-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/time/33_52-sac42c-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/time/33_52-sac42c-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -257,9 +229,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/time/34_30-KeeperDe-1.5.4-1.30.4.w3g?raw=true)
+    - [Replay](./1.5/time/34_30-KeeperDe-1.5.4-1.30.4.w3g?raw=true)
 
-    ![](1.5/time/34_30-KeeperDe-1.5.4-1.30.4.jpg?raw=true)
+    ![](./1.5/time/34_30-KeeperDe-1.5.4-1.30.4.jpg?raw=true)
 
     </details>
 
@@ -272,9 +244,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.3]
-    - [Replay](1.5/time/35_45-thongus-1.30.4-1.5.3.w3g?raw=true)
+    - [Replay](./1.5/time/35_45-thongus-1.30.4-1.5.3.w3g?raw=true)
 
-    ![](1.5/time/35_45-thongus-1.30.4-1.5.3.jpg?raw=true)
+    ![](./1.5/time/35_45-thongus-1.30.4-1.5.3.jpg?raw=true)
 
     </details>
 
@@ -287,9 +259,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.2]
-    - [Replay](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.w3g?raw=true)
+    - [Replay](./1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.w3g?raw=true)
 
-    ![](1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.jpg?raw=true)
+    ![](./1.5/time/35_52-xiVoiDz-1.30.4-1.5.2.jpg?raw=true)
 
     </details>
 
@@ -302,9 +274,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.2]
-    - [Replay](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.w3g?raw=true)
+    - [Replay](./1.5/time/36_04-Ltmeow-1.30.4-1.5.2.w3g?raw=true)
 
-    ![](1.5/time/36_04-Ltmeow-1.30.4-1.5.2.jpg?raw=true)
+    ![](./1.5/time/36_04-Ltmeow-1.30.4-1.5.2.jpg?raw=true)
 
     </details>
 
@@ -319,9 +291,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.3]
-    - [Replay](1.5/dps/25855-Wolfilein-1.30.4-1.5.3.w3g?raw=true)
+    - [Replay](./1.5/dps/25855-Wolfilein-1.30.4-1.5.3.w3g?raw=true)
 
-    ![](1.5/dps/25855-Wolfilein-1.30.4-1.5.3.jpg?raw=true)
+    ![](./1.5/dps/25855-Wolfilein-1.30.4-1.5.3.jpg?raw=true)
 
     </details>
 
@@ -334,9 +306,9 @@ position as a result._
 
     - Patch: 1.30.2
     - Version: [1.5.1]
-    - [Replay](1.5/dps/25838-NVS-1.30.2-1.5.1.w3g?raw=true)
+    - [Replay](./1.5/dps/25838-NVS-1.30.2-1.5.1.w3g?raw=true)
 
-    ![](1.5/dps/25838-NVS-1.30.2-1.5.1.jpg?raw=true)
+    ![](./1.5/dps/25838-NVS-1.30.2-1.5.1.jpg?raw=true)
 
     </details>
 
@@ -349,9 +321,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/dps/25075-Ni4nMa-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/dps/25075-Ni4nMa-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/dps/25075-Ni4nMa-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/dps/25075-Ni4nMa-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -364,9 +336,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/dps/24829-Porposmonon-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/dps/24829-Porposmonon-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/dps/24829-Porposmonon-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/dps/24829-Porposmonon-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -379,9 +351,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/dps/24329-makaronilaama-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/dps/24329-makaronilaama-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/dps/24329-makaronilaama-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/dps/24329-makaronilaama-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -394,9 +366,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/dps/23190-Gemking-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/dps/23190-Gemking-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/dps/23190-Gemking-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/dps/23190-Gemking-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -409,9 +381,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/dps/22695-thongus-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/dps/22695-thongus-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/dps/22695-thongus-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/dps/22695-thongus-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -424,9 +396,9 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.4]
-    - [Replay](1.5/dps/21751-Arsenic-1.30.4-1.5.4.w3g?raw=true)
+    - [Replay](./1.5/dps/21751-Arsenic-1.30.4-1.5.4.w3g?raw=true)
 
-    ![](1.5/dps/21751-Arsenic-1.30.4-1.5.4.jpg?raw=true)
+    ![](./1.5/dps/21751-Arsenic-1.30.4-1.5.4.jpg?raw=true)
 
     </details>
 
@@ -439,9 +411,9 @@ position as a result._
 
     - Patch: 1.30.2
     - Version: [1.5.1]
-    - [Replay](1.5/dps/21571-Ludicrous-1.30.2-1.5.1.w3g?raw=true)
+    - [Replay](./1.5/dps/21571-Ludicrous-1.30.2-1.5.1.w3g?raw=true)
 
-    ![](1.5/dps/21571-Ludicrous-1.30.2-1.5.1.jpg?raw=true)
+    ![](./1.5/dps/21571-Ludicrous-1.30.2-1.5.1.jpg?raw=true)
 
     </details>
 
@@ -454,18 +426,20 @@ position as a result._
 
     - Patch: 1.30.4
     - Version: [1.5.3]
-    - [Replay](1.5/dps/21443-V_RGO-1.30.4-1.5.3.w3g?raw=true)
+    - [Replay](./1.5/dps/21443-V_RGO-1.30.4-1.5.3.w3g?raw=true)
 
-    ![](1.5/dps/21443-V_RGO-1.30.4-1.5.3.jpg?raw=true)
+    ![](./1.5/dps/21443-V_RGO-1.30.4-1.5.3.jpg?raw=true)
 
     </details>
 
 ## 1.6 Leaderboards
 
-These leaderboards are open. They will remain open until the 1.7 release
-draws near. A one month warning will be issued on the Discord before they
-close. Each category will contain a maximum of ten players. A player can be
-in each category once.
+These leaderboards are open.
+
+The Gem TD+ 1.6 Leaderboards will remain open until the release of 1.7 draws
+near. There will be a one month warning before they close. Each category
+will contain a maximum of ten players. A player can be in each category
+once.
 
 ### Categories
 
@@ -473,20 +447,21 @@ in each category once.
   will be considered.
 - **[DPS](#16-dps).** Only the displayed DPS upon completing Level 50 wil be
   considered.
-- **[No Maze](#16-no-maze).** Only games that use `-maze` to disable mazing
-  will be considered.
+- **[No Maze](#16-no-maze).** Only games where -maze has been used to
+  disable mazing will be considered.
 
 ### Prizes
 
-- The **top player** in each category will be recognized as one of the Gem
-  TD+ Champions. They will receive this role on the Discord. They will also
-  randomly appear in place of bosses, with a model of their choosing. This
-  is purely cosmetic.
-- **Second and third place** in each category will randomly appear in place
-  of veteran units, with a model of their choosing. This is purely cosmetic.
-- All players recognized via the above will become Leveled on the Discord. A
-  critter/NPC will be added to the middle area to acknowledge their
-  achievement.
+- The **top player** in each category will be recognized as a **Gem TD+**
+  @Champion. They will also randomly appear in place of bosses, with a model
+  of their choosing. This is purely cosmetic.
+- **Second** and **third place** in each category will randomly appear in
+  place of veteran units, with a model of their choosing. This is purely
+  cosmetic. *Note that veterans units do not exist yet in the map.*
+- All players recognized via the above will become @Leveled on the Discord.
+  A critter/NPC will be added to the middle area to acknowledge their
+  achievement. *The method to display this may change in future versions of
+  the map.*
 
 ### 1.6 Time
 
@@ -544,9 +519,9 @@ in each category once.
 
     - Patch: 1.32.9
     - Version: [1.6.13]
-    - [Replay](1.6/time/25_02-Buskmurvel-1.32.9-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/time/25_02-Buskmurvel-1.32.9-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/25_02-Buskmurvel-1.32.9-1.6.13.jpg?raw=true)
+    ![](./1.6/time/25_02-Buskmurvel-1.32.9-1.6.13.jpg?raw=true)
 
     </details>
 
@@ -559,9 +534,9 @@ in each category once.
 
     - Patch: 1.32.8
     - Version: [1.6.13]
-    - [Replay](1.6/time/25_12-Sesamia-1.32.8-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/time/25_12-Sesamia-1.32.8-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/25_12-Sesamia-1.32.8-1.6.13.jpg?raw=true)
+    ![](./1.6/time/25_12-Sesamia-1.32.8-1.6.13.jpg?raw=true)
 
     </details>
 
@@ -604,9 +579,9 @@ in each category once.
 
     - Patch: 1.32.9
     - Version: [1.6.13]
-    - [Replay](1.6/time/26_47-Sleek-1.32.9-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/time/26_47-Sleek-1.32.9-1.6.13.w3g?raw=true)
 
-    ![](1.6/time/26_47-Sleek-1.32.9-1.6.13.jpg?raw=true)
+    ![](./1.6/time/26_47-Sleek-1.32.9-1.6.13.jpg?raw=true)
 
     </details>
 
@@ -711,9 +686,9 @@ in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.6]
-    - [Replay](1.6/dps/14427-Sesamia-1.31.1-1.6.6.w3g?raw=true)
+    - [Replay](./1.6/dps/14427-Sesamia-1.31.1-1.6.6.w3g?raw=true)
 
-    ![](1.6/dps/14427-Sesamia-1.31.1-1.6.6.jpg?raw=true)
+    ![](./1.6/dps/14427-Sesamia-1.31.1-1.6.6.jpg?raw=true)
 
     </details>
 
@@ -726,9 +701,9 @@ in each category once.
 
     - Patch: 1.32.9
     - Version: [1.6.13]
-    - [Replay](1.6/dps/13379-Itlum-1.32.9-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/dps/13379-Itlum-1.32.9-1.6.13.w3g?raw=true)
 
-    ![](1.6/dps/13379-Itlum-1.32.9-1.6.13.jpg?raw=true)
+    ![](./1.6/dps/13379-Itlum-1.32.9-1.6.13.jpg?raw=true)
 
     </details>
 
@@ -741,9 +716,9 @@ in each category once.
 
     - Patch: 1.32.9
     - Version: [1.6.13]
-    - [Replay](1.6/dps/13217-Vast-1.32.9-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/dps/13217-Vast-1.32.9-1.6.13.w3g?raw=true)
 
-    ![](1.6/dps/13217-Vast-1.32.9-1.6.13.jpg?raw=true)
+    ![](./1.6/dps/13217-Vast-1.32.9-1.6.13.jpg?raw=true)
 
     </details>
 
@@ -786,9 +761,9 @@ in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.9]
-    - [Replay](1.6/dps/12875-FryDays-1.31.1-1.6.9.w3g?raw=true)
+    - [Replay](./1.6/dps/12875-FryDays-1.31.1-1.6.9.w3g?raw=true)
 
-    ![](1.6/dps/12875-FryDays-1.31.1-1.6.9.jpg?raw=true)
+    ![](./1.6/dps/12875-FryDays-1.31.1-1.6.9.jpg?raw=true)
 
     </details>
 
@@ -818,9 +793,9 @@ in each category once.
 
     - Patch: 1.32.7
     - Version: [1.6.13]
-    - [Replay](1.6/no-maze/41_222025-EvilObiWan-1.32.7-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/no-maze/41_222025-EvilObiWan-1.32.7-1.6.13.w3g?raw=true)
 
-    ![](1.6/no-maze/41_222025-EvilObiWan-1.32.7-1.6.13.jpg?raw=true)
+    ![](./1.6/no-maze/41_222025-EvilObiWan-1.32.7-1.6.13.jpg?raw=true)
 
     </details>
 
@@ -833,9 +808,9 @@ in each category once.
 
     - Patch: 1.32.5
     - Version: [1.6.13]
-    - [Replay](1.6/no-maze/41_214567-TheVolatile-1.32.5-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/no-maze/41_214567-TheVolatile-1.32.5-1.6.13.w3g?raw=true)
 
-    ![](1.6/no-maze/41_214567-TheVolatile-1.32.5-1.6.13.jpg?raw=true)
+    ![](./1.6/no-maze/41_214567-TheVolatile-1.32.5-1.6.13.jpg?raw=true)
 
     </details>
 
@@ -848,9 +823,9 @@ in each category once.
 
     - Patch: 1.32.7
     - Version: [1.6.13]
-    - [Replay](1.6/no-maze/38_229145-Sleek-1.32.7-1.6.13.w3g?raw=true)
+    - [Replay](./1.6/no-maze/38_229145-Sleek-1.32.7-1.6.13.w3g?raw=true)
 
-    ![](1.6/no-maze/38_229145-Sleek-1.32.7-1.6.13.jpg?raw=true)
+    ![](./1.6/no-maze/38_229145-Sleek-1.32.7-1.6.13.jpg?raw=true)
 
     </details>
 
@@ -863,9 +838,9 @@ in each category once.
 
     - Patch: 1.32.2
     - Version: [1.6.10]
-    - [Replay](1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.w3g?raw=true)
+    - [Replay](./1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.w3g?raw=true)
 
-    ![](1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.jpg?raw=true)
+    ![](./1.6/no-maze/38_219933-Faqar-1.32.2-1.6.10.jpg?raw=true)
 
     </details>
 
@@ -878,9 +853,9 @@ in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.5]
-    - [Replay](1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
+    - [Replay](./1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.w3g?raw=true)
 
-    ![](1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
+    ![](./1.6/no-maze/38_189384-Redkeekee-1.31.1-1.6.5.jpg?raw=true)
 
     </details>
 
@@ -908,9 +883,9 @@ in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.7]
-    - [Replay](1.6/no-maze/35_157953-Sesamia-1.31.1-1.6.7.w3g?raw=true)
+    - [Replay](./1.6/no-maze/35_157953-Sesamia-1.31.1-1.6.7.w3g?raw=true)
 
-    ![](1.6/no-maze/35_157953-Sesamia-1.31.1-1.6.7.jpg?raw=true)
+    ![](./1.6/no-maze/35_157953-Sesamia-1.31.1-1.6.7.jpg?raw=true)
 
     </details>
 
@@ -923,9 +898,9 @@ in each category once.
 
     - Patch: 1.31.1
     - Version: [1.6.9]
-    - [Replay](1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.w3g?raw=true)
+    - [Replay](./1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.w3g?raw=true)
 
-    ![](1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.jpg?raw=true)
+    ![](./1.6/no-maze/34_156133-GenoHacker-1.31.1-1.6.9.jpg?raw=true)
 
     </details>
 
@@ -957,7 +932,3 @@ in each category once.
 [1.6.6]: https://github.com/nvs/gem/releases/tag/v1.6.6
 [1.6.7]: https://github.com/nvs/gem/releases/tag/v1.6.7
 [1.6.9]: https://github.com/nvs/gem/releases/tag/v1.6.9
-[gem td+]: https://github.com/nvs/gem
-[gem td+ discord]: https://discord.gg/PxNNp77
-[latest version]: https://github.com/nvs/gem/releases/latest
-[nvs]: https://github.com/nvs
