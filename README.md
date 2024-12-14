@@ -506,6 +506,21 @@ in each category once.
     </details>
 
 02. <details>
+    <summary>24:50 -
+        <a href="https://discordapp.com/users/266230167276355594">
+            HerrO
+        </a>
+    </summary>
+
+    - Patch: 2.0.0
+    - Version: [1.6.14]
+    - [Replay](./1.6/time/24_41-HerrO-2.0.0-1.6.14.w3g?raw=true)
+
+    ![](./1.6/time/24_41-HerrO-2.0.0-1.6.14.jpg?raw=true)
+
+    </details>
+
+03. <details>
     <summary>24:44 -
         <a href="https://discordapp.com/users/444461680349413386">
             Closed
@@ -517,21 +532,6 @@ in each category once.
     - [Replay](./1.6/time/24_44-Closed-1.32.10-1.6.13.w3g?raw=true)
 
     ![](./1.6/time/24_44-Closed-1.32.10-1.6.13.jpg?raw=true)
-
-    </details>
-
-03. <details>
-    <summary>24:50 -
-        <a href="https://discordapp.com/users/266230167276355594">
-            HerrO
-        </a>
-    </summary>
-
-    - Patch: 1.35.0
-    - Version: [1.6.13]
-    - [Replay](./1.6/time/24_50-HerrO-1.35.0-1.6.13.w3g?raw=true)
-
-    ![](./1.6/time/24_50-HerrO-1.35.0-1.6.13.jpg?raw=true)
 
     </details>
 
