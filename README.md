@@ -688,17 +688,17 @@ in each category once.
     </details>
 
 04. <details>
-    <summary>14909 -
+    <summary>15236 -
         <a href="https://discordapp.com/users/266230167276355594">
             HerrO
         </a>
     </summary>
 
-    - Patch: 1.32.10
-    - Version: [1.6.13]
-    - [Replay](./1.6/dps/14909-HerrO-1.32.10-1.6.13.w3g?raw=true)
+    - Patch: 2.0.0
+    - Version: [1.6.14]
+    - [Replay](./1.6/dps/15236-HerrO-2.0.0-1.6.14.w3g?raw=true)
 
-    ![](./1.6/dps/14909-HerrO-1.32.10-1.6.13.jpg?raw=true)
+    ![](./1.6/dps/15236-HerrO-2.0.0-1.6.14.jpg?raw=true)
 
     </details>
 
