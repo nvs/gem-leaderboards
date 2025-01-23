@@ -739,7 +739,7 @@ once.
 
 09. <details>
     <summary>12999 -
-        <a href="https://discordapp.com/users/170368451683155968")
+        <a href="https://discordapp.com/users/170368451683155968">
             Nauseatic
         </a>
     </summary>
