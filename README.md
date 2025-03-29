@@ -684,11 +684,11 @@ once.
         </a>
     </summary>
 
-    - Patch: 1.31.1
-    - Version: [1.6.6]
+    - Patch: 2.0.1
+    - Version: [1.6.14]
     - [Replay](./1.6/dps/14758-Sesamia-2.0.1-1.6.14.w3g?raw=true)
 
-    ![](./1.6/dps/14758-Sesamia-1.31.1-1.6.6.jpg?raw=true)
+    ![](./1.6/dps/14758-Sesamia-2.0.1-1.6.14.png?raw=true)
 
     </details>
 
@@ -929,6 +929,5 @@ once.
 [1.6.13]: https://github.com/nvs/gem/releases/tag/v1.6.13
 [1.6.14]: https://github.com/nvs/gem/releases/tag/v1.6.14
 [1.6.5]: https://github.com/nvs/gem/releases/tag/v1.6.5
-[1.6.6]: https://github.com/nvs/gem/releases/tag/v1.6.6
 [1.6.7]: https://github.com/nvs/gem/releases/tag/v1.6.7
 [1.6.9]: https://github.com/nvs/gem/releases/tag/v1.6.9
