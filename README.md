@@ -27,8 +27,8 @@ Please look over the following, to prepare yourself for competing on the
 **Gem TD+ Leaderboards**:
 
 1. Ensure you are playing on the latest Warcraft III patch.
-2. Ensure you are playing the latest version of the map. Check
-   https://github.com/nvs/gem/releases/latest to be sure.
+2. Ensure you are playing the
+   [latest version of the map](https://github.com/nvs/gem/releases/latest).
 3. Do not rename the map. And ensure that the map is placed within the
    default directory for downloaded maps (i.e.
    `Maps/Download/Gem TD Plus X.Y.Z.w3x`). *The map location is recorded
