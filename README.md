@@ -708,6 +708,21 @@ once.
     </details>
 
 07. <details>
+    <summary>13261 -
+        <a href="https://discordapp.com/users/293351947874861057">
+            Pixielate
+        </a>
+    </summary>
+
+    - Patch: 2.0.2
+    - Version: [1.6.14]
+    - [Replay](./1.6/dps/13261-Pixielate-2.0.2-1.6.14.w3g?raw=true)
+
+    ![](./1.6/dps/13261-Pixielate-2.0.2-1.6.14.jpg?raw=true)
+
+    </details>
+
+08. <details>
     <summary>13217 -
         <a href="https://discordapp.com/users/148992009057730560">
             Vast
@@ -722,7 +737,7 @@ once.
 
     </details>
 
-08. <details>
+09. <details>
     <summary>13049 -
         <a href="https://discordapp.com/users/655592896027820053">
             Crypto
@@ -737,7 +752,7 @@ once.
 
     </details>
 
-09. <details>
+10. <details>
     <summary>12999 -
         <a href="https://discordapp.com/users/170368451683155968">
             Nauseatic
@@ -749,21 +764,6 @@ once.
     - [Replay](./1.6/dps/12999-Nauseatic-2.0.1-1.6.14.w3g?raw=true)
 
     ![](./1.6/dps/12999-Nauseatic-2.0.1-1.6.14.png?raw=true)
-
-    </details>
-
-10. <details>
-    <summary>12969 -
-        <a href="https://discordapp.com/users/697977991145455628">
-            Toothbrusher
-        </a>
-    </summary>
-
-    - Patch: 1.36.2
-    - Version: [1.6.14]
-    - [Replay](./1.6/dps/12969-Toothbrusher-1.36.2-1.6.14.w3g?raw=true)
-
-    ![](./1.6/dps/12969-Toothbrusher-1.36.2-1.6.14.jpg?raw=true)
 
     </details>
 
