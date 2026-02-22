@@ -586,6 +586,21 @@ once.
     </details>
 
 09. <details>
+    <summary>26:48 -
+        <a href="https://discordapp.com/users/383670054861930497">
+            XPlay
+        </a>
+    </summary>
+
+    - Patch: 2.0.4
+    - Version: [1.6.14]
+    - [Replay](./1.6/time/26_48-XPlay-2.0.4-1.6.14.w3g?raw=true)
+
+    ![](./1.6/time/26_48-XPlay-2.0.4-1.6.14.png?raw=true)
+
+    </details>
+
+10. <details>
     <summary>27:01 -
         <a href="https://discordapp.com/users/697977991145455628">
             Toothbrusher
@@ -597,21 +612,6 @@ once.
     - [Replay](./1.6/time/27_01-Toothbrusher-1.36.2-1.6.14.w3g?raw=true)
 
     ![](./1.6/time/27_01-Toothbrusher-1.36.2-1.6.14.jpg?raw=true)
-
-    </details>
-
-10. <details>
-    <summary>27:02 -
-        <a href="https://discordapp.com/users/655592896027820053">
-            Crypto
-        </a>
-    </summary>
-
-    - Patch: 1.36.0
-    - Version: [1.6.14]
-    - [Replay](./1.6/time/27_02-Crypto-1.36.0-1.6.14.w3g?raw=true)
-
-    ![](./1.6/time/27_02-Crypto-1.36.0-1.6.14.jpg?raw=true)
 
     </details>
 
